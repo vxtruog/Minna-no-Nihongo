@@ -36,3 +36,5 @@ he -> pe
 ho -> po
 ```
 
+# 2. Âm ghép
+- Cột i (ngoại trừ i) kết hợp với hàng ya

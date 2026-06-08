@@ -98,3 +98,8 @@ pi + yo -> pyo
 - Trường âm của cột e là âm e và âm i
 - Trường âm của cột o là âm o và âm u
 ```
+
+# 5. Âm [un]
+- Phát âm thành [m] khi đứng trước b, p, m
+- Phát âm thành [ng] khi đứng trước g, k và khi đứng cuối từ (đặc biệt là sau âm [a] và âm [o])
+- Còn lại phát âm thành [n]

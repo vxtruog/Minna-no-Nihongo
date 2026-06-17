@@ -22,7 +22,7 @@
 ## 6. Bộ Thủy
 ```
 水      : nước
-氵(biến thể của bộ thủy)
+氵      : (biến thể của bộ Thủy)
 ```
 ## 7. Bộ Phiệt
 ```
@@ -41,4 +41,45 @@
 ## 10. Bộ Quyết
 ```
 亅      : nét sổ móc
+```
+## 11. Bộ Thập
+```
+十      : số 10
+```
+## 12. Bộ Bốc
+```
+卜      : xem bói
+```
+## 13. Bộ Công
+```
+工      : người thợ, công việc
+```
+## 14. Bộ Can
+```
+干      : Thiên Can, can dự
+```
+## 15. Bộ Thổ
+```
+土      : đất
+```
+## 16. Bộ Sĩ
+```
+士      : kẻ sĩ
+```
+## 17. Bộ Mịch
+```
+冖      : trùm khăn lên
+```
+## 18. Bộ Miên
+```
+宀      : mái nhà, mái che
+```
+## 19. Bộ Nhân
+```
+人      : người
+亻      : (biến thể của bộ Nhân)
+```
+## 20. Bộ Nhập
+```
+入      : vào
 ```

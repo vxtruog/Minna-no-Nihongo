@@ -266,3 +266,44 @@
 ```
 无      : không
 ```
+## 61. Bộ Hán
+```
+厂      : sườn núi, vách đá
+```
+## 62. Bộ Nghiễm
+```
+广      : mái nhà (ở vách núi)
+```
+## 63. Bộ Nữ
+```
+女      : nữ giới, đàn bà
+```
+## 64. Bộ Tử
+```
+子      : con trai
+```
+## 65. Bộ Tiết
+```
+卩      : đốt tre
+㔾      : (biến thể của bộ Tiết)
+```
+## 66. Bộ Thốn
+```
+寸      : đơn vị "tấc" đo chiều dài
+```
+## 67. Bộ Cẩn
+```
+斤      : cái búa, rìu
+```
+## 68. Bộ Hựu
+```
+又      : lại nữa, một lần nữa
+```
+## 69. Bộ Trĩ
+```
+夂      : đến ở phía sau
+```
+## 70. Bộ Tuy
+```
+夊      : đi chậm
+```

@@ -307,3 +307,44 @@
 ```
 夊      : đi chậm
 ```
+## 71. Bộ Phụ
+```
+父      : cha
+```
+## 72. Bộ Hào
+```
+爻      : đường âm dương dùng để lập quẻ trong Kinh Dịch
+```
+## 73. Bộ Tư
+```
+厶      : riêng tư
+```
+## 74. Bộ Tịch
+```
+夕      : đêm tối
+```
+## 75. Bộ Xuyên
+```
+巛      : sông ngòi
+川      : (biến thể của bộ Xuyên)
+```
+## 76. Bộ Sam
+```
+彡      : lông, tóc dài
+```
+## 77. Bộ Kệ
+```
+彐      : đầu con nhím
+```
+## 78. Bộ Kỷ
+```
+己      : bản thân mình
+```
+## 79. Bộ Cung
+```
+弓      : cái cung
+```
+## 80. Bộ Dẫn
+```
+廴      : bước dài
+```

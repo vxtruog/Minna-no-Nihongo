@@ -348,3 +348,41 @@
 ```
 廴      : bước dài
 ```
+## 81. Bộ Sước
+```
+辵      : chợt bước đi, chợt dừng lại
+辶      : (biến thể của bộ Sước)
+```
+## 82. Bộ Củng
+```
+廾      : chắp tay
+```
+## 83. Bộ Thảo
+```
+艸      : cỏ
+艹      : (biến thể của bộ Thảo)
+```
+## 84. Bộ Yêu
+```
+幺      : nhỏ nhắn
+```
+## 85. Bộ Huyền
+```
+玄      : huyền bí
+```
+## 86. Bộ Mịch
+```
+糸      : sợi tơ nhỏ
+```
+## 87. Bộ Dặc
+```
+弋      : bắn, chiếm lấy
+```
+## 88. Bộ Qua
+```
+戈      : cây qua, binh khí dài
+```
+## 89. Bộ Thi
+```
+尸      : xác chết, thây ma
+```

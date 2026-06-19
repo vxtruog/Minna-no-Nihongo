@@ -37,7 +37,7 @@
 ～ちゃん　　　：hậu tố thêm vào phía sau tên của trẻ em
 ～くん　　　　：hậu tố thêm vào phía sau tên của bé trai
 ～じん　　　　：hậu tố thêm vào phía sau, mang nghĩa là người
-～さい　　　　：_ tuổi
+～さい　　　　：___ tuổi
 
 いち　　　　　：số 1
 に　　　　　　：số 2
@@ -61,6 +61,15 @@
 きゅうさい　　：9 tuổi
 じゅっさい　　：10 tuổi (có biến âm)
 はたち　　　　：20 tuổi (trường hợp đặc biệt)
+
+これ              : cái này (ở gần người nói)
+それ              : cái đó (ở gần người nghe)
+あれ              : cái kia (ở xa cả người nói và người nghe)
+この　+ N         : ___ này
+その　+ N         : ___ đó
+あの　+ N         : ___ kia
+
+～ご             ：tiếng ___
 ```
 # 2. Từ để hỏi
 ```
@@ -68,6 +77,7 @@
 どなた　　　　：vị nào (lịch sự hơn だれ)
 なんさい　　　：bao nhiêu tuổi
 おいくつ　　　：bao nhiêu tuổi (lịch sự hơn なんさい)
+なん         ：gì, cái gì
 ```
 # 3. Câu giao tiếp
 ```
@@ -77,6 +87,7 @@
 
 はい　　　　　：vâng, dạ
 いいえ　　　　：không
+そう         ：đúng vậy (khi trả lời đối với danh từ)
 
 はじめまして　　　　　　　　　　　　：rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp
 どうぞ　よろしく　[おねがいします]　：rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình
@@ -86,53 +97,6 @@
 おなまえは　　                    ：tên anh/chị là gì?
 あなたは                          :thế còn bạn?
 Aさんは                           :thế còn A thì sao?
-```
-# 2. ごい
-```
-これ                : cái này (ở gần người nói)
-それ                : cái đó (ở gần người nghe)
-あれ                : cái kia (ở xa cả người nói và người nghe)
-この　+ N           : ___ này
-その　+ N           : ___ đó
-あの　+ N           : ___ kia
-
-ほん                ：sách
-じしょ              ：từ điển
-ざっし              ：tạp chí
-しんぶん            ：báo
-ノート              ：vở
-てちょう            ：sổ tay
-めいし              ：danh thiếp
-カード              ：thẻ, các, cạc
-
-えんぴつ            ：bút chì
-ボールペン          ：bút bi
-シャープペン        ：bút chì kim
-かぎ               ：chìa khóa
-とけい             ：đồng hồ
-かさ               ：ô, dù
-かばん             ：cặp sách, túi sách
-
-CD                 : đĩa CD
-テレビ             ：tivi
-ラジオ             ：radio
-カメラ             ：máy ảnh
-コンピューター      ：máy vi tính
-くるま             ：ô tô, xe hơi
-じどうしゃ         ：xe hơi (lịch sự hơn くるま)
-つくえ            ：cái bàn
-いす              ：cái ghế
-
-チョコレート       ：sôcôla
-コーヒー           ：cà phê
-おみやげ           ：quà (mua khi đi xa về hoặc mang đi thăm nhà người nào đó)
-
-～ご               ：tiếng ___
-えいご             ：tiếng Anh
-にほんご           ：tiếng Nhật
-
-なん               ：gì, cái gì
-そう               ：đúng vậy (khi trả lời đối với danh từ)
 
 あのう                           ：à, ờ... (dùng để biểu thị sự ngại ngùng, do dự)
 えっ                             ：hả? (dùng khi nghe một điều gì không mong muốn)
@@ -145,7 +109,6 @@ CD                 : đĩa CD
 これから　おせわに　なります。                  ：Từ nay tôi rất mong được sự giúp đỡ của anh chị.
 こちらこそ　どうぞ　よろしく　おねがいします。    ：Chính tôi mới là người mong được sự giúp đỡ của anh chị.
 ```
-
 # 1. Biến âm
 - ka, sa, ta, ha + ``
 ```

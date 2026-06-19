@@ -24,7 +24,7 @@
 ワ　　　　　　　ヲ　ン
 ```
 
-# 1. Chủ ngữ và những hậu tố
+# 1. Từ vựng
 ```
 わたし　　　　：tôi
 わたしたち    :chúng tôi
@@ -38,19 +38,6 @@
 ～くん　　　　：hậu tố thêm vào phía sau tên của bé trai
 ～じん　　　　：hậu tố thêm vào phía sau, mang nghĩa là người
 ～さい　　　　：_ tuổi
-
-せんせい　　　：thầy/cô (xưng hô)
-きょうし　　　：giáo viên (giới thiệu nghề nghiệp)
-がくせい　　　：học sinh, sinh viên
-かいしゃいん　：nhân viên công ty (giới thiệu nghề nghiệp một cách chung chung)
-しゃいん　　　：nhân viên công ty (dùng kèm theo công ty)
-ぎんこういん　：nhân viên ngân hàng
-いしゃ　　　　：bác sĩ
-けんきゅうしゃ: nhà nghiên cứu
-エンジニア　　：kỹ sư
-
-だいがく　　　：trường đại học
-びょういん　　：bệnh viện
 
 いち　　　　　：số 1
 に　　　　　　：số 2
@@ -74,20 +61,6 @@
 きゅうさい　　：9 tuổi
 じゅっさい　　：10 tuổi (có biến âm)
 はたち　　　　：20 tuổi (trường hợp đặc biệt)
-
-
-
-アメリカ　　　：nước Mỹ
-イギリス　　　：nước Anh
-インド　　　　：nước Ấn Độ
-インドネシア　：nước Indonesia
-かんこく　　　：nước Hàn Quốc
-タイ　　　　　：nước Thái Lan
-ちゅうごく　　：nước Trung Quốc
-ドイツ　　　　：nước Đức
-にほん　　　　：nước Nhật Bản
-ブラジル　　　：nước Brazil
-ベトナム　　　：nước Việt Nam
 ```
 # 2. Từ để hỏi
 ```
@@ -104,6 +77,7 @@
 
 はい　　　　　：vâng, dạ
 いいえ　　　　：không
+
 はじめまして　　　　　　　　　　　　：rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp
 どうぞ　よろしく　[おねがいします]　：rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình
 ～から　きました　　　　　　　　　　：tôi đến từ _

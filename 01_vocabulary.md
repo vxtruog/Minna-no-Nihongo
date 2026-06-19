@@ -24,10 +24,10 @@
 ワ　　　　　　　ヲ　ン
 ```
 
-# 1. ごい
+# 1. Chủ ngữ và những hậu tố
 ```
 わたし　　　　：tôi
-わたしたち　　；chúng tôi
+わたしたち    :chúng tôi
 あなた　　　　：bạn
 あのひと　　　：người kia
 あのかた　　　：vị kia (lịch sự hơn あのひと)
@@ -37,6 +37,7 @@
 ～ちゃん　　　：hậu tố thêm vào phía sau tên của trẻ em
 ～くん　　　　：hậu tố thêm vào phía sau tên của bé trai
 ～じん　　　　：hậu tố thêm vào phía sau, mang nghĩa là người
+～さい　　　　：_ tuổi
 
 せんせい　　　：thầy/cô (xưng hô)
 きょうし　　　：giáo viên (giới thiệu nghề nghiệp)
@@ -51,12 +52,6 @@
 だいがく　　　：trường đại học
 びょういん　　：bệnh viện
 
-だれ　　　　　：ai
-どなた　　　　：vị nào (lịch sự hơn だれ)
-おなまえは　　：tên anh/chị là gì
-なんさい　　　：bao nhiêu tuổi
-おいくつ　　　：bao nhiêu tuổi (lịch sự hơn なんさい)
-
 いち　　　　　：số 1
 に　　　　　　：số 2
 さん　　　　　：số 3
@@ -68,7 +63,6 @@
 きゅう／く　　：số 9
 じゅう　　　　：số 10
 
-～さい　　　　：_ tuổi
 いっさい　　　：1 tuổi (có biến âm)
 にさい　　　　：2 tuổi
 さんさい　　　：3 tuổi
@@ -81,17 +75,6 @@
 じゅっさい　　：10 tuổi (có biến âm)
 はたち　　　　：20 tuổi (trường hợp đặc biệt)
 
-こんにちは。          ：Xin chào (hoặc là chào buổi chiều)
-おはよう　ございます。 ：chào buổi sáng
-こんばんは。          ：chào buổi tối
-
-はい　　　　　：vâng, dạ
-いいえ　　　　：không
-はじめまして　　　　　　　　　　　　：rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp
-どうぞ　よろしく　[おねがいします]　：rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình
-～から　きました　　　　　　　　　　：tôi đến từ _
-こちらは　～さんです　　　　　　　　：đây là _
-しつれいですが　　　　　　　　　　　：xin lỗi vì đã hỏi, ...
 
 
 アメリカ　　　：nước Mỹ
@@ -106,6 +89,29 @@
 ブラジル　　　：nước Brazil
 ベトナム　　　：nước Việt Nam
 ```
+# 2. Từ để hỏi
+```
+だれ　　　　　：ai
+どなた　　　　：vị nào (lịch sự hơn だれ)
+なんさい　　　：bao nhiêu tuổi
+おいくつ　　　：bao nhiêu tuổi (lịch sự hơn なんさい)
+```
+# 3. Câu giao tiếp
+```
+こんにちは。          ：Xin chào (hoặc là chào buổi chiều)
+おはよう　ございます。 ：chào buổi sáng
+こんばんは。          ：chào buổi tối
+
+はい　　　　　：vâng, dạ
+いいえ　　　　：không
+はじめまして　　　　　　　　　　　　：rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp
+どうぞ　よろしく　[おねがいします]　：rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình
+～から　きました　　　　　　　　　　：tôi đến từ _
+こちらは　～さんです　　　　　　　　：đây là _
+しつれいですが　　　　　　　　　　　：xin lỗi vì đã hỏi, ...
+おなまえは　　                    ：tên anh/chị là gì?
+```
+
 # 1. ぶんぽう
 ## Câu có vị ngữ là danh từ
 (Câu khẳng định): S + __は__ + N + __です__。

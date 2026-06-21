@@ -89,6 +89,7 @@
 |なん|-|gì, cái gì|
 |どこ|-|chỗ nào, ở đâu|
 |どちら|-|phía nào, đằng nào (cách nói lịch sự của どこ)|
+|いくら|-|bao nhiêu tiền|
 
 # 3. Câu giao tiếp
 ```

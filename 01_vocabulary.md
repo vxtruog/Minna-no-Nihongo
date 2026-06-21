@@ -69,7 +69,15 @@
 その　+ N         : ___ đó
 あの　+ N         : ___ kia
 
-～ご             ：tiếng ___
+～ご             ：tiếng/ngôn ngữ ___
+
+ここ              : chỗ này, đằng này
+そこ              : chỗ đó
+あそこ            : chỗ kia, đằng kia
+こちら            ：phía này, đằng này (cách nói lịch sự của ここ)
+そちら            ：phía đó, đằng đó (cách nói lịch sự của そこ)
+あちら            ：phía kia, đằng kia (cách nói lịch sự của あそこ)
+
 ```
 # 2. Từ để hỏi
 ```
@@ -78,6 +86,8 @@
 なんさい　　　：bao nhiêu tuổi
 おいくつ　　　：bao nhiêu tuổi (lịch sự hơn なんさい)
 なん         ：gì, cái gì
+どこ         : chỗ nào, ở đâu
+どちら       ：phía nào, đằng nào (cách nói lịch sự của どこ)
 ```
 # 3. Câu giao tiếp
 ```

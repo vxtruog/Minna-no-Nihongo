@@ -69,3 +69,13 @@
 |へや|-|căn phòng|
 |トイレ|-|nhà vệ sinh|
 |かいだん|-|cầu thang|
+|エレベーター|-|thang máy|
+|エスカレーター|-|thang cuốn|
+|じどうはんばいき|-|máy bán hàng tự động|
+|でんわ|-|điện thoại|
+|おくに|-|đất nước|
+|かいしゃ|-|công ty|
+|うち|-|nhà|
+|くつ|-|giày|
+|ネクタイ|-|cà vạt|
+|ワイン|-|rượu vang|

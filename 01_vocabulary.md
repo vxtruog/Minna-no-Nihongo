@@ -72,6 +72,11 @@
 |こちら|-|phía này, đằng này (cách nói lịch sự của ここ)|
 |そちら|-|phía đó, đằng đó (cách nói lịch sự của そこ)|
 |あちら|-|phía kia, đằng kia (cách nói lịch sự của あそこ)|
+|～かい / ～がい|-|tầng thứ ___|
+|～えん|ー円|___ yên|
+|ひゃく|-|trăm|
+|せん|-|nghìn|
+|まん|-|mười nghìn, vạn|
 
 # 2. Từ để hỏi
 |Thuần Nhật|Kanji|Nghĩa của từ|
@@ -84,6 +89,7 @@
 |どこ|-|chỗ nào, ở đâu|
 |どちら|-|phía nào, đằng nào (cách nói lịch sự của どこ)|
 |いくら|-|bao nhiêu tiền|
+|なんがい|-|tầng mấy|
 
 # 3. Câu giao tiếp
 ```

@@ -80,15 +80,16 @@
 
 ```
 # 2. Từ để hỏi
-```
-だれ　　　　　：ai
-どなた　　　　：vị nào (lịch sự hơn だれ)
-なんさい　　　：bao nhiêu tuổi
-おいくつ　　　：bao nhiêu tuổi (lịch sự hơn なんさい)
-なん         ：gì, cái gì
-どこ         : chỗ nào, ở đâu
-どちら       ：phía nào, đằng nào (cách nói lịch sự của どこ)
-```
+|Thuần Nhật|Nhật-Hán|Nghĩa của từ|
+|-|-|-|
+|だれ|-|ai|
+|どなた|-|vị nào (lịch sự hơn だれ)|
+|なんさい|-|bao nhiêu tuổi|
+|おいくつ|-|bao nhiêu tuổi (lịch sự hơn なんさい)|
+|なん|-|gì, cái gì|
+|どこ|-|chỗ nào, ở đâu|
+|どちら|-|phía nào, đằng nào (cách nói lịch sự của どこ)|
+
 # 3. Câu giao tiếp
 ```
 こんにちは。          ：Xin chào (hoặc là chào buổi chiều)

@@ -62,3 +62,16 @@ CD                 : đĩa CD
 えいご             ：tiếng Anh
 にほんご           ：tiếng Nhật
 ```
+
+# 3. Từ vựng bài 3
+|Thuần Nhật|Nhật-Hán|Nghĩa của từ|
+|-|-|-|
+|きょうしつ|-|lớp học, phòng học|
+|しょくどう|-|nhà ăn|
+|じむしょ|-|văn phòng|
+|かいぎしつ|-|phòng họp|
+|うけつけ|-|quầy lễ tân, phòng thường trực|
+|ロビー|-|hành lang, đại sảnh|
+|へや|-|căn phòng|
+|トイレ|-|nhà vệ sinh|
+|かいだん|-|cầu thang|

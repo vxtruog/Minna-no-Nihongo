@@ -37,7 +37,7 @@
 |～ちゃん|-|hậu tố thêm vào phía sau tên của trẻ em|
 |～くん|-|hậu tố thêm vào phía sau tên của bé trai|
 |～じん|～人|hậu tố thêm vào phía sau, mang nghĩa là người|
-|～さい|-|___ tuổi|
+|ーさい|-|___ tuổi|
 |いち|-|số 1|
 |に|-|số 2|
 |さん|-|số 3|
@@ -72,8 +72,8 @@
 |こちら|-|phía này, đằng này (cách nói lịch sự của ここ)|
 |そちら|-|phía đó, đằng đó (cách nói lịch sự của そこ)|
 |あちら|-|phía kia, đằng kia (cách nói lịch sự của あそこ)|
-|～かい / ～がい|-|tầng thứ ___|
-|～えん|ー円|___ yên|
+|ーかい / ーがい|-|tầng thứ ___|
+|ーえん|ー円|___ yên|
 |ひゃく|-|trăm|
 |せん|-|nghìn|
 |まん|-|mười nghìn, vạn|

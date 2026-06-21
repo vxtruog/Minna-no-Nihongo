@@ -27,41 +27,37 @@
 ```
 
 # 2. Từ vựng bài 2
-```
-ほん               ：sách
-じしょ             ：từ điển
-ざっし             ：tạp chí
-しんぶん           ：báo
-ノート             ：vở
-てちょう           ：sổ tay
-めいし             ：danh thiếp
-カード             ：thẻ, các, cạc
-
-えんぴつ            ：bút chì
-ボールペン          ：bút bi
-シャープペン        ：bút chì kim
-かぎ               ：chìa khóa
-とけい             ：đồng hồ
-かさ               ：ô, dù
-かばん             ：cặp sách, túi sách
-
-CD                 : đĩa CD
-テレビ             ：tivi
-ラジオ             ：radio
-カメラ             ：máy ảnh
-コンピューター      ：máy vi tính
-くるま             ：ô tô, xe hơi
-じどうしゃ         ：xe hơi (lịch sự hơn くるま)
-つくえ             ：cái bàn
-いす               ：cái ghế
-
-チョコレート       ：sôcôla
-コーヒー           ：cà phê
-おみやげ           ：quà (mua khi đi xa về hoặc mang đi thăm nhà người nào đó)
-
-えいご             ：tiếng Anh
-にほんご           ：tiếng Nhật
-```
+|Thuần Nhật|Nhật-Hán|Nghĩa của từ|
+|-|-|-|
+|ほん|-|sách|
+|じしょ|-|từ điển|
+|ざっし|-|tạp chí|
+|しんぶん|-|báo|
+|ノート|-|vở|
+|てちょう|-|sổ tay|
+|めいし|-|danh thiếp|
+|カード|-|thẻ, các, cạc|
+|えんぴつ|-|bút chì|
+|ボールペン|-|bút bi|
+|シャープペン|-|bút chì kim|
+|かぎ|-|chìa khóa|
+|とけい|-|đồng hồ|
+|かさ|-|ô, dù|
+|かばん|-|cặp sách, túi sách|
+|CD|-|đĩa CD|
+|テレビ|-|tivi|
+|ラジオ|-|radio|
+|カメラ|-|máy ảnh|
+|コンピューター|-|máy vi tính|
+|くるま|-|ô tô, xe hơi|
+|じどうしゃ|-|xe hơi (lịch sự hơn くるま)|
+|つくえ|-|cái bàn|
+|いす|-|cái ghế|
+|チョコレート|-|sôcôla|
+|コーヒー|-|cà phê|
+|おみやげ|-|quà (mua khi đi xa về hoặc mang đi thăm nhà người nào đó)|
+|えいご|-|tiếng Anh|
+|にほんご|-|tiếng Nhật|
 
 # 3. Từ vựng bài 3
 |Thuần Nhật|Nhật-Hán|Nghĩa của từ|

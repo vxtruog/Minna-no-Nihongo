@@ -25,62 +25,56 @@
 ```
 
 # 1. Từ vựng
-```
-わたし　　　　：tôi
-わたしたち    :chúng tôi
-あなた　　　　：bạn
-あのひと　　　：người kia
-あのかた　　　：vị kia (lịch sự hơn あのひと)
-みなさん　　　：mọi người
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|わたし|-|tôi|
+|わたしたち|-|chúng tôi|
+|あなた|-|bạn|
+|あのひと|あの人|người kia|
+|あのかた|-|vị kia (lịch sự hơn あのひと)|
+|みなさん|-|mọi người|
+|～さん|-|hậu tố thêm vào phía sau tên của người khác khi gọi, thể hiện tính lịch sự|
+|～ちゃん|-|hậu tố thêm vào phía sau tên của trẻ em|
+|～くん|-|hậu tố thêm vào phía sau tên của bé trai|
+|～じん|～人|hậu tố thêm vào phía sau, mang nghĩa là người|
+|～さい|-|___ tuổi|
+|いち|-|số 1|
+|に|-|số 2|
+|さん|-|số 3|
+|よん／し|-|số 4|
+|ご|-|số 5|
+|ろく|-|số 6|
+|なな／しち|-|số 7|
+|はち|-|số 8|
+|きゅう／く|-|số 9|
+|じゅう|-|số 10|
+|いっさい|-|1 tuổi (có biến âm)|
+|にさい|-|2 tuổi|
+|さんさい|-|3 tuổi|
+|よんさい|-|4 tuổi|
+|ごさい|-|5 tuổi|
+|ろくさい|-|6 tuổi|
+|ななさい|-|7 tuổi|
+|はっさい|-|8 tuổi (có biến âm)|
+|きゅうさい|-|9 tuổi|
+|じゅっさい|-|10 tuổi (có biến âm)|
+|はたち|-|20 tuổi (trường hợp đặc biệt)|
+|これ|-|cái này (ở gần người nói)|
+|それ|-|cái đó (ở gần người nghe)|
+|あれ|-|cái kia (ở xa cả người nói và người nghe)|
+|この　+ N|-|___ này|
+|その　+ N|-|___ đó|
+|あの　+ N|-|___ kia|
+|～ご|-|tiếng/ngôn ngữ ___|
+|ここ|-|chỗ này, đằng này|
+|そこ|-|chỗ đó, đằng đó|
+|あそこ|-|chỗ kia, đằng kia|
+|こちら|-|phía này, đằng này (cách nói lịch sự của ここ)|
+|そちら|-|phía đó, đằng đó (cách nói lịch sự của そこ)|
+|あちら|-|phía kia, đằng kia (cách nói lịch sự của あそこ)|
 
-～さん　　　　：hậu tố thêm vào phía sau tên của người khác khi gọi, thể hiện tính lịch sự
-～ちゃん　　　：hậu tố thêm vào phía sau tên của trẻ em
-～くん　　　　：hậu tố thêm vào phía sau tên của bé trai
-～じん　　　　：hậu tố thêm vào phía sau, mang nghĩa là người
-～さい　　　　：___ tuổi
-
-いち　　　　　：số 1
-に　　　　　　：số 2
-さん　　　　　：số 3
-よん／し　　　：số 4
-ご　　　　　　：số 5
-ろく　　　　　：số 6
-なな／しち　　：số 7
-はち　　　　　：số 8
-きゅう／く　　：số 9
-じゅう　　　　：số 10
-
-いっさい　　　：1 tuổi (có biến âm)
-にさい　　　　：2 tuổi
-さんさい　　　：3 tuổi
-よんさい　　　：4 tuổi
-ごさい　　　　：5 tuổi
-ろくさい　　　：6 tuổi
-ななさい　　　：7 tuổi
-はっさい　　　：8 tuổi (có biến âm)
-きゅうさい　　：9 tuổi
-じゅっさい　　：10 tuổi (có biến âm)
-はたち　　　　：20 tuổi (trường hợp đặc biệt)
-
-これ              : cái này (ở gần người nói)
-それ              : cái đó (ở gần người nghe)
-あれ              : cái kia (ở xa cả người nói và người nghe)
-この　+ N         : ___ này
-その　+ N         : ___ đó
-あの　+ N         : ___ kia
-
-～ご             ：tiếng/ngôn ngữ ___
-
-ここ              : chỗ này, đằng này
-そこ              : chỗ đó
-あそこ            : chỗ kia, đằng kia
-こちら            ：phía này, đằng này (cách nói lịch sự của ここ)
-そちら            ：phía đó, đằng đó (cách nói lịch sự của そこ)
-あちら            ：phía kia, đằng kia (cách nói lịch sự của あそこ)
-
-```
 # 2. Từ để hỏi
-|Thuần Nhật|Nhật-Hán|Nghĩa của từ|
+|Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |だれ|-|ai|
 |どなた|-|vị nào (lịch sự hơn だれ)|

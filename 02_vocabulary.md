@@ -1,5 +1,5 @@
 # 1. Từ vựng bài 1
-|Thuần Nhật|Nhật-Hán|Nghĩa của từ|
+|Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |せんせい|-|thầy/cô (xưng hô)|
 |きょうし|-|giáo viên (giới thiệu nghề nghiệp)|
@@ -25,9 +25,9 @@
 |ベトナム|-|nước Việt Nam|
 
 # 2. Từ vựng bài 2
-|Thuần Nhật|Nhật-Hán|Nghĩa của từ|
+|Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
-|ほん|-|sách|
+|ほん|本|sách|
 |じしょ|-|từ điển|
 |ざっし|-|tạp chí|
 |しんぶん|-|báo|
@@ -58,7 +58,7 @@
 |にほんご|-|tiếng Nhật|
 
 # 3. Từ vựng bài 3
-|Thuần Nhật|Nhật-Hán|Nghĩa của từ|
+|Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |きょうしつ|-|lớp học, phòng học|
 |しょくどう|-|nhà ăn|

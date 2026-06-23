@@ -105,23 +105,19 @@
 |ーから　きました|-|Tôi đến từ _|
 |こちらは　ーさんです|-|Đây là _|
 |しつれいですが|-|Xin lỗi vì đã hỏi, ...|
+|おなまえは|-|Tên anh/chị là gì?|
+|あなたは|-|Thế còn bạn?|
+|Aさんは|-|Thế còn A thì sao?|
+|あのう|-|À, ờ... (dùng để biểu thị sự ngại ngùng, do dự)|
+|えっ|-|Hả? (dùng khi nghe một điều gì không mong muốn)|
+|どうぞ|-|Xin mời.|
+|どうも　ありがとう　ございます。|-|Xin chân thành cảm ơn.|
+|そうですか。|-|Thế à.|
+|ちがいます。|-|Không phải, không đúng, sai rồi.|
+|あ|-|Ôi! (dùng khi nhận ra điều gì)|
+|これから　おせわに　なります。|-|Từ nay tôi rất mong được sự giúp đỡ của anh chị.|
+|こちらこそ　どうぞ　よろしく　おねがいします。|-|Chính tôi mới là người mong được sự giúp đỡ của anh chị.|
 
-```
-おなまえは　　                    ：tên anh/chị là gì?
-あなたは                          :thế còn bạn?
-Aさんは                           :thế còn A thì sao?
-
-あのう                           ：à, ờ... (dùng để biểu thị sự ngại ngùng, do dự)
-えっ                             ：hả? (dùng khi nghe một điều gì không mong muốn)
-どうぞ                           ：Xin mời.
-どうも　ありがとう　ございます。    : Xin chân thành cảm ơn.
-そうですか。                      ：Thế à.
-ちがいます。                      ：Không phải, không đúng, sai rồi.
-あ                               ：Ôi! (dùng khi nhận ra điều gì)
-
-これから　おせわに　なります。                  ：Từ nay tôi rất mong được sự giúp đỡ của anh chị.
-こちらこそ　どうぞ　よろしく　おねがいします。    ：Chính tôi mới là người mong được sự giúp đỡ của anh chị.
-```
 # 1. Biến âm
 - ka, sa, ta, ha + ``
 ```

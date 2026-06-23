@@ -92,20 +92,21 @@
 |なんがい|-|tầng mấy|
 
 # 3. Câu giao tiếp
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|こんにちは。|-|Xin chào (hoặc là Chào buổi chiều)|
+|おはよう　ございます。|-|Chào buổi sáng|
+|こんばんは。|-|Chào buổi tối|
+|はい|-|Vâng, dạ|
+|いいえ|-|Không|
+|そう|-|Đúng vậy (khi trả lời đối với danh từ)|
+|はじめまして|-|Rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp|
+|どうぞ　よろしく　[おねがいします]|-|Rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình|
+|ーから　きました|-|Tôi đến từ _|
+|こちらは　ーさんです|-|Đây là _|
+|しつれいですが|-|Xin lỗi vì đã hỏi, ...|
+
 ```
-こんにちは。          ：Xin chào (hoặc là chào buổi chiều)
-おはよう　ございます。 ：chào buổi sáng
-こんばんは。          ：chào buổi tối
-
-はい　　　　　：vâng, dạ
-いいえ　　　　：không
-そう         ：đúng vậy (khi trả lời đối với danh từ)
-
-はじめまして　　　　　　　　　　　　：rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp
-どうぞ　よろしく　[おねがいします]　：rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình
-～から　きました　　　　　　　　　　：tôi đến từ _
-こちらは　～さんです　　　　　　　　：đây là _
-しつれいですが　　　　　　　　　　　：xin lỗi vì đã hỏi, ...
 おなまえは　　                    ：tên anh/chị là gì?
 あなたは                          :thế còn bạn?
 Aさんは                           :thế còn A thì sao?

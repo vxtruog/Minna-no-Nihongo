@@ -101,7 +101,7 @@
 |いいえ|-|Không|
 |そう|-|Đúng vậy (khi trả lời đối với danh từ)|
 |はじめまして|-|Rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp|
-|どうぞ　よろしく　[おねがいします]|-|Rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình|
+|どうぞ　よろしく　おねがいします|-|Rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình|
 |ーから　きました|-|Tôi đến từ _|
 |こちらは　ーさんです|-|Đây là _|
 |しつれいですが|-|Xin lỗi vì đã hỏi, ...|

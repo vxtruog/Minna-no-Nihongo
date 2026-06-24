@@ -12,17 +12,6 @@
 |エンジニア|-|kỹ sư|
 |だいがく|-|trường đại học|
 |びょういん|-|bệnh viện|
-|アメリカ|-|nước Mỹ|
-|イギリス|-|nước Anh|
-|インド|-|nước Ấn Độ|
-|インドネシア|-|nước Indonesia|
-|かんこく|-|nước Hàn Quốc|
-|タイ|-|nước Thái Lan|
-|ちゅうごく|-|nước Trung Quốc|
-|ドイツ|-|nước Đức|
-|にほん|-|nước Nhật Bản|
-|ブラジル|-|nước Brazil|
-|ベトナム|-|nước Việt Nam|
 
 # 2. Từ vựng bài 2
 |Thuần Nhật|Kanji|Nghĩa của từ|
@@ -81,3 +70,18 @@
 |ワイン|-|rượu vang|
 |うりば|-|quầy bán|
 |ちか|-|tầng hầm, dưới mặt đất|
+
+# Tên địa danh trong tiếng Nhật
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|アメリカ|-|nước Mỹ|
+|イギリス|-|nước Anh|
+|インド|-|nước Ấn Độ|
+|インドネシア|-|nước Indonesia|
+|かんこく|-|nước Hàn Quốc|
+|タイ|-|nước Thái Lan|
+|ちゅうごく|-|nước Trung Quốc|
+|ドイツ|-|nước Đức|
+|にほん|-|nước Nhật Bản|
+|ブラジル|-|nước Brazil|
+|ベトナム|-|nước Việt Nam|

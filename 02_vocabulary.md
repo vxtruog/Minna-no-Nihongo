@@ -85,3 +85,10 @@
 |にほん|-|nước Nhật Bản|
 |ブラジル|-|nước Brazil|
 |ベトナム|-|nước Việt Nam|
+|イタリア|-|nước Ý|
+|スイス|-|nước Thụy Sĩ|
+|フランス|-|nước Pháp|
+|ジャカルタ|-|Gia-các-ta|
+|バンコク|-|Băng-cốc|
+|ベルリン|-|Béc-lin|
+|しんおおさか|-|tên một ga ở Osaka|

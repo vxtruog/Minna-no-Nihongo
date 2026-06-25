@@ -64,7 +64,7 @@ S + __は__ + từ để hỏi + __ですか__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia là cái gì ?
 ```
-## .5. Ngữ pháp bổ sung
+## 2.5. Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2
 ```
 - Ý nghĩa cụm danh từ: N2 về N1.

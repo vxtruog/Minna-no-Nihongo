@@ -64,3 +64,17 @@ S + __は__ + từ để hỏi + __ですか__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia là cái gì ?
 ```
+## .5. Ngữ pháp bổ sung
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: N2 về N1.
+- N1 là danh từ chỉ nội dung/tính chất, phân loại cho N2.
+- N2 là danh từ chính.
+```
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: N2 của N1.
+- N1 là danh từ chỉ người.
+- N2 là danh từ chính.
+```
+

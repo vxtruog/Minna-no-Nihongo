@@ -1,6 +1,6 @@
 # 1. Câu có vị ngữ là danh từ
 ## 1.1. Câu khẳng định
-S + __は__ + N + __です__。
+S + は + N + __です__。
 ```
 - Ý nghĩa: S là N.
 - Dùng để giới thiệu tên, tuổi, nghề nghiệp, quốc tịch, ...
@@ -11,21 +11,21 @@ S + __は__ + N + __です__。
 - 。là dấu chấm câu.
 ```
 ## 1.2. Câu phủ định
-S + __は__ + N + __(じゃ／では) ありません__。
+S + は + N + __(じゃ／では) ありません__。
 ```
 - Ý nghĩa: S không phải là N.
 - Trong văn nói bình thường dùng じゃ.
 - Trong các bài phát biểu trang trọng thì dùng では.
 ```
 ## 1.3. Câu hỏi nghi vấn
-S + __は__ + N + __ですか__。
+S + は + N + __ですか__。
 ```
 - Ý nghĩa: S có phải là N không ?
 - Nếu có => はい、 N です。
 - Nếu không => いいえ、 N じゃありません。(N1 です。)
 ```
 ## 1.4. Câu hỏi có từ để hỏi
-S + __は__ + từ để hỏi + __ですか__。
+S + は + từ để hỏi + __ですか__。
 ## 1.5. Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2
 ```
@@ -40,17 +40,17 @@ S + __は__ + từ để hỏi + __ですか__。
 
 # 2. こね・そね・あね
 ## 2.1. Câu khẳng định
-こね/そね/あね  + __は__ + N_chỉ đồ vật + __です__。
+__こね/そね/あね__  + は + N_chỉ đồ vật + __です__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia là N.
 ```
 ## 2.2. Câu phủ định
-こね/そね/あね  + __は__ + N_chỉ đồ vật + __(じゃ／では) ありません__。
+__こね/そね/あね__  + は + N_chỉ đồ vật + __(じゃ／では) ありません__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia không phải là N.
 ```
 ## 2.3. Câu nghi vấn
-こね/そね/あね  + __は__ + N_chỉ đồ vật + __ですか__。
+__こね/そね/あね__  + は + N_chỉ đồ vật + __ですか__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia có phải là N không ?
 - Nếu có => はい、 N です。
@@ -60,11 +60,17 @@ S + __は__ + từ để hỏi + __ですか__。
           hoặc いいえ、ちがいます。
 ```
 ## 2.4. Câu hỏi có từ để hỏi
-こね/そね/あね + __は__ + __何__ + __ですか__。
+__こね/そね/あね__ + は + __何__ + __ですか__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia là cái gì ?
 ```
-## 2.5. Ngữ pháp bổ sung
+## 2.5. Câu hỏi lựa chọn
+__こね/そね/あね__ + は + N1 + __ですか__、N2 + __ですか__。
+```
+- Ý nghĩa: Cái này/Cái đó/Cái kia là N1 hay N2 ?
+- Trả lời: N1(N2) です。
+```
+## 2.6. Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2
 ```
 - Ý nghĩa cụm danh từ: N2 về N1.

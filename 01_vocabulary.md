@@ -27,7 +27,7 @@
 # 1. Từ vựng
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
-|わたし|-|tôi|
+|わたし|私|tôi|
 |わたしたち|-|chúng tôi|
 |あなた|-|bạn|
 |あのひと|あの人|người kia|

@@ -100,3 +100,10 @@ N + は + __どこ__ + __ですか__。
 - Ý nghĩa: N ở đâu?
 - N là danh từ chỉ địa điểm, người, vật.
 ```
+## 3.3. Ngữ pháp bổ sung
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: N2 của N1.
+- N1 là danh từ chỉ địa điểm xuất xứ/hãng xuất xứ của N2.
+- N2 là danh từ chính.
+```

@@ -100,7 +100,13 @@ N + は + __どこ__ + __ですか__。
 - Ý nghĩa: N ở đâu?
 - N là danh từ chỉ địa điểm, người, vật.
 ```
-## 3.3. Ngữ pháp bổ sung
+## 3.3. Câu hỏi về giá tiền của đồ vật
+N + は + __いくら__ + __ですか__。
+```
+- Ý nghĩa: N có giá bao nhiêu tiền?
+- N là danh từ chỉ đồ vật.
+```
+## 3.4. Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2
 ```
 - Ý nghĩa cụm danh từ: N2 của N1.

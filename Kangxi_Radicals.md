@@ -22,20 +22,75 @@
 黹 黽 鼎 鼓 鼠 鼻 齊 齒 龍 龜 龠
 ```
 ## 1. Bộ Nhất
+一 
 ```
-一      : số 1
+Ý nghĩa : số 1, thứ nhất, sự khởi đầu
 ```
-## 2. Bộ Nhị
+## 2. Bộ Cổn
+丨
 ```
-ニ      : số 2
+Ý nghĩa : nét sổ
 ```
 ## 3. Bộ Chủ
+丶
 ```
-丶      : điểm, chấm
+Ý nghĩa : điểm, chấm
 ```
-## 4. Bộ Đầu
+## 4. Bộ Phiệt
+丿
 ```
-亠      : (không có nghĩa)
+Ý nghĩa : nét phẩy
+```
+## 5. Bộ Ất
+乙
+```
+Ý nghĩa : vị trí thứ hai trong Thiên Can
+```
+## 6. Bộ Quyết
+亅 
+```
+Ý nghĩa : nét sổ móc
+```
+## 7. Bộ Nhị
+ニ
+```
+Ý nghĩa : số 2, cặp đôi
+```
+## 8. Bộ Đầu
+亠
+```
+Ý nghĩa : nắp, mái che, sự bao trùm
+```
+## 9. Bộ Nhân
+人 
+```
+Ý nghĩa : người
+Biến thể : 亻
+```
+## 10. Bộ Nhi
+儿
+```
+Ý nghĩa : trẻ em, tuổi trẻ
+```
+## 11. Bộ Nhập
+入 
+```
+Ý nghĩa : vào, sự hòa nhập, xâm nhập
+```
+## 12. Bộ Bát
+八
+```
+Ý nghĩa : số 8, sự phân tách, mở rộng
+```
+## 13. Bộ Quynh
+冂
+```
+Ý nghĩa : vùng biên, khu vực được bao quanh
+```
+## 17. Bộ Mịch
+冖 
+```
+Ý nghĩa : che đậy, sự bảo hộ
 ```
 ## 5. Bộ Băng
 ```
@@ -45,24 +100,6 @@
 ```
 水      : nước
 氵      : (biến thể của bộ Thủy)
-```
-## 7. Bộ Phiệt
-```
-丿      : nét phẩy
-```
-## 8. Bộ Ất
-```
-乙      : vị trí thứ hai trong Thiên Can
-乚      : (vị trí thứ hai trong Thiên Can dạng 2)
-乛      : (vị trí thứ hai trong Thiên Can dạng 3)
-```
-## 9. Bộ Cổn
-```
-丨      : nét sổ
-```
-## 10. Bộ Quyết
-```
-亅      : nét sổ móc
 ```
 ## 11. Bộ Thập
 ```
@@ -88,30 +125,10 @@
 ```
 士      : kẻ sĩ
 ```
-## 17. Bộ Mịch
-```
-冖      : trùm khăn lên
-```
+
 ## 18. Bộ Miên
 ```
 宀      : mái nhà, mái che
-```
-## 19. Bộ Nhân
-```
-人      : người
-亻      : (biến thể của bộ Nhân)
-```
-## 20. Bộ Nhập
-```
-入      : vào
-```
-## 21. Bộ Bát
-```
-八      : số 8
-```
-## 22. Bộ Nhi
-```
-儿      : trẻ con
 ```
 ## 23. Bộ Kỷ
 ```
@@ -121,10 +138,7 @@
 ```
 小      : nhỏ, bé
 ```
-## 25. Bộ Quynh
-```
-冂      : vùng biên giới xa
-```
+
 ## 26. Bộ Khảm
 ```
 凵      : há miệng

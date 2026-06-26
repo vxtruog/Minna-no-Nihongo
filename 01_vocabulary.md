@@ -24,7 +24,7 @@
 ワ　　　　　　　ヲ　ン
 ```
 
-# 1. Từ vựng
+# 1. Từ vựng ngữ pháp
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |わたし|私|tôi|
@@ -56,8 +56,29 @@
 |ひゃく|-|trăm|
 |せん|-|nghìn|
 |まん|-|mười nghìn, vạn|
-
-# 1. Đếm số
+|いま|-|bây giờ|
+|ーじ|-|___ giờ|
+|ーふん/ーぷん|-|___ phút|
+|はん|-|rưỡi, nửa|
+|ごぜん|-|A.M, trước 12 giờ trưa|
+|ごご|-|P.M, sau 12 giờ trưa|
+|あさ|-|buổi sáng|
+|ひる|-|buổi trưa|
+|ばん|-|buổi tối|
+|おととい|-|hôm kia|
+|きのう|-|hôm qua|
+|きょう|-|hôm nay|
+|あした|-|ngày mai|
+|あさって|-|ngày kia|
+|けさ|-|sáng nay|
+|こんばん|-|tối nay|
+|まいあさ|-|hàng sáng, mỗi sáng|
+|まいばん|-|hàng tối, mỗi tối|
+|まいにち|-|hàng ngày, mỗi ngày|
+|～から|-|từ ___ (thời điểm bắt đầu)|
+|～まで|-|đến ___ (thời điểm kết thúc|
+|～と～|-|___ và ___|
+# 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|
 |-|-|-|-|-|
 |1|いち|🔹いっさい|🔹いっかい||
@@ -72,7 +93,7 @@
 |10|じゅう|🔹じゅっさい|🔹じゅっかい||
 |20|-|🔹はたち|-||
 
-# 2. Từ để hỏi
+# 3. Từ để hỏi
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |だれ|-|ai|
@@ -84,8 +105,10 @@
 |どちら|-|phía nào, đằng nào (cách nói lịch sự của どこ)|
 |いくら|-|bao nhiêu tiền|
 |なんがい|-|tầng mấy|
+|なんじ|-|mấy giờ|
+|なんぷん|-|mấy phút|
 
-# 3. Câu giao tiếp
+# 4. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |こんにちは。|-|Xin chào (hoặc là Chào buổi chiều)|

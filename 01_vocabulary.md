@@ -31,7 +31,7 @@
 |わたしたち|-|chúng tôi|
 |あなた|-|bạn|
 |あのひと|あの人|người kia|
-|あのかた|-|vị kia (lịch sự hơn あのひと)|
+|あのかた|方|vị kia (lịch sự hơn あのひと)|
 |みなさん|-|mọi người|
 |～さん|-|hậu tố thêm vào phía sau tên của người khác khi gọi, thể hiện tính lịch sự|
 |～ちゃん|-|hậu tố thêm vào phía sau tên của trẻ em|

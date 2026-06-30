@@ -122,6 +122,7 @@
 |なんがい|-|tầng mấy|
 |なんじ|-|mấy giờ|
 |なんぷん|-|mấy phút|
+|なんようび|-|thứ mấy|
 |なんばん|-|số bao nhiêu|
 
 # 5. Câu giao tiếp

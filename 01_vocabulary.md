@@ -80,6 +80,7 @@
 |～と～|-|___ và ___|
 |ばんごう|-|số|
 |でわばんごう|-|số điện thoại|
+
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|
 |-|-|-|-|-|
@@ -96,7 +97,18 @@
 |11|じゅういち|じゅういっさい|じゅういっかい||
 |20|-|🔹はたち|-||
 
-# 3. Từ để hỏi
+# 3. Thứ, ngày, tháng, năm
+|Thứ|Kanji|Ý nghĩa|
+|-|-|-|
+|げつようび|月|Thứ hai|
+|かようび|火|Thứ ba|
+|すいようび|水|Thứ tư|
+|もくようび|木|Thứ năm|
+|きんようび|金|Thứ sáu|
+|どようび|土|Thứ bảy|
+|にちようび|日|Chủ nhật|
+
+# 4. Từ để hỏi
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |だれ|-|ai|
@@ -112,7 +124,7 @@
 |なんぷん|-|mấy phút|
 |なんばん|-|số bao nhiêu|
 
-# 4. Câu giao tiếp
+# 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |こんにちは。|-|Xin chào (hoặc là Chào buổi chiều)|

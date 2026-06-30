@@ -85,7 +85,12 @@
 |ゆうびんきょく|-|bưu điện|
 |としょかん|-|thư viện|
 |びじゅっかん|-|bảo tàng mỹ thuật|
-||-||
+|やすみ|-|nghỉ phép, ngày nghỉ|
+|ひるやすみ|-|nghỉ trưa|
+|しけん|-|kỳ thi, kiểm tra|
+|かいぎ|-|cuộc họp, hội nghị|
+|えいが|-|phim chiếu rạp|
+|ドラマ|-|phim truyền hình dài tập|
 
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|

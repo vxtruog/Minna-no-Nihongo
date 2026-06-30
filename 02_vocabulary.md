@@ -71,6 +71,22 @@
 |うりば|-|quầy bán|
 |ちか|-|tầng hầm, dưới mặt đất|
 
+# 4. Từ vựng bài 4
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|おきます|-|dậy, thức dậy|
+|ねます|-|ngủ, đi ngủ|
+|はたらきます|-|làm việc|
+|やすみます|-|nghỉ, nghỉ ngơi|
+|べんきょうします|-|học|
+|おわります|-|hết, kết thúc, xong|
+|デパート|-|trung tâm thương mại|
+|ぎんこう|-|ngân hàng|
+|ゆうびんきょく|-|bưu điện|
+|としょかん|-|thư viện|
+|びじゅっかん|-|bảo tàng mỹ thuật|
+||-||
+
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|

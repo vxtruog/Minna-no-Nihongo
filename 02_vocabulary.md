@@ -74,12 +74,12 @@
 # 4. Từ vựng bài 4
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
-|おきます|-|dậy, thức dậy|
-|ねます|-|ngủ, đi ngủ|
-|はたらきます|-|làm việc|
-|やすみます|-|nghỉ, nghỉ ngơi|
-|べんきょうします|-|học|
-|おわります|-|hết, kết thúc, xong|
+|__おきます__|-|dậy, thức dậy|
+|__ねます__|-|ngủ, đi ngủ|
+|__はたらきます__|-|làm việc|
+|__やすみます__|-|nghỉ, nghỉ ngơi|
+|__べんきょうします__|-|học|
+|__おわります__|-|hết, kết thúc, xong|
 |デパート|-|trung tâm thương mại|
 |ぎんこう|-|ngân hàng|
 |ゆうびんきょく|-|bưu điện|
@@ -113,3 +113,7 @@
 |バンコク|-|Băng-cốc|
 |ベルリン|-|Béc-lin|
 |しんおおさか|-|tên một ga ở Osaka|
+|ニューヨーク|-|New York|
+|ペキン|-|Bắc Kinh|
+|ロサンゼルス|-|Los Angeles|
+|ロンドン|-|Luân Đôn|

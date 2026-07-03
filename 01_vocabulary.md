@@ -80,6 +80,24 @@
 |～と～|-|___ và ___|
 |ばんごう|-|số|
 |でわばんごう|-|số điện thoại|
+|ひと|人|người|
+|ともだち|-|bạn, bạn bè|
+|かね|-|anh ấy, bạn trai|
+|かのじょ|-|chị ấy, bạn gái|
+|かぞく|-|gia đình|
+|ひとりで|一人で|một mình|
+|せんしゅう|-|tuần trước|
+|こんしゅう|-|tuần này|
+|らいしゅう|-|tuần sau|
+|せんげつ|-|tháng trước|
+|こんげつ|-|tháng này|
+|らいげつ|-|tháng sau|
+|きょねん|-|năm ngoái|
+|ことし|-|năm nay|
+|らいねん|-|sang năm|
+|ーねん|ー年|năm ___|
+|ーがつ|ー月|tháng ___|
+|ーにち|ー日|ngày ___|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -124,6 +142,10 @@
 |なんぷん|-|mấy phút|
 |なんようび|-|thứ mấy|
 |なんばん|-|số bao nhiêu|
+|なんねん|何年|bao nhiêu năm, năm bao nhiêu|
+|なんがつ|何月|bao nhiêu tháng, tháng mấy|
+|なんにち|何日|bao nhiêu ngày, ngày bao nhiêu|
+|いつ|-|bao giờ, khi nào|
 
 # 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|

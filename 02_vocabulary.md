@@ -92,6 +92,29 @@
 |えいが|-|phim chiếu rạp|
 |ドラマ|-|phim truyền hình dài tập|
 
+# 5. Từ vựng bài 5
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__いきます__|-|đi|
+|__きます__|-|đến|
+|__かえります__|-|về|
+|がっこう|-|trường học|
+|スーパー|-|siêu thị|
+|えき|-|ga, nhà ga|
+|ひこうき|-|máy bay|
+|ふね|-|thuyền, tàu thủy|
+|でんしゃ|-|tàu điện|
+|ちかてつ|-|tàu điện ngầm|
+|しんかんせん|-|tàu shinkansen (tàu điện cao tốc của Nhật)|
+|ふつう|-|tàu thường (dừng ở các ga lẻ)|
+|きゅうこう|-|tàu tốc hành|
+|とっきゅう|-|tàu tốc hành đặc biệt|
+|バス|-|xe buýt|
+|タクシー|-|xe taxi|
+|じてんしゃ|-|xe đạp|
+|あるいて|-|đi bộ|
+|たんじょうび|-|sinh nhật|
+
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
@@ -112,7 +135,6 @@
 |ジャカルタ|-|Gia-các-ta|
 |バンコク|-|Băng-cốc|
 |ベルリン|-|Béc-lin|
-|しんおおさか|-|tên một ga ở Osaka|
 |ニューヨーク|-|New York|
 |ペキン|-|Bắc Kinh|
 |ロサンゼルス|-|Los Angeles|

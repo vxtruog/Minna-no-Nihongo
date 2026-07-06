@@ -151,7 +151,16 @@ S + は + thời gian xác định + __に__ + V。
 S + は + thời gian không xác định + V。
 
 S + は + thời gian xác định + __から__ + thời gian xác định __まで__ + V。
+```
+から và まで không nhất thiết phải đi cùng với nhau, có thể sử dụng から riêng và まで riêng để nhấn mạnh.
+```
 ## 4.6. Câu hỏi về hành động với thời gian xác định
 S + は + __何時に__ + V + か。
 ## 4.7. Câu hỏi về hành động với khoảng thời gian xác định
 S + は + __何時から 何時まで__ + V + か。
+## 4.8. Ngữ pháp bổ sung
+(Trợ từ __と__): N1 __と__ N2
+```
+- Ý nghĩa cụm danh từ: N1 và N2.
+- Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
+```

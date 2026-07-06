@@ -90,9 +90,15 @@ __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。
 ```
 - Ý nghĩa: Chỗ này/Chỗ đó/Chỗ kia là N.
 ```
-N + は + __ここ/そこ/あそこ__/N_chỉ địa điểm + __です__。
+N1 + は + __ここ/そこ/あそこ__ + __です__。
 ```
-- Ý nghĩa: Địa điểm/người/vật ở đây/đó/kia/danh từ chỉ địa điểm.
+- Ý nghĩa: Địa điểm/người/vật ở đây/đó/kia.
+```
+N1 + は + N2 + __です__。
+```
+- Ý nghĩa: N1 ở vị trí N2.
+- N1 là danh từ chỉ sự vật.
+- N2 là danh từ chỉ địa điểm.
 ```
 ## 3.2. Câu hỏi về vị trí của danh từ
 N + は + __どこ/どちら__ + __ですか__。

@@ -141,8 +141,8 @@
 |どちら|-|phía nào, đằng nào (cách nói lịch sự của どこ)|
 |いくら|-|bao nhiêu tiền|
 |なんがい|-|tầng mấy|
-|なんじ|-|mấy giờ|
-|なんぷん|-|mấy phút|
+|なんじ|何時|mấy giờ|
+|なんぷん|何分|mấy phút|
 |なんようび|-|thứ mấy|
 |なんばん|-|số bao nhiêu|
 |なんねん|何年|bao nhiêu năm, năm bao nhiêu|

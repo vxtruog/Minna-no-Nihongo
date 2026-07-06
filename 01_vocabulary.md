@@ -129,6 +129,22 @@
 |どようび|土曜日|Thứ bảy|
 |にちようび|日曜日|Chủ nhật|
 
+|Ngày|Kanji|Ý nghĩa|
+|-|-|-|
+|ついたち|1日|ngày mồng 1|
+|ふつか|2日|ngày mồng 2, 2 ngày|
+|みっか|3日|ngày mồng 3, 3 ngày|
+|よっか|4日|ngày mồng 4, 4 ngày|
+|いつか|5日|ngày mồng 5, 5 ngày|
+|むいか|6日|ngày mồng 6, 6 ngày|
+|なのか|7日|ngày mồng 7, 7 ngày|
+|ようか|8日|ngày mồng 8, 8 ngày|
+|ここのか|9日|ngày mồng 9, 9 ngày|
+|とおか|10日|ngày mồng 10, 10 ngày|
+|じゅうよっか|14日|ngày 14, 14 ngày|
+|はっか|20日|ngày 20, 20 ngày|
+|にじゅうよっか|24日|ngày 24, 24 ngày|
+
 # 4. Từ để hỏi
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|

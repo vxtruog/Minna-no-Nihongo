@@ -105,6 +105,7 @@ N + は + __どこ/どちら__ + __ですか__。
 ```
 - Ý nghĩa: N ở đâu?
 - N là danh từ chỉ địa điểm, người, vật.
+- Nếu N là danh từ như くに, かいしゃ,がっこう,だいがく,... thì đang hỏi về tên của nơi mình đang sinh sống, làm việc, học tập, ...
 ```
 ## 3.3. Câu hỏi về giá tiền của đồ vật
 N + は + __いくら__ + __ですか__。

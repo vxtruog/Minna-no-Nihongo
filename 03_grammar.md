@@ -164,3 +164,5 @@ S + は + __何時から 何時まで__ + V + か。
 - Ý nghĩa cụm danh từ: N1 và N2.
 - Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
 ```
+
+# 5. いきます・きます・かえります

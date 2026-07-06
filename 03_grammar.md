@@ -134,15 +134,24 @@ N_địa điểm + は + __今何時ですか__。
 - Ý nghĩa: Ở địa điểm N, bây giờ là mấy giờ ?
 - Trả lời: __時　__分 です。
 ```
-## 4.3. Động từ thể ます
+## 4.3. Hỏi về thứ trong tuần
+N + は + __何ようび　ですか__。
+```
+N là danh từ chỉ thời gian không xác định (hôm qua, hôm nay, ngày mai, ...) hoặc một ngày cụ thể nào đó.
+```
+## 4.4. Động từ thể ます
 ||Quá khứ|Hiện tại & Tương lai|
 |-|-|-|
 |Khẳng định|V ました|V ます|
 |Phủ định|V ませんでした|V ません|
 |Nghi vấn|V ましたか|V ますか|
-## 4.4. Câu nói về hành động với thời gian
+## 4.5. Câu nói về hành động với thời gian
 S + は + thời gian xác định + __に__ + V。
 
 S + は + thời gian không xác định + V。
-## 4.5. Câu hỏi về hành động với thời gian xác định
+
+S + は + thời gian xác định + __から__ + thời gian xác định __まで__ + V。
+## 4.6. Câu hỏi về hành động với thời gian xác định
 S + は + __何時に__ + V + か。
+## 4.7. Câu hỏi về hành động với khoảng thời gian xác định
+S + は + __何時から 何時まで__ + V + か。

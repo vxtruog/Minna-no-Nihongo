@@ -98,6 +98,8 @@
 |ーねん|ー年|năm ___|
 |ーがつ|ー月|tháng ___|
 |ーにち|ー日|ngày ___|
+|ーばんせん|-|sân ga số ___|
+|つぎの + N|-|___ tiếp theo|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -167,7 +169,7 @@
 |あのう|-|À, ờ... (dùng để biểu thị sự ngại ngùng, do dự)|
 |えっ|-|Hả? (dùng khi nghe một điều gì không mong muốn)|
 |どうぞ。|-|Xin mời.|
-|どうも　ありがとう　ございます。|-|Xin chân thành cảm ơn.|
+|どうも　ありがとう　ございました。|-|Xin cám ơn rất nhiều.|
 |そうですか。|-|Thế à.|
 |ちがいます。|-|Không phải, không đúng, sai rồi.|
 |あ|-|Ôi! (dùng khi nhận ra điều gì)|
@@ -181,3 +183,5 @@
 |じゃ|-|Thế thì/Vậy thì|
 |たいへんですね。|-|Anh/Chị vất vả quá.|
 |そちら|-|Phía ông/Phía bà|
+|そうですね|-|Ừ, nhỉ.|
+|どう　いたしまして|-|Không có gì đâu (anh/chị đừng bận tâm).|

@@ -134,3 +134,8 @@ N_địa điểm + は + __今何時ですか__。
 - Ý nghĩa: Ở địa điểm N, bây giờ là mấy giờ ?
 - Trả lời: __時　__分 です。
 ```
+## 4.3. Động từ thể ます
+||Quá khứ|Hiện tại & Tương lai|
+|-|-|-|
+|Khẳng định|V ました|V ます|
+|Phủ định|V ませんでした|V ません|

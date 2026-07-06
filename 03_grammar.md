@@ -101,7 +101,7 @@ N1 + は + N2 + __です__。
 - N2 là danh từ chỉ địa điểm.
 ```
 ## 3.2. Câu hỏi về vị trí của danh từ
-N + は + __どこ/どちら ですか__。
+N + は + __どこ/どちら__ + __ですか__。
 ```
 - Ý nghĩa: N ở đâu?
 - N là danh từ chỉ địa điểm, người, vật.

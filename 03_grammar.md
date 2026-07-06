@@ -120,3 +120,10 @@ N + は + __いくら__ + __ですか__。
 - N1 là danh từ chỉ địa điểm xuất xứ/hãng xuất xứ của N2.
 - N2 là danh từ chính.
 ```
+
+# 4. いま・時・分
+## 4.1. Hỏi giờ
+いま　は　__何時__　__ですか__。
+```
+- Ý nghĩa: Bây giờ là mấy giờ?
+```

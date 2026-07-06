@@ -140,3 +140,9 @@ N_địa điểm + は + __今何時ですか__。
 |Khẳng định|V ました|V ます|
 |Phủ định|V ませんでした|V ません|
 |Nghi vấn|V ましたか|V ますか|
+## 4.4. Câu nói về hành động với thời gian
+S + は + thời gian xác định + __に__ + V。
+
+S + は + thời gian không xác định + V。
+## 4.5. Câu hỏi về hành động với thời gian xác định
+S + は + __何時に__ + V + か。

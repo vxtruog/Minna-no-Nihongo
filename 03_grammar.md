@@ -45,7 +45,7 @@ __こね/そね/あね__  + は + N_chỉ đồ vật + __です__。
 - Ý nghĩa: Cái này/Cái đó/Cái kia là N.
 ```
 ## 2.2. Câu phủ định
-__こね/そね/あね__  + は + N_chỉ đồ vật + __(じゃ／では) ありません__。
+__こね/そね/あね__  + は + N_chỉ đồ vật + __(じゃ／では)　ありません__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia không phải là N.
 ```
@@ -60,7 +60,7 @@ __こね/そね/あね__  + は + N_chỉ đồ vật + __ですか__。
           hoặc いいえ、ちがいます。
 ```
 ## 2.4. Câu hỏi có từ để hỏi
-__こね/そね/あね__ + は + __何__ + __ですか__。
+__こね/そね/あね__ + は + __何　ですか__。
 ```
 - Ý nghĩa: Cái này/Cái đó/Cái kia là cái gì ?
 ```
@@ -101,14 +101,14 @@ N1 + は + N2 + __です__。
 - N2 là danh từ chỉ địa điểm.
 ```
 ## 3.2. Câu hỏi về vị trí của danh từ
-N + は + __どこ/どちら__ + __ですか__。
+N + は + __どこ/どちら ですか__。
 ```
 - Ý nghĩa: N ở đâu?
 - N là danh từ chỉ địa điểm, người, vật.
 - Nếu N là danh từ như おくに, かいしゃ, がっこう, だいがく,... thì đang hỏi về tên của nơi mình đang sinh sống, làm việc, học tập, ...
 ```
 ## 3.3. Câu hỏi về giá tiền của đồ vật
-N + は + __いくら__ + __ですか__。
+N + は + __いくら ですか__。
 ```
 - Ý nghĩa: N có giá bao nhiêu tiền?
 - N là danh từ chỉ đồ vật.
@@ -127,4 +127,9 @@ __今、何時ですか__。
 ```
 - Ý nghĩa: Bây giờ là mấy giờ?
 - Trả lời: 今、__時　__分 です。
+```
+## 4.2. Hỏi giờ tại một địa điểm (thành phố, quốc gia)
+N_địa điểm + は + __今何時ですか__。
+```
+- Ý nghĩa: Ở địa điểm N, bây giờ là mấy giờ ?
 ```

@@ -187,3 +187,5 @@ N_phương tiện + __で いきます/きます/かえります__。
 - Ý nghĩa: Đi/Đến/Về bằng phương tiện gì?
 - Trong trường hợp đi bộ thì không dùng trợ từ で.
 ```
+## 5.5. Di chuyển đến địa điểm bằng phương tiện nào đó
+N_phương tiện + __で__ + N_địa điểm + __へ__ + __いきます/きます/かえります__。

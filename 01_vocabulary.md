@@ -102,6 +102,15 @@
 |つぎの + N|-|___ tiếp theo|
 |___ね|-|... nhỉ (đặt ở cuối câu)|
 |___よ|-|... đấy/cơ (đặt ở cuối câu)|
+|なに|-|gì, cái gì|
+|いっしょに|-|cùng, cùng nhau|
+|ちょっと|-|một chút|
+|いつも|-|luôn luôn, lúc nào cũng|
+|ときどき|-|thỉnh thoảng|
+|そねから|-|sau đó, tiếp theo|
+|ええ|-|vâng, được|
+|いいですね|-|Được đấy nhỉ/ Hay quá|
+|わかりました|-|Tôi hiểu rồi/ Vâng ạ|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|

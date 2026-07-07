@@ -189,6 +189,7 @@
 |なんにち|何日|bao nhiêu ngày, ngày bao nhiêu|
 |いつ|-|bao giờ, khi nào|
 |なんで|-|bằng phương tiện gì|
+|だねと|-|cùng với ai|
 
 # 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|

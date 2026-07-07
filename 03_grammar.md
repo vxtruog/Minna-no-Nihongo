@@ -174,3 +174,10 @@ N_địa điểm + __へ いきます/きます/かえります__。
 - きます được dùng khi địa điểm được nhắc đến trong câu chính là địa điểm mà người nói đang đứng, hoặc là khi nói ai đó đến địa điểm thân thuộc của mình.
 - かえります được dùng khi N là danh từ chỉ địa điểm thân thuộc và chủ thể muốn về.
 ```
+## 5.2. Đi đâu?
+__どこへ　いきますか__。
+```
+- Ý nghĩa: Để hỏi về địa điểm sẽ đi/đến/về.
+```
+## 5.3. Không __ cả
+Từ để hỏi + __も__ +　____ません__。

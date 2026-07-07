@@ -115,6 +115,49 @@
 |あるいて|-|đi bộ|
 |たんじょうび|-|sinh nhật|
 
+# 6. Từ vựng bài 6
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__たべます__|-|ăn|
+|__のみます__|-|uống|
+|__すいます__|-|hút (thuốc lá)|
+|__みます__|-|nhìn, xem|
+|__ききます__|-|nghe|
+|__よみます__|-|đọc|
+|__かきます__|-|viết (hoặc vẽ)|
+|__かいます__|-|mua|
+|__とります__|-|chụp (ảnh)|
+|__します__|-|làm, chơi|
+|__あいます__|-|gặp (bạn)|
+|ごはん|-|bữa ăn, cơm|
+|あさごはん|-|cơm sáng, bữa sáng|
+|ひるごはん|-|cơm trưa, bữa trưa|
+|ばんごはん|-|cơm tối, bữa tối|
+|パン|-|bánh mì|
+|たまご|-|trứng|
+|にく|-|thịt|
+|さかな|-|cá|
+|やさい|-|rau|
+|くだもの|-|hoa quả, trái cây|
+|みず|-|nước|
+|おちゃ|-|trà, trà xanh|
+|こうちゃ|-|trà đen|
+|ぎゅうにゅう|-|sữa bò|
+|ジュース|-|nước hoa quả|
+|ビール|-|bia|
+|おさけ|-|rượu, rượu gạo Nhật Bản|
+|たばこ|-|thuốc lá|
+|てがみ|-|thư|
+|レポート|-|báo cáo|
+|しゃしん|-|ảnh|
+|ビデオ|-|băng video, đầu video|
+|みせ|-|cửa hàng, tiệm|
+|にわ|-|vườn|
+|しゅくだい|-|bài tập về nhà|
+|テニス|-|quần vợt|
+|サッカー|-|bóng đá|
+|おはなみ|-|ngắm hoa anh đào|
+
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|

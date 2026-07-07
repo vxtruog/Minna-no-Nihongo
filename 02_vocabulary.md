@@ -182,3 +182,4 @@
 |ペキン|-|Bắc Kinh|
 |ロサンゼルス|-|Los Angeles|
 |ロンドン|-|Luân Đôn|
+|メキシコ|-|Mexico|

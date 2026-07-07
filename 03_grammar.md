@@ -189,3 +189,8 @@ N_phương tiện + __で いきます/きます/かえります__。
 ```
 ## 5.5. Di chuyển đến địa điểm bằng phương tiện nào đó
 N_phương tiện + __で__ + N_địa điểm + __へ__ + __いきます/きます/かえります__。
+## 5.6. Di chuyển đến địa điểm cùng với người/động vật nào đó bằng phương tiện nào đó
+N_người/động vật + __と__ + N_phương tiện + __で__ + N_địa điểm + __へ__ + __いきます/きます/かえります__。
+```
+- Nếu đi một mình thì thay cụm "N_người/động vật + と" thành "一人で".
+```

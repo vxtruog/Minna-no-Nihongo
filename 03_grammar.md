@@ -183,3 +183,7 @@ __どこへ　いきますか__。
 Từ để hỏi + __も__ +　____ません__。
 ## 5.4. Di chuyển bằng phương tiện
 N_phương tiện + __で いきます/きます/かえります__。 
+```
+- Ý nghĩa: Đi/Đến/Về bằng phương tiện gì?
+- Trong trường hợp đi bộ thì không dùng trợ từ で.
+```

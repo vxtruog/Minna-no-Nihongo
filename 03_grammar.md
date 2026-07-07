@@ -166,3 +166,11 @@ S + は + __何時から 何時まで__ + V + か。
 ```
 
 # 5. いきます・きます・かえります
+## 5.1. Động từ di chuyển
+N_địa điểm + __へ いきます/きます/かえります__。
+```
+- Ý nghĩa: Đi/Đến/Về địa điểm N.
+- へ là trợ từ biểu thị phương hướng của sự di chuyển, đọc là `e`.
+- きます được dùng khi địa điểm được nhắc đến trong câu chính là địa điểm mà người nói đang đứng, hoặc là khi nói ai đó đến địa điểm thân thuộc của mình.
+- かえります được dùng khi N là danh từ chỉ địa điểm thân thuộc và chủ thể muốn về.
+```

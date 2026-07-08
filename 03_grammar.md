@@ -4,6 +4,7 @@
 |Khẳng định|Vました|Vます|
 |Phủ định|Vませんでした|Vません|
 |Nghi vấn|Vましたか|Ｖますか|
+
 # 2. Câu có vị ngữ là danh từ
 S + は + N + __です__。
 
@@ -12,41 +13,6 @@ S + は + N + __(じゃ／では) ありません__。
 S + は + N + __ですか__。
 
 S + は + từ để hỏi + __ですか__。
-
-## 1.5. Trợ từ
-(Trợ từ __の__): N1 __の__ N2
-```
-- Ý nghĩa cụm danh từ: N2 của N1.
-- N1 là công ty/trường học/tổ chức mà N2 trực thuộc.
-- N2 là danh từ chỉ nghề nghiệp.
-```
-(Trợ từ __の__): N1 __の__ N2
-```
-- Ý nghĩa cụm danh từ: N2 về N1.
-- N1 là danh từ chỉ nội dung/tính chất, phân loại cho N2.
-- N2 là danh từ chính.
-```
-(Trợ từ __の__): N1 __の__ N2
-```
-- Ý nghĩa cụm danh từ: N2 của N1.
-- N1 là danh từ chỉ người.
-- N2 là danh từ chính.
-```
-(Trợ từ __の__): N1 __の__ N2
-```
-- Ý nghĩa cụm danh từ: N2 của N1.
-- N1 là danh từ chỉ địa điểm xuất xứ/hãng xuất xứ của N2.
-- N2 là danh từ chính.
-```
-(Trợ từ __も__): S1 + __は__ + N + __です__。S2 + __も__ + N + __です__。
-```
-- Ý nghĩa: S1 là N. S2 cũng là N.
-```
-(Trợ từ __と__): N1 __と__ N2
-```
-- Ý nghĩa cụm danh từ: N1 và N2.
-- Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
-```
 
 # 3. Nói về đồ vật
 __こね/そね/あね__  + は + N_chỉ đồ vật + __です__。
@@ -120,26 +86,54 @@ S + は + N_người/động vật + __と__ + N_chỉ phương tiện + __で__
 ## 7.3. Câu hỏi về việc di chuyển đến địa điểm cùng với người/động vật bằng phương tiện nào đó
 S + は + (__だれと__) + (__なにで__) + (__どこへ__) + __いきます/きます/かえります__ + __か__。
 
-## 5.3. Không __ cả
-Từ để hỏi + __も__ +　____ません__。
+# 8. Không __ gì cả
+Từ để hỏi + __も__ +　__Vません__。
 
-# 6. Ngữ pháp bài 6
-## 6.1. Câu khẳng định
-S + は + N + を + Vます。
-```
-- S là chủ thể thực hiện hành động.
-- N là danh từ chịu tác động của hành động V.
-- を là trợ từ đi liền sau N biểu thị sự tác động của V lên N, đọc là `ô`.
-```
-## 6.2. Câu hỏi có từ để hỏi
-S + は + なに　+ を + Vますか。
-## 6.3. Làm, chơi gì
-N + を　します。
-## 6.4. Làm gì đó tại địa điểm nào đó
-S + は + N_địa điểm + で + Vます。
-## 6.5. Làm gì đó ở đâu
-S + は + __どこで　Vますか__。
-## 6.6. Làm gì đó cùng với tôi nhé
+# 9. Hành động và hoạt động
+## 9.1. Thực hiện hành động với một đối tượng tại một địa điểm
+S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ + Vます。
+## 9.2. Câu hỏi về hành động
+S + は + (__どこで__) + (__なにを__) + Vます + __か__。
+## 9.3. Thực hiện một hoạt động
+S + は + N_chỉ hoạt động + __を　します__。
+
+# 10. Mời/Rủ và đề nghị cùng thực hiện một hành động
+## 10.1. Mời/Rủ ai đó cùng làm một việc
 V + ませんか。
-## 6.7. Cùng làm gì đó nhé
+## 10.2. Đề nghị cùng làm một việc
 V + ましょう。
+
+# Ngữ pháp bổ sung
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: N2 của N1.
+- N1 là công ty/trường học/tổ chức mà N2 trực thuộc.
+- N2 là danh từ chỉ nghề nghiệp.
+```
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: N2 về N1.
+- N1 là danh từ chỉ nội dung/tính chất, phân loại cho N2.
+- N2 là danh từ chính.
+```
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: N2 của N1.
+- N1 là danh từ chỉ người.
+- N2 là danh từ chính.
+```
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: N2 của N1.
+- N1 là danh từ chỉ địa điểm xuất xứ/hãng xuất xứ của N2.
+- N2 là danh từ chính.
+```
+(Trợ từ __も__): S1 + __は__ + N + __です__。S2 + __も__ + N + __です__。
+```
+- Ý nghĩa: S1 là N. S2 cũng là N.
+```
+(Trợ từ __と__): N1 __と__ N2
+```
+- Ý nghĩa cụm danh từ: N1 và N2.
+- Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
+```

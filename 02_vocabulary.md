@@ -175,6 +175,8 @@
 |イタリア|-|nước Ý|
 |スイス|-|nước Thụy Sĩ|
 |フランス|-|nước Pháp|
+|メキシコ|-|nước Mexico|
+|スペイン|-|nước Tây Ban Nha|
 |ジャカルタ|-|Gia-các-ta|
 |バンコク|-|Băng-cốc|
 |ベルリン|-|Béc-lin|
@@ -182,4 +184,3 @@
 |ペキン|-|Bắc Kinh|
 |ロサンゼルス|-|Los Angeles|
 |ロンドン|-|Luân Đôn|
-|メキシコ|-|Mexico|

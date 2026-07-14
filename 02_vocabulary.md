@@ -176,6 +176,22 @@
 |ナイク|-|dao|
 |フオーク|-|dĩa|
 |はさみ|-|kéo|
+|パソコン|-|máy vi tính cá nhân|
+|ケータイ|-|điện thoại di động|
+|メール|-|thư điện tử, email|
+|ねんがいじょう|-|thiệp mừng năm mới|
+|パンチ|-|cái đục lỗ|
+|ホッチキス|-|cái dập ghim|
+|セレテープ|-|băng dính|
+|ケしゴム|-|cục tẩy|
+|かみ|-|giấy|
+|はな|-|hoa|
+|シャツ|-|áo sơ mi|
+|プレゼント|-|quà tặng (thường ngày)|
+|にもつ|-|đồ đạc, hành lý|
+|おかね|-|tiền|
+|きっぷ|-|vé|
+|クリスマス|-|Giáng sinh|
 
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|

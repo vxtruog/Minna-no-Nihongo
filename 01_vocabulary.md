@@ -108,9 +108,13 @@
 |いつも|-|luôn luôn, lúc nào cũng|
 |ときどき|-|thỉnh thoảng|
 |そねから|-|sau đó, tiếp theo|
-|ええ|-|vâng, được|
-|いいですね|-|Được đấy nhỉ/ Hay quá|
-|わかりました|-|Tôi hiểu rồi/ Vâng ạ|
+|こねから|-|từ bây giờ, sau đây|
+|もう|-|đã, rồi|
+|まだ|-|chưa|
+|ちち|-|bố (khi nói về bố mình)|
+|はは|-|mẹ (khi nói về mẹ mình)|
+|おとうさん|-|bố (khi nói về bố người khác và dùng khi xưng hô với bố mình)|
+|おかあさん|-|mẹ (khi nói về mẹ người khác và dùng khi xưng hô với mẹ mình)|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -240,3 +244,6 @@
 |どう　いたしまして|-|Không có gì đâu (anh/chị đừng bận tâm).|
 |なんですか。|-|Cái gì vậy? /Có gì đấy ạ?|
 |じゃ、また|-|Hẹn gặp lại.|
+|ええ|-|Vâng, được|
+|いいですね|-|Được đấy nhỉ/ Hay quá|
+|わかりました|-|Tôi hiểu rồi/ Vâng ạ|

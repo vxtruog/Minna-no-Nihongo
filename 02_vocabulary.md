@@ -158,6 +158,25 @@
 |サッカー|-|bóng đá|
 |おはなみ|-|ngắm hoa anh đào|
 
+# 7. Từ vựng bài 7
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__きります__|-|cắt|
+|__おくります__|-|gửi|
+|__あげます__|-|cho, tặng, biếu|
+|__もらいます__|-|nhận|
+|__かします__|-|cho mượn, cho vay|
+|__かります__|-|mượn, vay|
+|__おしえます__|-|dạy|
+|__ならいます__|-|học, tập (từ người khác)|
+|__かけます__|-|gọi (điện thoại)|
+|て|-|tay|
+|はし|-|đũa|
+|スプーン|-|thìa|
+|ナイク|-|dao|
+|フオーク|-|dĩa|
+|はさみ|-|kéo|
+
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|

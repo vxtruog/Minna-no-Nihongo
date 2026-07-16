@@ -65,7 +65,7 @@
 人 
 ```
 Ý nghĩa : người
-Biến thể : 亻
+Biến thể : 亻(nhân đứng), 𠆢 
 ```
 ## 10. Bộ Nhi
 儿
@@ -87,69 +87,178 @@ Biến thể : 亻
 ```
 Ý nghĩa : vùng biên, khu vực được bao quanh
 ```
-## 17. Bộ Mịch
+## 14. Bộ Mịch
 冖 
 ```
 Ý nghĩa : che đậy, sự bảo hộ
 ```
-## 5. Bộ Băng
+## 15. Bộ Băng
 ```
-冫      : nước đá
+冫      : nước đá, trạng thái lạnh, đông cứng
+```
+## 16. Bộ Kỷ
+```
+几      : ghế dựa, sự nâng đỡ
+```
+## 17. Bộ Khảm
+```
+凵      : há miệng, cái hố, sự mở ra
+```
+## 18. Bộ Đao
+```
+刀      : con dao, sự sắc bén, sự chia cắt
+Biến thể:刂 (thường đứng ở cạnh phải của chữ)
+```
+## 19. Bộ Lực
+```
+力      : sức mạnh, sự mạnh mẽ, sự nỗ lực
+```
+## 20. Bộ Bao
+```
+勹      : bao bọc, sự bảo vệ
+```
+## 21. Bộ Chủy
+```
+匕      : cái thìa, cái muỗng, biểu tượng của vật dụng nhỏ
+```
+## 22. Bộ Phương
+```
+匚      : tủ dựng, sự giới hạn và giữ gìn
+```
+## 23. Bộ Hệ
+```
+匸      : che đậy, giấu giếm
+```
+## 24. Bộ Thập
+```
+十      : số 10, sự đầy đủ, hoàn hảo
+```
+## 25. Bộ Bốc
+```
+卜      : xem bói, dự đoán tương lai
+```
+## 26. Bộ Tiết
+```
+卩      : đốt tre, sự kết nối, những dấu hiệu nhỏ
+```
+## 27. Bộ Hán
+```
+厂      : sườn núi, vách đá, sự bảo vệ của tự nhiên
+```
+## 28. Bộ Tư
+```
+厶      : riêng tư, cá nhân hóa
+```
+## 29. Bộ Hựu
+```
+又      : lặp lại, sự bổ sung
+```
+## 30. Bộ Khẩu
+```
+口      : cái miệng, sự giao tiếp hoặc lối vào
+```
+## 31. Bộ Vi
+```
+囗      : vây quanh, khu vực có sự giới hạn
+```
+## 32. Bộ Thổ
+```
+土      : đất, sự ổn định, vững chắc
+```
+## 33. Bộ Sĩ
+```
+士      : kẻ sĩ, người có học
+```
+## 34. Bộ Trĩ
+```
+夂      : đến ở phía sau, sự nối tiếp, sự chậm trễ
+```
+## 35. Bộ Tuy
+```
+夊      : đi chậm, đi từ từ
+```
+## 36. Bộ Tịch
+```
+夕      : đêm tối, sự tĩnh lặng, bóng tối bao phủ
+```
+## 37. Bộ Đại
+```
+大      : to, lớn, sự vĩ đại hoặc vượt trội
+```
+## 38. Bộ Nữ
+```
+女      : nữ giới, sự mềm mại, tình yêu thương
+```
+## 39. Bộ Tử
+```
+子      : con trai, hậu duệ, sự trẻ trung
+```
+## 40. Bộ Miên
+```
+宀      : mái nhà, tổ ấm, sự an toàn
+```
+## 41. Bộ Thốn
+```
+寸      : đơn vị "tấc" đo chiều dài, sự đo lường, sự cẩn thận trong tính toán
+```
+## 42. Bộ Tiểu
+```
+小      : nhỏ, bé, sự khiêm tốn, điều nhỏ nhặt
+```
+## 43. Bộ Uông
+```
+尢      : yếu đuối, sự khiếm khuyết, bất toàn vẹn
+```
+## 44. Bộ Thi
+```
+尸      : xác chết, thây ma, không có sự sống
+```
+## 45. Bộ Triệt
+```
+屮      : cỏ non mới mọc, sự khởi đầu mới, sự phát triển
+```
+## 46. Bộ Sơn
+```
+山      : núi non, sự vững chắc, cao lớn 
+```
+## 47. Bộ Xuyên
+```
+巛      : sông ngòi, liên quan đến dòng chảy tự nhiên
+Biến thể: 川
+```
+## 48. Bộ Công
+```
+工      : người thợ, công việc, sự lao động
+```
+## 49. Bộ Kỷ
+```
+己      : bản thân mình, sự kết thúc, sự hoàn thành
+```
+## 50. Bộ Cân
+```
+巾      : cái khăn, liên quan đến vải vóc
+```
+## 51. Bộ Can
+```
+干      : Thiên Can, sự can thiệp, sự phơi khô
+```
+## 52. Bộ Yêu
+```
+幺      : nhỏ nhắn, sự mềm yếu
+```
+
+## 71. Bộ Phụ
+```
+父      : cha
+```
+## 72. Bộ Hào
+```
+爻      : đường âm dương dùng để lập quẻ trong Kinh Dịch
 ```
 ## 6. Bộ Thủy
 ```
 水      : nước
 氵      : (biến thể của bộ Thủy)
-```
-## 11. Bộ Thập
-```
-十      : số 10
-```
-## 12. Bộ Bốc
-```
-卜      : xem bói
-```
-## 13. Bộ Công
-```
-工      : người thợ, công việc
-```
-## 14. Bộ Can
-```
-干      : Thiên Can, can dự
-```
-## 15. Bộ Thổ
-```
-土      : đất
-```
-## 16. Bộ Sĩ
-```
-士      : kẻ sĩ
-```
-
-## 18. Bộ Miên
-```
-宀      : mái nhà, mái che
-```
-## 23. Bộ Kỷ
-```
-几      : ghế dựa
-```
-## 24. Bộ Tiểu
-```
-小      : nhỏ, bé
-```
-
-## 26. Bộ Khảm
-```
-凵      : há miệng
-```
-## 27. Bộ Phương
-```
-匚      : tủ dựng
-```
-## 28. Bộ Hệ
-```
-匸      : che đậy, giấu giếm
 ```
 ## 29. Bộ Nguyệt
 ```
@@ -178,42 +287,6 @@ Biến thể : 亻
 ## 35. Bộ Vũ
 ```
 雨      : mưa
-```
-## 36. Bộ Bao
-```
-勹      : bao bọc
-```
-## 37. Bộ Chủy
-```
-匕      : cái thìa, cái muỗng
-```
-## 38. Bộ Đao
-```
-刀      : con dao
-```
-## 39. Bộ Lực
-```
-力      : sức mạnh
-```
-## 40. Bộ Khẩu
-```
-口      : cái miệng
-```
-## 41. Bộ Vi
-```
-囗      : vây quanh
-```
-## 42. Bộ Triệt
-```
-屮      : cỏ non mới mọc
-```
-## 43. Bộ Sơn
-```
-山      : núi non
-```
-## 44. Bộ Cân
-```
-巾      : cái khăn
 ```
 ## 45. Bộ Nhật
 ```
@@ -263,84 +336,22 @@ Biến thể : 亻
 ```
 臼      : cái cối giã gạo
 ```
-## 57. Bộ Đại
-```
-大      : to, lớn
-```
 ## 58. Bộ Khuyển
 ```
 犬      : con chó
 犭      : (biến thể của bộ Khuyển)
 ```
-## 59. Bộ Uông
-```
-尢      : yếu đuối
-```
 ## 60. Bộ Vô
 ```
 无      : không
-```
-## 61. Bộ Hán
-```
-厂      : sườn núi, vách đá
 ```
 ## 62. Bộ Nghiễm
 ```
 广      : mái nhà (ở vách núi)
 ```
-## 63. Bộ Nữ
-```
-女      : nữ giới, đàn bà
-```
-## 64. Bộ Tử
-```
-子      : con trai
-```
-## 65. Bộ Tiết
-```
-卩      : đốt tre
-㔾      : (biến thể của bộ Tiết)
-```
-## 66. Bộ Thốn
-```
-寸      : đơn vị "tấc" đo chiều dài
-```
 ## 67. Bộ Cẩn
 ```
 斤      : cái búa, rìu
-```
-## 68. Bộ Hựu
-```
-又      : lại nữa, một lần nữa
-```
-## 69. Bộ Trĩ
-```
-夂      : đến ở phía sau
-```
-## 70. Bộ Tuy
-```
-夊      : đi chậm
-```
-## 71. Bộ Phụ
-```
-父      : cha
-```
-## 72. Bộ Hào
-```
-爻      : đường âm dương dùng để lập quẻ trong Kinh Dịch
-```
-## 73. Bộ Tư
-```
-厶      : riêng tư
-```
-## 74. Bộ Tịch
-```
-夕      : đêm tối
-```
-## 75. Bộ Xuyên
-```
-巛      : sông ngòi
-川      : (biến thể của bộ Xuyên)
 ```
 ## 76. Bộ Sam
 ```
@@ -349,10 +360,6 @@ Biến thể : 亻
 ## 77. Bộ Kệ
 ```
 彐      : đầu con nhím
-```
-## 78. Bộ Kỷ
-```
-己      : bản thân mình
 ```
 ## 79. Bộ Cung
 ```
@@ -376,10 +383,6 @@ Biến thể : 亻
 艸      : cỏ
 艹      : (biến thể của bộ Thảo)
 ```
-## 84. Bộ Yêu
-```
-幺      : nhỏ nhắn
-```
 ## 85. Bộ Huyền
 ```
 玄      : huyền bí
@@ -396,10 +399,7 @@ Biến thể : 亻
 ```
 戈      : cây qua, binh khí dài
 ```
-## 89. Bộ Thi
-```
-尸      : xác chết, thây ma
-```
+
 ## 90. Bộ Hộ
 ```
 戶      : cửa một cánh

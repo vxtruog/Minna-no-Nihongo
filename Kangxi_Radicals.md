@@ -46,80 +46,26 @@
 |20. Bộ Bao|__勹__|Ý nghĩa : sự bao bọc, sự bảo vệ|
 |21. Bộ Chủy|__匕__|Ý nghĩa : cái thìa, cái muỗng, biểu tượng của vật dụng nhỏ|
 |22. Bộ Phương|__匚__|Ý nghĩa : tủ dựng, sự giới hạn và giữ gìn|
-||____||
+|23. Bộ Hệ|__匸__|Ý nghĩa : che đậy, giấu giếm|
+|24. Bộ Thập|__十__|Ý nghĩa : số 10, sự đầy đủ, hoàn hảo|
+|25. Bộ Bốc|__卜__|Ý nghĩa : xem bói, dự đoán tương lai|
+|26. Bộ Tiết|__卩__|Ý nghĩa : đốt tre, sự kết nối, những dấu hiệu nhỏ|
+|27. Bộ Hán|__厂__|Ý nghĩa : sườn núi, vách đá, sự bảo vệ của tự nhiên|
+|28. Bộ Tư|__厶__|Ý nghĩa : riêng tư, cá nhân hóa|
+|29. Bộ Hựu|__又__|Ý nghĩa : lặp lại, sự bổ sung|
+|30. Bộ Khẩu|__口__|Ý nghĩa : cái miệng, sự giao tiếp hoặc lối vào|
+|31. Bộ Vi|__囗__|Ý nghĩa : vây quanh, khu vực có sự giới hạn|
+|32. Bộ Thổ|__土__|Ý nghĩa : đất, sự ổn định, vững chắc|
+|33. Bộ Sĩ|__士__|Ý nghĩa : kẻ sĩ, người có học|
+|34. Bộ Trĩ|__夂__|Ý nghĩa : đến ở phía sau, sự nối tiếp, sự chậm trễ|
+|35. Bộ Tuy|__夊__|Ý nghĩa : đi chậm, đi từ từ|
+|36. Bộ Tịch|__夕__|Ý nghĩa : đêm tối, sự tĩnh lặng, bóng tối bao phủ|
+|37. Bộ Đại|__大__|Ý nghĩa : to, lớn, sự vĩ đại hoặc vượt trội|
+|38. Bộ Nữ|__女__|Ý nghĩa : nữ giới, sự mềm mại, tình yêu thương|
+|39. Bộ Tử|__子__|Ý nghĩa : con trai, hậu duệ, sự trẻ trung|
+|40. Bộ Miên|__宀__|Ý nghĩa : mái nhà, tổ ấm, sự an toàn|
+||____|Ý nghĩa : |
 
-## 23. Bộ Hệ
-```
-匸      : che đậy, giấu giếm
-```
-## 24. Bộ Thập
-```
-十      : số 10, sự đầy đủ, hoàn hảo
-```
-## 25. Bộ Bốc
-```
-卜      : xem bói, dự đoán tương lai
-```
-## 26. Bộ Tiết
-```
-卩      : đốt tre, sự kết nối, những dấu hiệu nhỏ
-```
-## 27. Bộ Hán
-```
-厂      : sườn núi, vách đá, sự bảo vệ của tự nhiên
-```
-## 28. Bộ Tư
-```
-厶      : riêng tư, cá nhân hóa
-```
-## 29. Bộ Hựu
-```
-又      : lặp lại, sự bổ sung
-```
-## 30. Bộ Khẩu
-```
-口      : cái miệng, sự giao tiếp hoặc lối vào
-```
-## 31. Bộ Vi
-```
-囗      : vây quanh, khu vực có sự giới hạn
-```
-## 32. Bộ Thổ
-```
-土      : đất, sự ổn định, vững chắc
-```
-## 33. Bộ Sĩ
-```
-士      : kẻ sĩ, người có học
-```
-## 34. Bộ Trĩ
-```
-夂      : đến ở phía sau, sự nối tiếp, sự chậm trễ
-```
-## 35. Bộ Tuy
-```
-夊      : đi chậm, đi từ từ
-```
-## 36. Bộ Tịch
-```
-夕      : đêm tối, sự tĩnh lặng, bóng tối bao phủ
-```
-## 37. Bộ Đại
-```
-大      : to, lớn, sự vĩ đại hoặc vượt trội
-```
-## 38. Bộ Nữ
-```
-女      : nữ giới, sự mềm mại, tình yêu thương
-```
-## 39. Bộ Tử
-```
-子      : con trai, hậu duệ, sự trẻ trung
-```
-## 40. Bộ Miên
-```
-宀      : mái nhà, tổ ấm, sự an toàn
-```
 ## 41. Bộ Thốn
 ```
 寸      : đơn vị "tấc" đo chiều dài, sự đo lường, sự cẩn thận trong tính toán

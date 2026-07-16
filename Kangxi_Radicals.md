@@ -246,6 +246,38 @@ Biến thể: 川
 ```
 幺      : nhỏ nhắn, sự mềm yếu
 ```
+## 53. Bộ Nghiễm
+```
+广      : mái nhà (ở vách núi), liên quan đến nhà cửa, công trình kiến trúc
+```
+## 54. Bộ Dẫn
+```
+廴      : bước dài, sự tiến xa, sự kéo dài
+```
+## 55. Bộ Củng
+```
+廾      : chắp tay, sự nâng đỡ, sự nâng niu
+```
+## 56. Bộ Dặc
+```
+弋      : bắn, chiếm lấy, sự điều khiển, sự chế ngự
+```
+## 57. Bộ Cung
+```
+弓      : cái cung, sự căng thẳng, sức mạnh đàn hồi
+```
+## 58. Bộ Kệ
+```
+彐      : đầu con nhím, sự lưu giữ, nâng đỡ một vật gì đó
+```
+## 59. Bộ Sam
+```
+彡      : lông, tóc dài, đường nét mềm mại, sự trang trí
+```
+## 60. Bộ Xích
+```
+彳      : bước chân trái, sự di chuyển, tiến lên từ từ
+```
 
 ## 71. Bộ Phụ
 ```
@@ -345,38 +377,14 @@ Biến thể: 川
 ```
 无      : không
 ```
-## 62. Bộ Nghiễm
-```
-广      : mái nhà (ở vách núi)
-```
 ## 67. Bộ Cẩn
 ```
 斤      : cái búa, rìu
-```
-## 76. Bộ Sam
-```
-彡      : lông, tóc dài
-```
-## 77. Bộ Kệ
-```
-彐      : đầu con nhím
-```
-## 79. Bộ Cung
-```
-弓      : cái cung
-```
-## 80. Bộ Dẫn
-```
-廴      : bước dài
 ```
 ## 81. Bộ Sước
 ```
 辵      : chợt bước đi, chợt dừng lại
 辶      : (biến thể của bộ Sước)
-```
-## 82. Bộ Củng
-```
-廾      : chắp tay
 ```
 ## 83. Bộ Thảo
 ```
@@ -391,15 +399,10 @@ Biến thể: 川
 ```
 糸      : sợi tơ nhỏ
 ```
-## 87. Bộ Dặc
-```
-弋      : bắn, chiếm lấy
-```
 ## 88. Bộ Qua
 ```
 戈      : cây qua, binh khí dài
 ```
-
 ## 90. Bộ Hộ
 ```
 戶      : cửa một cánh

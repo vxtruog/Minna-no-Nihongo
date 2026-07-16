@@ -21,110 +21,33 @@
 鬲 鬼 魚 鳥 鹵 鹿 麥 麻 黃 黍 黑
 黹 黽 鼎 鼓 鼠 鼻 齊 齒 龍 龜 龠
 ```
-## 1. Bộ Nhất
-一 
-```
-Ý nghĩa : số 1, thứ nhất, sự khởi đầu
-```
-## 2. Bộ Cổn
-丨
-```
-Ý nghĩa : nét sổ
-```
-## 3. Bộ Chủ
-丶
-```
-Ý nghĩa : điểm, chấm
-```
-## 4. Bộ Phiệt
-丿
-```
-Ý nghĩa : nét phẩy
-```
-## 5. Bộ Ất
-乙
-```
-Ý nghĩa : vị trí thứ hai trong Thiên Can
-```
-## 6. Bộ Quyết
-亅 
-```
-Ý nghĩa : nét sổ móc
-```
-## 7. Bộ Nhị
-ニ
-```
-Ý nghĩa : số 2, cặp đôi
-```
-## 8. Bộ Đầu
-亠
-```
-Ý nghĩa : nắp, mái che, sự bao trùm
-```
-## 9. Bộ Nhân
-人 
-```
-Ý nghĩa : người
-Biến thể : 亻(nhân đứng), 𠆢 
-```
-## 10. Bộ Nhi
-儿
-```
-Ý nghĩa : trẻ em, tuổi trẻ
-```
-## 11. Bộ Nhập
-入 
-```
-Ý nghĩa : vào, sự hòa nhập, xâm nhập
-```
-## 12. Bộ Bát
-八
-```
-Ý nghĩa : số 8, sự phân tách, mở rộng
-```
-## 13. Bộ Quynh
-冂
-```
-Ý nghĩa : vùng biên, khu vực được bao quanh
-```
-## 14. Bộ Mịch
-冖 
-```
-Ý nghĩa : che đậy, sự bảo hộ
-```
-## 15. Bộ Băng
-```
-冫      : nước đá, trạng thái lạnh, đông cứng
-```
-## 16. Bộ Kỷ
-```
-几      : ghế dựa, sự nâng đỡ
-```
-## 17. Bộ Khảm
-```
-凵      : há miệng, cái hố, sự mở ra
-```
-## 18. Bộ Đao
-```
-刀      : con dao, sự sắc bén, sự chia cắt
-Biến thể:刂 (thường đứng ở cạnh phải của chữ)
-```
-## 19. Bộ Lực
-```
-力      : sức mạnh, sự mạnh mẽ, sự nỗ lực
-```
-## 20. Bộ Bao
-```
-勹      : bao bọc, sự bảo vệ
-```
-## 21. Bộ Chủy
-```
-匕      : cái thìa, cái muỗng, biểu tượng của vật dụng nhỏ
-```
-## 22. Bộ Phương
-```
-匚      : tủ dựng, sự giới hạn và giữ gìn
-```
+# BẢNG CHI TIẾT HƠN
+|Bộ Thủ|Chữ Hán|Ghi chú|
+|-|-|-|
+|1. Bộ Nhất|__一__|Ý nghĩa : số 1, thứ nhất, sự khởi đầu|
+|2. Bộ Cổn|__丨__|Ý nghĩa : nét sổ|
+|3. Bộ Chủ|__丶__|Ý nghĩa : điểm, chấm|
+|4. Bộ Phiệt|__丿__|Ý nghĩa : nét phẩy|
+|5. Bộ Ất|__乙__|Ý nghĩa : vị trí thứ hai trong Thiên Can|
+|6. Bộ Quyết|__亅__|Ý nghĩa : nét sổ móc|
+|7. Bộ Nhị|__ニ__|Ý nghĩa : số 2, cặp đôi|
+|8. Bộ Đầu|__亠__|Ý nghĩa : nắp, mái che, sự bao trùm|
+|9. Bộ Nhân|__人__|Ý nghĩa : người<br>Biến thể : __亻__, __𠆢__|
+|10. Bộ Nhi|__儿__|Ý nghĩa : trẻ em, tuổi trẻ|
+|11. Bộ Nhập|__入__|Ý nghĩa : vào, sự hòa nhập, xâm nhập|
+|12. Bộ Bát|__八__|Ý nghĩa : số 8, sự phân tách, mở rộng|
+|13. Bộ Quynh|__冂__|Ý nghĩa : vùng biên, khu vực được bao quanh|
+|14. Bộ Mịch|__冖__|Ý nghĩa : che đậy, sự bảo hộ|
+|15. Bộ Băng|__冫__|Ý nghĩa : nước đá, trạng thái lạnh, đông cứng|
+|16. Bộ Kỷ|__几__|Ý nghĩa : ghế dựa, sự nâng đỡ|
+|17. Bộ Khảm|__凵__|Ý nghĩa : há miệng, cái hố, sự mở ra|
+|18. Bộ Đao|__刀__|Ý nghĩa : con dao, sự sắc bén, sự chia cắt<br>Biến thể:__刂__(thường đứng ở cạnh phải của chữ)|
+|19. Bộ Lực|__力__|Ý nghĩa : sức mạnh, sự mạnh mẽ, sự nỗ lực|
+|20. Bộ Bao|__勹__|Ý nghĩa : sự bao bọc, sự bảo vệ|
+|21. Bộ Chủy|__匕__|Ý nghĩa : cái thìa, cái muỗng, biểu tượng của vật dụng nhỏ|
+|22. Bộ Phương|__匚__|Ý nghĩa : tủ dựng, sự giới hạn và giữ gìn|
+||____||
+
 ## 23. Bộ Hệ
 ```
 匸      : che đậy, giấu giếm

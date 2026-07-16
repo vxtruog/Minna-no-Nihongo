@@ -64,90 +64,27 @@
 |38. Bộ Nữ|__女__|Ý nghĩa : nữ giới, sự mềm mại, tình yêu thương|
 |39. Bộ Tử|__子__|Ý nghĩa : con trai, hậu duệ, sự trẻ trung|
 |40. Bộ Miên|__宀__|Ý nghĩa : mái nhà, tổ ấm, sự an toàn|
+|41. Bộ Thốn|__寸__|Ý nghĩa : đơn vị "tấc" đo chiều dài, sự đo lường, sự cẩn thận trong tính toán|
+|42. Bộ Tiểu|__小__|Ý nghĩa : nhỏ, bé, sự khiêm tốn, điều nhỏ nhặt|
+|43. Bộ Uông|__尢__|Ý nghĩa : yếu đuối, sự khiếm khuyết, bất toàn vẹn|
+|44. Bộ Thi|__尸__|Ý nghĩa : xác chết, thây ma, không có sự sống|
+|45. Bộ Triệt|__屮__|Ý nghĩa : cỏ non mới mọc, sự khởi đầu mới, sự phát triển|
+|46. Bộ Sơn|__山__|Ý nghĩa : núi non, sự vững chắc, cao lớn |
+|47. Bộ Xuyên|__巛__|Ý nghĩa : sông ngòi, liên quan đến dòng chảy tự nhiên<br>Biến thể: __川__|
+|48. Bộ Công|__工__|Ý nghĩa : người thợ, công việc, sự lao động|
+|49. Bộ Kỷ|__己__|Ý nghĩa : bản thân mình, sự kết thúc, sự hoàn thành|
+|50. Bộ Cân|__巾__|Ý nghĩa : cái khăn, liên quan đến vải vóc|
+|51. Bộ Can|__干__|Ý nghĩa : Thiên Can, sự can thiệp, sự phơi khô|
+|52. Bộ Yêu|__幺__|Ý nghĩa : nhỏ nhắn, sự mềm yếu|
+|53. Bộ Nghiễm|__广__|Ý nghĩa : mái nhà (ở vách núi), liên quan đến nhà cửa, công trình kiến trúc|
+|54. Bộ Dẫn|__廴__|Ý nghĩa : bước dài, sự tiến xa, sự kéo dài|
+|55. Bộ Củng|__廾__|Ý nghĩa : chắp tay, sự nâng đỡ, sự nâng niu|
+|56. Bộ Dặc|__弋__|Ý nghĩa : bắn, chiếm lấy, sự điều khiển, sự chế ngự|
+|57. Bộ Cung|__弓__|Ý nghĩa : cái cung, sự căng thẳng, sức mạnh đàn hồi|
+|58. Bộ Kệ|__彐__|Ý nghĩa : đầu con nhím, sự lưu giữ, nâng đỡ một vật gì đó|
+|59. Bộ Sam|__彡__|Ý nghĩa : lông, tóc dài, đường nét mềm mại, sự trang trí|
+|60. Bộ Xích|__彳__|Ý nghĩa : bước chân trái, sự di chuyển, tiến lên từ từ|
 ||____|Ý nghĩa : |
-
-## 41. Bộ Thốn
-```
-寸      : đơn vị "tấc" đo chiều dài, sự đo lường, sự cẩn thận trong tính toán
-```
-## 42. Bộ Tiểu
-```
-小      : nhỏ, bé, sự khiêm tốn, điều nhỏ nhặt
-```
-## 43. Bộ Uông
-```
-尢      : yếu đuối, sự khiếm khuyết, bất toàn vẹn
-```
-## 44. Bộ Thi
-```
-尸      : xác chết, thây ma, không có sự sống
-```
-## 45. Bộ Triệt
-```
-屮      : cỏ non mới mọc, sự khởi đầu mới, sự phát triển
-```
-## 46. Bộ Sơn
-```
-山      : núi non, sự vững chắc, cao lớn 
-```
-## 47. Bộ Xuyên
-```
-巛      : sông ngòi, liên quan đến dòng chảy tự nhiên
-Biến thể: 川
-```
-## 48. Bộ Công
-```
-工      : người thợ, công việc, sự lao động
-```
-## 49. Bộ Kỷ
-```
-己      : bản thân mình, sự kết thúc, sự hoàn thành
-```
-## 50. Bộ Cân
-```
-巾      : cái khăn, liên quan đến vải vóc
-```
-## 51. Bộ Can
-```
-干      : Thiên Can, sự can thiệp, sự phơi khô
-```
-## 52. Bộ Yêu
-```
-幺      : nhỏ nhắn, sự mềm yếu
-```
-## 53. Bộ Nghiễm
-```
-广      : mái nhà (ở vách núi), liên quan đến nhà cửa, công trình kiến trúc
-```
-## 54. Bộ Dẫn
-```
-廴      : bước dài, sự tiến xa, sự kéo dài
-```
-## 55. Bộ Củng
-```
-廾      : chắp tay, sự nâng đỡ, sự nâng niu
-```
-## 56. Bộ Dặc
-```
-弋      : bắn, chiếm lấy, sự điều khiển, sự chế ngự
-```
-## 57. Bộ Cung
-```
-弓      : cái cung, sự căng thẳng, sức mạnh đàn hồi
-```
-## 58. Bộ Kệ
-```
-彐      : đầu con nhím, sự lưu giữ, nâng đỡ một vật gì đó
-```
-## 59. Bộ Sam
-```
-彡      : lông, tóc dài, đường nét mềm mại, sự trang trí
-```
-## 60. Bộ Xích
-```
-彳      : bước chân trái, sự di chuyển, tiến lên từ từ
-```
-
 ## 71. Bộ Phụ
 ```
 父      : cha

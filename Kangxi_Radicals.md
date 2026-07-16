@@ -41,7 +41,7 @@
 |15. Bộ Băng|__冫__|Ý nghĩa : nước đá, trạng thái lạnh, đông cứng|
 |16. Bộ Kỷ|__几__|Ý nghĩa : ghế dựa, sự nâng đỡ|
 |17. Bộ Khảm|__凵__|Ý nghĩa : há miệng, cái hố, sự mở ra|
-|18. Bộ Đao|__刀__|Ý nghĩa : con dao, sự sắc bén, sự chia cắt<br>Biến thể:__刂__(thường đứng ở cạnh phải của chữ)|
+|18. Bộ Đao|__刀__|Ý nghĩa : con dao, sự sắc bén, sự chia cắt<br>Biến thể:__刂__ (thường đứng ở cạnh phải của chữ)|
 |19. Bộ Lực|__力__|Ý nghĩa : sức mạnh, sự mạnh mẽ, sự nỗ lực|
 |20. Bộ Bao|__勹__|Ý nghĩa : sự bao bọc, sự bảo vệ|
 |21. Bộ Chủy|__匕__|Ý nghĩa : cái thìa, cái muỗng, biểu tượng của vật dụng nhỏ|

@@ -214,7 +214,6 @@
 |こんばんは。|-|Chào buổi tối|
 |はい|-|Vâng, dạ|
 |いいえ|-|Không|
-|そう|-|Đúng vậy (khi trả lời đối với danh từ)|
 |はじめまして。|-|Rất hân hạnh được gặp anh/chị, đây là lời chào với người lần đầu tiên gặp|
 |どうぞ　よろしく　おねがいします。|-|Rất hân hạnh được làm quen với anh/chị, đây là câu kết thúc sau khi giới thiệu về mình|
 |ーから　きました。|-|Tôi đến từ _|
@@ -223,27 +222,32 @@
 |おなまえは？|-|Tên anh/chị là gì?|
 |あなたは？|-|Thế còn bạn?|
 |Aさんは？|-|Thế còn A thì sao?|
+|どうも　ありがとう　ございました。|-|Xin cám ơn rất nhiều.|
+|すみません。|-|Xin lỗi.|
 |あのう|-|À, ờ... (dùng để biểu thị sự ngại ngùng, do dự)|
 |えっ|-|Hả? (dùng khi nghe một điều gì không mong muốn)|
-|どうぞ。|-|Xin mời.|
-|どうも　ありがとう　ございました。|-|Xin cám ơn rất nhiều.|
 |そうですか。|-|Thế à.|
+|そうですね。|-|Ừ, nhỉ.|
 |ちがいます。|-|Không phải, không đúng, sai rồi.|
 |あ|-|Ôi! (dùng khi nhận ra điều gì)|
+|どうぞ おあがり　ください。|-|Xin mời anh/chị vào.|
 |これから　おせわに　なります。|-|Từ nay tôi rất mong được sự giúp đỡ của anh chị.|
 |こちらこそ　どうぞ　よろしく　おねがいします。|-|Chính tôi mới là người mong được sự giúp đỡ của anh chị.|
-|すみません。|-|Xin lỗi.|
-|どうも。|-|Cám ơn.|
 |いらっしゃいませ|-|Xin chào quý khách, mời quý khách vào.|
+|いらっしゃい|-|Chào mừng anh/chị đã đến chơi.|
+|しつねいします。|-|Xin phép tôi vào.|
 |～を　ください。|-|Cho tôi _|
 |～を　みせて　ください。|-|Cho tôi xem _|
 |じゃ|-|Thế thì/Vậy thì|
 |たいへんですね。|-|Anh/Chị vất vả quá.|
 |そちら|-|Phía ông/Phía bà|
-|そうですね|-|Ừ, nhỉ.|
 |どう　いたしまして|-|Không có gì đâu (anh/chị đừng bận tâm).|
 |なんですか。|-|Cái gì vậy? /Có gì đấy ạ?|
 |じゃ、また|-|Hẹn gặp lại.|
 |ええ|-|Vâng, được|
 |いいですね|-|Được đấy nhỉ/ Hay quá|
 |わかりました|-|Tôi hiểu rồi/ Vâng ạ|
+|～すてきですね|-|_ hay nhỉ. / đẹp nhỉ|
+|～はいかがですか|-|Anh/Chị dùng _ nhé? (dùng khi mời ai đó cái gì)|
+|いただきます|-|Mời anh chị dùng _. (dùng trước khi ăn hoặc uống)|
+|ごちそうさまでした。|-|Xin cám ơn anh/chị đã đãi tôi bữa ăn ngon. (câu nói dùng sau khi ăn xong)|

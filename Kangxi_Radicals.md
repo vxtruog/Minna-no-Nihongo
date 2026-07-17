@@ -89,14 +89,23 @@
 |63. Bộ Hộ|__戶__|Ý nghĩa : cửa một cánh, liên quan đến nhà cửa, không gian sống|
 |64. Bộ Thủ|__手__|Ý nghĩa : tay, liên quan đến hành động sử dụng tay<br>Biến thể: __扌__|
 |65. Bộ Chi|__支__|Ý nghĩa : cành, nhánh, liên quan đến hỗ trợ, mở rộng|
-|66. Bộ Phộc|__攴__|Ý nghĩa : đánh nhẹ<br>Biến thể: __攵__|
-|67. Bộ Văn|__文__|Ý nghĩa : hoa văn, văn chương|
+|66. Bộ Phộc|__攴__|Ý nghĩa : đánh nhẹ, tác động, tạo ra sự thay đổi<br>Biến thể: __攵__|
+|67. Bộ Văn|__文__|Ý nghĩa : hoa văn, văn chương, sự diễn đạt|
+|68. Bộ Đấu|__斗__|Ý nghĩa : cái đấu, biểu tượng của sự đo lường, quản lý tài nguyên|
+|69. Bộ Cân|__斤__|Ý nghĩa : cái búa, rìu, những thứ cần thiết để thực hiện công việc|
+|70. Bộ Phương|__方__|Ý nghĩa : vuông, sự định hướng, giải pháp|
+|71. Bộ Vô|__无__|Ý nghĩa : không|
+|72. Bộ Nhật|__日__|Ý nghĩa : ngày, mặt trời, thời gian, nhịp điệu hàng ngày|
+|73. Bộ Viết|__曰__|Ý nghĩa : nói rằng|
+|74. Bộ Nguyệt|__月__|Ý nghĩa : mặt trăng, biểu tượng của chu kỳ, thời gian, ánh sáng nhẹ nhàng|
+|75. Bộ Mộc|__木__|Ý nghĩa : gỗ, cây cối, liên quan đến vật liệu tự nhiên, sinh trưởng|
+|76. Bộ Khiếm|__欠__|Ý nghĩa : khiếm khuyết, trạng thái không đủ, sự mong muốn|
 ||____|Ý nghĩa : |
 ||____|Ý nghĩa : |
-|. Bộ Phương|__方__|Ý nghĩa : vuông|
+||____|Ý nghĩa : |
+||____|Ý nghĩa : |
 |. Bộ Tẩu|__走__|Ý nghĩa : đi, chạy|
 |. Bộ Túc|__足__|Ý nghĩa : chân, đầy đủ|
-|. Bộ Khiếm|__欠__|Ý nghĩa : khiếm khuyết|
 |. Bộ Chỉ|__止__|Ý nghĩa : dừng lại|
 |. Bộ Đãi|__歹__|Ý nghĩa : xấu xa, tệ hại|
 |. Bộ Tỷ|__比__|Ý nghĩa : so sánh|
@@ -138,10 +147,6 @@
 水      : nước
 氵      : (biến thể của bộ Thủy)
 ```
-## 29. Bộ Nguyệt
-```
-月      : mặt trăng
-```
 ## 30. Bộ Dụng
 ```
 用      : dùng
@@ -165,14 +170,6 @@
 ## 35. Bộ Vũ
 ```
 雨      : mưa
-```
-## 45. Bộ Nhật
-```
-日      : ngày, mặt trời
-```
-## 46. Bộ Viết
-```
-曰      : nói rằng
 ```
 ## 47. Bộ Bạch
 ```
@@ -219,14 +216,6 @@
 犬      : con chó
 犭      : (biến thể của bộ Khuyển)
 ```
-## 60. Bộ Vô
-```
-无      : không
-```
-## 67. Bộ Cẩn
-```
-斤      : cái búa, rìu
-```
 ## 81. Bộ Sước
 ```
 辵      : chợt bước đi, chợt dừng lại
@@ -244,10 +233,6 @@
 ## 86. Bộ Mịch
 ```
 糸      : sợi tơ nhỏ
-```
-## 91. Bộ Mộc
-```
-木      : gỗ, cây cối
 ```
 ## 92. Bộ Hòa
 ```

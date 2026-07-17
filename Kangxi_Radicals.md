@@ -100,52 +100,48 @@
 |74. Bộ Nguyệt|__月__|Ý nghĩa : mặt trăng, biểu tượng của chu kỳ, thời gian, ánh sáng nhẹ nhàng|
 |75. Bộ Mộc|__木__|Ý nghĩa : gỗ, cây cối, liên quan đến vật liệu tự nhiên, sinh trưởng|
 |76. Bộ Khiếm|__欠__|Ý nghĩa : khiếm khuyết, trạng thái không đủ, sự mong muốn|
+|77. Bộ Chỉ|__止__|Ý nghĩa : dừng lại, liên quan đến sự kiềm chế, thận trọng|
+|78. Bộ Đãi|__歹__|Ý nghĩa : xấu xa, sự suy giảm, hậu quả tiêu cực|
+|79. Bộ Thù|__殳__|Ý nghĩa : cái gậy, hành động mạnh mẽ, dứt khoát|
+|80. Bộ Vô|__毋__|Ý nghĩa : chớ, đừng, liên quan đến việc ngăn chặn|
+|81. Bộ Tỷ|__比__|Ý nghĩa : so sánh, liên quan đến sự đối chiếu, sự đối lập|
+|82. Bộ Mao|__毛__|Ý nghĩa : lông, liên quan đến lớp bề mặt, chi tiết nhỏ|
+|83. Bộ Thị|__氏__|Ý nghĩa : họ, thị tộc, dòng họ|
+|84. Bộ Khí|__气__|Ý nghĩa : hơi nước, không khí|
+|85. Bộ Thủy|__水__|Ý nghĩa : nước, các yếu tố chất lỏng hoặc trạng thái dễ thay đổi<br>Biến thể: __氵__|
+|86. Bộ Hỏa|__火__|Ý nghĩa : hỏa, liên quan đến nhiệt, trạng thái đốt cháy<br>Biến thể: __灬__|
+|87. Bộ Trảo|__爪__|Ý nghĩa : móng vuốt, liên quan đến sự bám chặt|
+|88. Bộ Phụ|__父__|Ý nghĩa : cha, gắn liền đến trách nhiệm, vai trò lãnh đạo|
+||____|Ý nghĩa : |
+||____|Ý nghĩa : |
 ||____|Ý nghĩa : |
 ||____|Ý nghĩa : |
 ||____|Ý nghĩa : |
 ||____|Ý nghĩa : |
 |. Bộ Tẩu|__走__|Ý nghĩa : đi, chạy|
 |. Bộ Túc|__足__|Ý nghĩa : chân, đầy đủ|
-|. Bộ Chỉ|__止__|Ý nghĩa : dừng lại|
-|. Bộ Đãi|__歹__|Ý nghĩa : xấu xa, tệ hại|
-|. Bộ Tỷ|__比__|Ý nghĩa : so sánh|
 |. Bộ Thất|__疋__|Ý nghĩa : đơn vị đo chiều dài, tấm(vải)|
 |. Bộ Lập|__立__|Ý nghĩa : đứng, thành lập|
-|. Bộ Trảo|__爪__|Ý nghĩa : móng vuốt, cầm thú|
 |. Bộ Qua|__瓜__|Ý nghĩa : quả dưa|
 |. Bộ Ngọc|__玉__|Ý nghĩa : đá quý, ngọc|
 |. Bộ Sinh|__生__|Ý nghĩa : sinh đẻ, sinh sống|
 |. Bộ Cam|__甘__|Ý nghĩa : ngọt|
 |. Bộ Nhĩ|__耳__|Ý nghĩa : tai, lỗ tai|
-|. Bộ Vô|__毋__|Ý nghĩa : chớ, đừng|
 |. Bộ Nha|__牙__|Ý nghĩa : răng|
 |. Bộ Huyệt|__穴__|Ý nghĩa : hang, lỗ|
-|79. Bộ Thù|__殳__|Ý nghĩa : cái gậy|
-|82. Bộ Mao|__毛__|Ý nghĩa : lông|
 |93. Bộ Ngưu|__牛__|Ý nghĩa : con trâu|
 |. Bộ Dương|__羊__|Ý nghĩa : con dê|
 |107. Bộ Bì|__皮__|Ý nghĩa : da|
 |. Bộ Âm|__音__|Ý nghĩa : âm thanh, tiếng|
-|. Bộ Thị|__氏__|Ý nghĩa : họ Thị|
-|. Bộ Khí|__气__|Ý nghĩa : hơi nước|
 |. Bộ Ngõa|__瓦__|Ý nghĩa : ngói|
 |. Bộ Phẫu|__缶__|Ý nghĩa : đồ sành|
 |. Bộ Lão|__老__|Ý nghĩa : già|
 |. Bộ Xích|__赤__|Ý nghĩa : màu đỏ|
 ||____|Ý nghĩa : |
 
-## 71. Bộ Phụ
-```
-父      : cha
-```
 ## 72. Bộ Hào
 ```
 爻      : đường âm dương dùng để lập quẻ trong Kinh Dịch
-```
-## 6. Bộ Thủy
-```
-水      : nước
-氵      : (biến thể của bộ Thủy)
 ```
 ## 30. Bộ Dụng
 ```

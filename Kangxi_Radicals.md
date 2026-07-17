@@ -41,7 +41,7 @@
 |15. Bộ Băng|__冫__|Ý nghĩa : nước đá, trạng thái lạnh, đông cứng|
 |16. Bộ Kỷ|__几__|Ý nghĩa : ghế dựa, sự nâng đỡ|
 |17. Bộ Khảm|__凵__|Ý nghĩa : há miệng, cái hố, sự mở ra|
-|18. Bộ Đao|__刀__|Ý nghĩa : con dao, sự sắc bén, sự chia cắt<br>Biến thể:__刂__ (thường đứng ở cạnh phải của chữ)|
+|18. Bộ Đao|__刀__|Ý nghĩa : con dao, sự sắc bén, sự chia cắt<br>Biến thể:__刂__|
 |19. Bộ Lực|__力__|Ý nghĩa : sức mạnh, sự mạnh mẽ, sự nỗ lực|
 |20. Bộ Bao|__勹__|Ý nghĩa : sự bao bọc, sự bảo vệ|
 |21. Bộ Chủy|__匕__|Ý nghĩa : cái thìa, cái muỗng, biểu tượng của vật dụng nhỏ|
@@ -84,7 +84,47 @@
 |58. Bộ Kệ|__彐__|Ý nghĩa : đầu con nhím, sự lưu giữ, nâng đỡ một vật gì đó|
 |59. Bộ Sam|__彡__|Ý nghĩa : lông, tóc dài, đường nét mềm mại, sự trang trí|
 |60. Bộ Xích|__彳__|Ý nghĩa : bước chân trái, sự di chuyển, tiến lên từ từ|
+|61. Bộ Tâm|__心__|Ý nghĩa : trái tim, liên quan đến cảm xúc, suy nghĩ hoặc trạng thái của tâm hồn|
+|62. Bộ Qua|__戈__|Ý nghĩa : binh khí dài, liên quan đến đấu tranh, công cụ bảo vệ|
+|63. Bộ Hộ|__戶__|Ý nghĩa : cửa một cánh, liên quan đến nhà cửa, không gian sống|
+|64. Bộ Thủ|__手__|Ý nghĩa : tay, liên quan đến hành động sử dụng tay<br>Biến thể: __扌__|
+|65. Bộ Chi|__支__|Ý nghĩa : cành, nhánh, liên quan đến hỗ trợ, mở rộng|
+|66. Bộ Phộc|__攴__|Ý nghĩa : đánh nhẹ<br>Biến thể: __攵__|
+|67. Bộ Văn|__文__|Ý nghĩa : hoa văn, văn chương|
 ||____|Ý nghĩa : |
+||____|Ý nghĩa : |
+|. Bộ Phương|__方__|Ý nghĩa : vuông|
+|. Bộ Tẩu|__走__|Ý nghĩa : đi, chạy|
+|. Bộ Túc|__足__|Ý nghĩa : chân, đầy đủ|
+|. Bộ Khiếm|__欠__|Ý nghĩa : khiếm khuyết|
+|. Bộ Chỉ|__止__|Ý nghĩa : dừng lại|
+|. Bộ Đãi|__歹__|Ý nghĩa : xấu xa, tệ hại|
+|. Bộ Tỷ|__比__|Ý nghĩa : so sánh|
+|. Bộ Thất|__疋__|Ý nghĩa : đơn vị đo chiều dài, tấm(vải)|
+|. Bộ Lập|__立__|Ý nghĩa : đứng, thành lập|
+|. Bộ Trảo|__爪__|Ý nghĩa : móng vuốt, cầm thú|
+|. Bộ Qua|__瓜__|Ý nghĩa : quả dưa|
+|. Bộ Ngọc|__玉__|Ý nghĩa : đá quý, ngọc|
+|. Bộ Sinh|__生__|Ý nghĩa : sinh đẻ, sinh sống|
+|. Bộ Cam|__甘__|Ý nghĩa : ngọt|
+|. Bộ Nhĩ|__耳__|Ý nghĩa : tai, lỗ tai|
+|. Bộ Vô|__毋__|Ý nghĩa : chớ, đừng|
+|. Bộ Nha|__牙__|Ý nghĩa : răng|
+|. Bộ Huyệt|__穴__|Ý nghĩa : hang, lỗ|
+|79. Bộ Thù|__殳__|Ý nghĩa : cái gậy|
+|82. Bộ Mao|__毛__|Ý nghĩa : lông|
+|93. Bộ Ngưu|__牛__|Ý nghĩa : con trâu|
+|. Bộ Dương|__羊__|Ý nghĩa : con dê|
+|107. Bộ Bì|__皮__|Ý nghĩa : da|
+|. Bộ Âm|__音__|Ý nghĩa : âm thanh, tiếng|
+|. Bộ Thị|__氏__|Ý nghĩa : họ Thị|
+|. Bộ Khí|__气__|Ý nghĩa : hơi nước|
+|. Bộ Ngõa|__瓦__|Ý nghĩa : ngói|
+|. Bộ Phẫu|__缶__|Ý nghĩa : đồ sành|
+|. Bộ Lão|__老__|Ý nghĩa : già|
+|. Bộ Xích|__赤__|Ý nghĩa : màu đỏ|
+||____|Ý nghĩa : |
+
 ## 71. Bộ Phụ
 ```
 父      : cha
@@ -204,14 +244,6 @@
 ## 86. Bộ Mịch
 ```
 糸      : sợi tơ nhỏ
-```
-## 88. Bộ Qua
-```
-戈      : cây qua, binh khí dài
-```
-## 90. Bộ Hộ
-```
-戶      : cửa một cánh
 ```
 ## 91. Bộ Mộc
 ```

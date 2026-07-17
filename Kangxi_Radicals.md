@@ -113,11 +113,9 @@
 |87. Bộ Trảo|__爪__|Ý nghĩa : móng vuốt, liên quan đến sự bám chặt|
 |88. Bộ Phụ|__父__|Ý nghĩa : cha, gắn liền đến trách nhiệm, vai trò lãnh đạo|
 ||____|Ý nghĩa : |
-||____|Ý nghĩa : |
-||____|Ý nghĩa : |
-||____|Ý nghĩa : |
-||____|Ý nghĩa : |
-||____|Ý nghĩa : |
+|. Bộ Cấn|__艮__|Ý nghĩa : quẻ cấn, bền cứng|
+|105. Bộ Bát|__癶__|Ý nghĩa : gạt ngược lại, trở lại|
+|. Bộ Nạch|__疒__|Ý nghĩa : bệnh tật|
 |. Bộ Tẩu|__走__|Ý nghĩa : đi, chạy|
 |. Bộ Túc|__足__|Ý nghĩa : chân, đầy đủ|
 |. Bộ Thất|__疋__|Ý nghĩa : đơn vị đo chiều dài, tấm(vải)|
@@ -137,6 +135,16 @@
 |. Bộ Phẫu|__缶__|Ý nghĩa : đồ sành|
 |. Bộ Lão|__老__|Ý nghĩa : già|
 |. Bộ Xích|__赤__|Ý nghĩa : màu đỏ|
+|113. Bộ Thị|__示__|Ý nghĩa : chỉ thị, thần đất<br>Biến thể: __礻__|
+|. Bộ Y|__衣__|Ý nghĩa : áo<br>Biến thể __衤__|
+|. Bộ Thỉ|__豕__|Ý nghĩa : con heo, con lợn|
+|. Bộ Trãi|__豸__|Ý nghĩa : loài sâu không chân|
+|. Bộ Dậu|__酉__|Ý nghĩa : 1 trong 12 địa chi |
+|. Bộ Diện|__面__|Ý nghĩa : mặt, bề mặt|
+|. Bộ Thủ|__首__|Ý nghĩa : đầu, thủ lĩnh|
+|. Bộ Thực|__食__|Ý nghĩa : ăn<br>Biến thể: __饣__|
+|. Bộ Lý|__里__|Ý nghĩa : dặm, hàng xóm|
+|. Bộ Hắc|__黑__|Ý nghĩa : màu đen|
 ||____|Ý nghĩa : |
 
 ## 72. Bộ Hào

@@ -113,6 +113,13 @@ Riêng đối với あげます, B không được là "わたし".
 
 A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
 
+B + は + A + __に__ + N + __を__ + V_nhận。
+```
+Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ từ に bằng から.
+```
+
+B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
+
 # Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2
 ```

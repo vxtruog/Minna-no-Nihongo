@@ -120,7 +120,7 @@ Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ
 
 B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
 
-# 10. Đã làm gì đó chưa.
+# 10. Đã làm gì đó chưa
 __もう__ + Vますたか。
 
 ＝> はい、__もう__ Vますた。

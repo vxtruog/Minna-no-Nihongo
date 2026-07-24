@@ -193,6 +193,35 @@
 |きっぷ|-|vé|
 |クリスマス|-|Giáng sinh|
 
+# ８. Từ vựng bài ８
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__ハンサム「な」__|-|đẹp trai (hiện nay hay dùng かっこいい, イケメン hơn|
+|__きねい「な」__|-|đẹp, sạch (khen vẻ bề ngoài)|
+|__しずか「な」__|-|yên tĩnh|
+|__にぎやか「な」__|-|náo nhiệt|
+|__ゆうめい「な」__|-|nổi tiếng|
+|__しんせつ「な」__|-|tốt bụng, thân thiện (không dùng khi nói về người trong gia đình mình)|
+|__げんき「な」__|-|khỏe khoắn|
+|__ひま「な」__|-|rảnh rỗi|
+|__べんり「な」__|-|tiện lợi|
+|__すてき「な」__|-|đẹp, hay (khen đẹp về chiều sâu, tâm hồn)|
+|おおきい|-|to, lớn|
+|ちいさい|-|nhỏ, bé|
+|あたらしい|-|mới|
+|ふるい|-|cũ|
+|いい|-|tốt|
+|わるい|-|xấu|
+|あつい|-|nóng|
+|さむい|-|lạnh (thời tiết)|
+|つめたい|-|lạnh, buốt (đồ ăn)|
+|むずかしい|-|khó|
+|やさしい|-|dễ|
+|たかい|-|cao, đắt|
+|やすい|-|rẻ|
+|ひくい|-|thấp|
+||-||
+
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|

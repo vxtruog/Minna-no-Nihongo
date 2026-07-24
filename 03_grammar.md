@@ -95,7 +95,17 @@ V + ませんか。  (mời/rủ ai đó cùng làm một việc)
 
 V + ましょう。  (đề nghị cùng làm một việc)
 
-# 8. Thực hiện hành động bằng công cụ
+# 8. Thực hiện hành động bằng công cụ/cách thức
+N_công cụ/cách thức + __で__ + Vます。
+
+__何で__ + Vます + __か__。
+
+「Từ/câu」+ は + ngôn ngữ + __で__ + A + __です__。
+
+「Từ/câu」+ は + ngôn ngữ + __で__ + __何ですか__。
+
+# 9. Cho/Nhận
+
 
 # Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2

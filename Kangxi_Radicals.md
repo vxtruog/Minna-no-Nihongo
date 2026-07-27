@@ -153,7 +153,16 @@
 |127. Bộ Lỗi|__耒__|Ý nghĩa : cái cày, liên quan đến nông nghiệp hoặc các khái niệm về canh tác|
 |128. Bộ Nhĩ|__耳__|Ý nghĩa : tai, lỗ tai, liên quan đến thính giác hoặc khả năng tiếp nhận thông tin|
 |129. Bộ Duật|__聿__|Ý nghĩa : cây bút, liên quan đến việc ghi chép, thể hiện thông tin|
-|130. Bộ Nhục|__肉__|Ý nghĩa : thịt|
+|130. Bộ Nhục|__肉__|Ý nghĩa : thịt, liên quan đến bộ phận cơ thể, nội tạng|
+||__臣__|Ý nghĩa : |
+|132. Bộ Tự|__自__|Ý nghĩa : tự bản thân, liên quan đến cá nhân, tự nhiên|
+|133. Bộ Chí|__至__|Ý nghĩa : đến, biểu tượng của sự đạt đến đích, kết thúc|
+|134. Bộ Cửu|__臼__|Ý nghĩa : cái cối giã gạo|
+|135. Bộ Thiệt|__舌__|Ý nghĩa : cái lưỡi, liên quan đến ngôn ngữ, vị giác hoặc sự diễn đạt|
+||__舛__|Ý nghĩa : |
+|137. Bộ Chu|__舟__|Ý nghĩa : cái thuyền, liên quan đến sự vận tải, giao thông trên nước|
+||____|Ý nghĩa : |
+||____|Ý nghĩa : |
 ||____|Ý nghĩa : |
 |. Bộ Cấn|__艮__|Ý nghĩa : quẻ cấn, bền cứng|
 |. Bộ Tẩu|__走__|Ý nghĩa : đi, chạy|
@@ -178,25 +187,13 @@
 ```
 雨      : mưa
 ```
-## 50. Bộ Tự
-```
-自      : tự bản thân, kể từ
-```
 ## 52. Bộ Huyết
 ```
 血      : máu
 ```
-## 53. Bộ Thiệt
-```
-舌      : cái lưỡi
-```
 ## 55. Bộ Trùng
 ```
 虫      : sâu bọ
-```
-## 56. Bộ Cửu
-```
-臼      : cái cối giã gạo
 ```
 ## 81. Bộ Sước
 ```

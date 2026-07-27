@@ -130,23 +130,31 @@
 |104. Bộ Nạch|__疒__|Ý nghĩa : bệnh tật, liên quan đến trạng thái sức khỏe yếu|
 |105. Bộ Bát|__癶__|Ý nghĩa : gạt ngược lại, trở lại|
 |106. Bộ Bạch|__白__|Ý nghĩa : màu trắng, liên quan đến sự thật, điều trong sạch|
+|107. Bộ Bì|__皮__|Ý nghĩa : da, biểu thị cho lớp bảo vệ bên ngoài, phân tách bên trong với bên ngoài|
+|108. Bộ Mãnh|__皿__|Ý nghĩa : bát đĩa, vật chứa, biểu thị cho sự đầy đặn, chứa đựng|
+|109. Bộ Mục|__目__|Ý nghĩa : mắt, liên quan đến khả năng quan sát, phân tích|
+|110. Bộ Mâu|__矛__|Ý nghĩa : cây giáo, liên quan đến vũ khí, biểu thị cho sự xung đột, cãi lý|
+|111. Bộ Thỉ|__矢__|Ý nghĩa : cây tên, mũi tên, liên quan đến định hướng, mục tiêu định sẵn|
+|112. Bộ Thạch|__石__|Ý nghĩa : đá, đất, liên quan đến sự cứng rắn|
+|113. Bộ Thị|__示__|Ý nghĩa : chỉ thị, thần đất, biểu tượng cho nghi lễ, tín ngưỡng<br>Biến thể: __礻__|
+||____|Ý nghĩa : |
+|115. Bộ Hòa|__禾__|Ý nghĩa : lúa, liên quan đến lương thực, cây cối, sinh trưởng, nuôi dưỡng|
+|116. Bộ Huyệt|__穴__|Ý nghĩa : hang, lỗ, biểu thị sự bảo vệ, ẩn nấp|
+|117. Bộ Lập|__立__|Ý nghĩa : đứng, thành lập, biểu thị sự vững trãi, độc lập|
+||____|Ý nghĩa : |
 ||____|Ý nghĩa : |
 |. Bộ Cấn|__艮__|Ý nghĩa : quẻ cấn, bền cứng|
 |. Bộ Tẩu|__走__|Ý nghĩa : đi, chạy|
 |. Bộ Túc|__足__|Ý nghĩa : chân, đầy đủ|
 |. Bộ Thất|__疋__|Ý nghĩa : đơn vị đo chiều dài, tấm(vải)|
-|. Bộ Lập|__立__|Ý nghĩa : đứng, thành lập|
 |. Bộ Qua|__瓜__|Ý nghĩa : quả dưa|
 |. Bộ Nhĩ|__耳__|Ý nghĩa : tai, lỗ tai|
-|. Bộ Huyệt|__穴__|Ý nghĩa : hang, lỗ|
 |. Bộ Dương|__羊__|Ý nghĩa : con dê|
-|107. Bộ Bì|__皮__|Ý nghĩa : da|
 |. Bộ Âm|__音__|Ý nghĩa : âm thanh, tiếng|
 |. Bộ Ngõa|__瓦__|Ý nghĩa : ngói|
 |. Bộ Phẫu|__缶__|Ý nghĩa : đồ sành|
 |. Bộ Lão|__老__|Ý nghĩa : già|
 |. Bộ Xích|__赤__|Ý nghĩa : màu đỏ|
-|113. Bộ Thị|__示__|Ý nghĩa : chỉ thị, thần đất<br>Biến thể: __礻__|
 |. Bộ Y|__衣__|Ý nghĩa : áo<br>Biến thể: __衤__|
 |. Bộ Thỉ|__豕__|Ý nghĩa : con heo, con lợn|
 |. Bộ Trãi|__豸__|Ý nghĩa : loài sâu không chân|
@@ -160,10 +168,6 @@
 ## 72. Bộ Hào
 ```
 爻      : đường âm dương dùng để lập quẻ trong Kinh Dịch
-```
-## 30. Bộ Dụng
-```
-用      : dùng
 ```
 ## 31. Bộ Giác
 ```
@@ -185,17 +189,9 @@
 ```
 雨      : mưa
 ```
-## 49. Bộ Mục
-```
-目      : mắt
-```
 ## 50. Bộ Tự
 ```
 自      : tự bản thân, kể từ
-```
-## 51. Bộ Mãnh
-```
-皿      : bát đĩa
 ```
 ## 52. Bộ Huyết
 ```
@@ -204,10 +200,6 @@
 ## 53. Bộ Thiệt
 ```
 舌      : cái lưỡi
-```
-## 54. Bộ Thạch
-```
-石      : đá
 ```
 ## 55. Bộ Trùng
 ```
@@ -231,10 +223,6 @@
 ```
 糸      : sợi tơ nhỏ
 ```
-## 92. Bộ Hòa
-```
-禾      : lúa
-```
 ## 93. Bộ Mễ
 ```
 米      : gạo
@@ -242,10 +230,6 @@
 ## 94. Bộ Biện
 ```
 釆      : phân biệt
-```
-## 95. Bộ Thỉ
-```
-矢      : cây tên, mũi tên
 ```
 ## 96. Bộ Lỗi
 ```

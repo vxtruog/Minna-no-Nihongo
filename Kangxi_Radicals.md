@@ -112,7 +112,7 @@
 |86. Bộ Hỏa|__火__|Ý nghĩa : hỏa, liên quan đến nhiệt, trạng thái đốt cháy<br>Biến thể: __灬__|
 |87. Bộ Trảo|__爪__|Ý nghĩa : móng vuốt, liên quan đến sự bám chặt|
 |88. Bộ Phụ|__父__|Ý nghĩa : cha, gắn liền đến trách nhiệm, vai trò lãnh đạo|
-||____|Ý nghĩa : |
+|89. Bộ Hào|__爻__|Ý nghĩa : đường âm dương dùng để lập quẻ trong Kinh Dịch|
 |90. Bộ Tường|__爿__|Ý nghĩa : mảnh gỗ, liên quan đến vật thể phẳng hoặc cấu trúc gỗ|
 |91. Bộ Phiên|__片__|Ý nghĩa : mảnh, tấm, miếng, một phần nhỏ từ tổng thể|
 |92. Bộ Nha|__牙__|Ý nghĩa : răng, liên quan đến sức mạnh tự nhiên, công cụ nhọn|
@@ -120,13 +120,13 @@
 |94. Bộ Khuyển|__犬__|Ý nghĩa : con chó, liên quan đến sự trung thành, tính cách mạnh mẽ<br>Biến thể: __犭__|
 |95. Bộ Huyền|__玄__|Ý nghĩa : huyền bí, không thể giải thích rõ ràng được|
 |96. Bộ Ngọc|__玉__|Ý nghĩa : đá quý, ngọc, thể hiện sự cao quý, đáng trân trọng|
-||____|Ý nghĩa : |
-||____|Ý nghĩa : |
+|97. Bộ Qua|__瓜__|Ý nghĩa : quả dưa|
+|98. Bộ Ngõa|__瓦__|Ý nghĩa : ngói|
 |99. Bộ Cam|__甘__|Ý nghĩa : ngọt, sắc thái mềm mại, dễ chịu|
 |100. Bộ Sinh|__生__|Ý nghĩa : sinh đẻ, sinh sống, khởi đầu điều gì mới|
 |101. Bộ Dụng|__用__|Ý nghĩa : sử dụng, liên quan đến công dụng, sự hữu dụng|
 |102. Bộ Điền|__田__|Ý nghĩa : ruộng, biểu tượng cho nông nghiệp, những gì nuôi sống con người|
-||____|Ý nghĩa : |
+|103. Bộ Thất|__疋__|Ý nghĩa : đơn vị đo chiều dài, tấm(vải)|
 |104. Bộ Nạch|__疒__|Ý nghĩa : bệnh tật, liên quan đến trạng thái sức khỏe yếu|
 |105. Bộ Bát|__癶__|Ý nghĩa : gạt ngược lại, trở lại|
 |106. Bộ Bạch|__白__|Ý nghĩa : màu trắng, liên quan đến sự thật, điều trong sạch|
@@ -137,23 +137,28 @@
 |111. Bộ Thỉ|__矢__|Ý nghĩa : cây tên, mũi tên, liên quan đến định hướng, mục tiêu định sẵn|
 |112. Bộ Thạch|__石__|Ý nghĩa : đá, đất, liên quan đến sự cứng rắn|
 |113. Bộ Thị|__示__|Ý nghĩa : chỉ thị, thần đất, biểu tượng cho nghi lễ, tín ngưỡng<br>Biến thể: __礻__|
-||____|Ý nghĩa : |
+|114. Bộ Nhựu|__禸__|Ý nghĩa : vết chân, lốt chân|
 |115. Bộ Hòa|__禾__|Ý nghĩa : lúa, liên quan đến lương thực, cây cối, sinh trưởng, nuôi dưỡng|
 |116. Bộ Huyệt|__穴__|Ý nghĩa : hang, lỗ, biểu thị sự bảo vệ, ẩn nấp|
 |117. Bộ Lập|__立__|Ý nghĩa : đứng, thành lập, biểu thị sự vững trãi, độc lập|
-||____|Ý nghĩa : |
+|118. Bộ Trúc|__竹__|Ý nghĩa : tre, trúc, biểu tượng cho sự thanh cao, mềm dẻo, đồ vật làm từ tre và trúc|
+|119. Bộ Mễ|__米__|Ý nghĩa : gạo, sản phẩm từ gạo, sự tinh chế, hoặc những điều liên quan đến thịnh vượng|
+|120. Bộ Mịch|__糸__|Ý nghĩa : sợi tơ nhỏ, liên quan đến vật liệu dệt may, sự tinh tế|
+|121. Bộ Phẫu|__缶__|Ý nghĩa : đồ sành, liên quan đến các đồ đựng, vật liệu lưu trữ|
+|122. Bộ Võng|__网__|Ý nghĩa : cái lưới|
+|123. Bộ Dương|__羊__|Ý nghĩa : con dê, mang tính chất hòa bình và tốt lành|
+|124. Bộ Vũ|__羽__|Ý nghĩa : lông vũ, liên quan đến chim chóc, sự thoát khỏi giới hạn, sự tự do|
+|125. Bộ Lão|__老__|Ý nghĩa : già, liên quan đến tuổi tác, sự khôn ngoan hoặc những giá trị truyền thống|
+|126. Bộ Nhi|__而__|Ý nghĩa : mà, và, thường xuất hiện trong các chữ liên quan đến sự chuyển tiếp, mềm mại, kiên nhẫn|
+|127. Bộ Lỗi|__耒__|Ý nghĩa : cái cày, liên quan đến nông nghiệp hoặc các khái niệm về canh tác|
+|128. Bộ Nhĩ|__耳__|Ý nghĩa : tai, lỗ tai, liên quan đến thính giác hoặc khả năng tiếp nhận thông tin|
+|129. Bộ Duật|__聿__|Ý nghĩa : cây bút, liên quan đến việc ghi chép, thể hiện thông tin|
+|130. Bộ Nhục|__肉__|Ý nghĩa : thịt|
 ||____|Ý nghĩa : |
 |. Bộ Cấn|__艮__|Ý nghĩa : quẻ cấn, bền cứng|
 |. Bộ Tẩu|__走__|Ý nghĩa : đi, chạy|
 |. Bộ Túc|__足__|Ý nghĩa : chân, đầy đủ|
-|. Bộ Thất|__疋__|Ý nghĩa : đơn vị đo chiều dài, tấm(vải)|
-|. Bộ Qua|__瓜__|Ý nghĩa : quả dưa|
-|. Bộ Nhĩ|__耳__|Ý nghĩa : tai, lỗ tai|
-|. Bộ Dương|__羊__|Ý nghĩa : con dê|
 |. Bộ Âm|__音__|Ý nghĩa : âm thanh, tiếng|
-|. Bộ Ngõa|__瓦__|Ý nghĩa : ngói|
-|. Bộ Phẫu|__缶__|Ý nghĩa : đồ sành|
-|. Bộ Lão|__老__|Ý nghĩa : già|
 |. Bộ Xích|__赤__|Ý nghĩa : màu đỏ|
 |. Bộ Y|__衣__|Ý nghĩa : áo<br>Biến thể: __衤__|
 |. Bộ Thỉ|__豕__|Ý nghĩa : con heo, con lợn|
@@ -165,25 +170,9 @@
 |. Bộ Lý|__里__|Ý nghĩa : dặm, hàng xóm|
 |. Bộ Hắc|__黑__|Ý nghĩa : màu đen|
 ||____|Ý nghĩa : |
-## 72. Bộ Hào
-```
-爻      : đường âm dương dùng để lập quẻ trong Kinh Dịch
-```
 ## 31. Bộ Giác
 ```
 角      : góc, sừng thú
-```
-## 32. Bộ Nhựu
-```
-禸      : vết chân, lốt chân
-```
-## 33. Bộ Nhục
-```
-肉      : thịt
-```
-## 34. Bộ Võng
-```
-网      : cái lưới
 ```
 ## 35. Bộ Vũ
 ```
@@ -219,21 +208,9 @@
 艸      : cỏ
 艹      : (biến thể của bộ Thảo)
 ```
-## 86. Bộ Mịch
-```
-糸      : sợi tơ nhỏ
-```
-## 93. Bộ Mễ
-```
-米      : gạo
-```
 ## 94. Bộ Biện
 ```
 釆      : phân biệt
-```
-## 96. Bộ Lỗi
-```
-耒      : cái cày
 ```
 ## 97. Bộ Ma
 ```
@@ -242,10 +219,6 @@
 ## 98. Bộ Hương
 ```
 香      : mùi hương, hương thơm
-```
-## 99. Bộ Duật
-```
-聿      : cây bút
 ```
 ## 100. Bộ Đãi
 ```

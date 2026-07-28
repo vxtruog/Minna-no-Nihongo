@@ -220,7 +220,23 @@
 |たかい|-|cao, đắt|
 |やすい|-|rẻ|
 |ひくい|-|thấp|
-||-||
+|おもしろい|-|thú vị, hay|
+|おいしい|-|ngon|
+|いそがしい|-|bận rộn|
+|たのしい|-|vui (không khí vui vẻ)|
+|しろい|-|trắng|
+|くろい|-|đen|
+|あかい|-|đỏ|
+|あおい|-|xanh da trời|
+|さくら|-|hoa anh đào, cây anh đào|
+|やま|-|núi|
+|まち|-|thị trấn, thị xã|
+|たべもの|-|đồ ăn|
+|のみもの|-|đồ uống|
+|りょう|-|ký túc xá|
+|レストラン|-|nhà hàng|
+|せいかつ|-|cuộc sống, sinh hoạt|
+|おしごと|-|công việc|
 
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|
@@ -248,3 +264,4 @@
 |ペキン|-|Bắc Kinh|
 |ロサンゼルス|-|Los Angeles|
 |ロンドン|-|Luân Đôn|
+|シャンハイ|-|Thượng Hải|

@@ -115,6 +115,11 @@
 |はは|-|mẹ (khi nói về mẹ mình)|
 |おとうさん|-|bố (khi nói về bố người khác và dùng khi xưng hô với bố mình)|
 |おかあさん|-|mẹ (khi nói về mẹ người khác và dùng khi xưng hô với mẹ mình)|
+|ところ|-|nơi, chỗ|
+|とても|-|rất, lắm|
+|あまり|-|không _ lắm|
+|そして|-|và, thêm nữa|
+|～が|-|nhưng|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -205,6 +210,8 @@
 |いつ|-|bao giờ, khi nào|
 |なんで|-|bằng phương tiện gì|
 |だねと|-|cùng với ai|
+|どう|-|thế nào|
+|どうな + N|-|như thế nào|
 
 # 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|
@@ -251,3 +258,9 @@
 |～はいかがですか|-|Anh/Chị dùng _ nhé? (dùng khi mời ai đó cái gì)|
 |いただきます|-|Mời anh chị dùng _. (dùng trước khi ăn hoặc uống)|
 |ごちそうさまでした。|-|Xin cám ơn anh/chị đã đãi tôi bữa ăn ngon. (câu nói dùng sau khi ăn xong)|
+|おげんきですか。|-|Anh/Chị có khỏe không?|
+|～もう　いっぱい　いかがですか。|-|Anh/Chị dùng thêm một chén/ly _ nữa nhé?|
+|いいえ、けっこうです。|-|Không, đủ rồi ạ.|
+|もう　～ですね。|-|Đã _ rồi nhỉ.|
+|そろそろ　しつねいします。|-|Đã đến lúc tôi phải về rồi.|
+|また　いらっしゃって　ください。|-|Lần sau anh/chị lại đến chơi nhé.|

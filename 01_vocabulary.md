@@ -211,7 +211,8 @@
 |なんで|-|bằng phương tiện gì|
 |だねと|-|cùng với ai|
 |どう|-|thế nào|
-|どうな + N|-|như thế nào|
+|どうな + N|-|N như thế nào|
+|どれ|-|cái nào|
 
 # 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|

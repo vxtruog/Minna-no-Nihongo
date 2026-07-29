@@ -127,6 +127,26 @@ __もう__ + Vますたか。
 
 ＝> いいえ、__まだです__。
 
+## 11. Câu có vị ngữ là tính từ
+S + は + __A_な（bỏ な)__ + __です__。
+
+S + は + __A_い__ + __です__。
+
+S + は + __A_な（bỏ な)__ + __じゃ　ありません__。
+
+S + は + __A_い (bỏ い)__ + __くない　です__。
+
+S + は + __A_な（bỏ な)__ + __ですか__。
+
+S + は + __A_い__ + __ですか__。
+
+## 12. Tính từ bổ nghĩa cho danh từ
+S + は + __A_な / A_い__ + N + __です__。
+
+S + は + __どう__ + __ですか__。
+
+S + は + __どんなん__ + N + __ですか__。
+
 ## XX. Thích/Ghét
 N + __が__ すきです。
 
@@ -165,4 +185,24 @@ N + __が__ きらいです。
 ```
 - Ý nghĩa cụm danh từ: N1 và N2.
 - Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
+```
+(Phó từ __とても__): __とても__ + A
+```
+- Ý nghĩa: rất A
+- Là phó từ đi với câu khẳng định để nhấn mạnh tính chất, trạng thái.
+```
+(Phó từ __あまり__): __あまり__ + A_phủ định
+```
+- Ý nghĩa: không _ lắm
+- Là phó từ đi với câu phủ định thể hiện mức độ thấp của tính chất, trạng thái.
+```
+(Liên từ __が__): 「Câu 1」__が__、「Câu 2」。
+```
+- Ý nghĩa: Câu 1 nhưng câu 2.
+- Dùng để nối hai câu có ý tương phản nhau.
+```
+(Liên từ __そして__): 「Câu 1」。__そして__「Câu 2」。
+```
+- Ý nghĩa: Câu 1 và câu 2.
+- Dùng để nối hai câu có ý tương đương nhau.
 ```

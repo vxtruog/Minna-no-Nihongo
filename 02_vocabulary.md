@@ -238,6 +238,40 @@
 |せいかつ|-|cuộc sống, sinh hoạt|
 |おしごと|-|công việc|
 
+# 9. Từ vựng bài 9
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__わかります__|-|hiểu, biết|
+|__あります__|-|có (sở hữu)|
+|__すき「な」__|-|thích|
+|__きらい「な」__|-|ghét|
+|__じょうず「な」__|-|giỏi|
+|__へた「な」__|-|kém|
+|りょうり|-|món ăn, nấu ăn|
+|スポーツ|-|thể thao|
+|やきゅう|-|bóng chày|
+|ダンス|-|nhảy, khiêu vũ|
+|りょこう|-|du lịch, chuyến du lịch|
+|おんがく|-|âm nhạc|
+|うた|-|bài hát|
+|クラシック|-|nhạc cổ điển|
+|ジャズ|-|nhạc jazz|
+|コンサート|-|buổi hòa nhạc|
+|カラオケ|-|karaoke|
+|かぶき|-|kịch Kabuki|
+|え|-|tranh, hội họa|
+|じ|-|chữ, ký tự|
+|かんじ|-|chữ Hán|
+|ひらがな|-|chữ Hiragana|
+|かたかな|-|chữ Katakana|
+|ローマじ|-|chữ La Mã|
+|こまかい　おかね|-|tiền lẻ|
+|チケット|-|vé|
+|じかん|-|thời gian|
+|ようじ|-|việc bận, công chuyện|
+|やくそく|-|cuộc hẹn, lời hứa|
+|アルバイト|-|việc làm thêm|
+
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|

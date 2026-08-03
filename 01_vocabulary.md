@@ -282,7 +282,7 @@
 |いいですよ。|-|Được chứ./Được ạ.|
 |だんねんですが|-|Đáng tiếc là...|
 |ああ|-|Ah, ôi|
-|いっしょに　いかがですか。|Anh/chị cùng _ với tôi (chúng tôi) không?|
+|いっしょに　いかがですか。|-|Anh/chị cùng _ với tôi (chúng tôi) không?|
 |～は　ちょっと|-|_ thì có lẽ không được rồi.|
-|だめ　ですか。|Không được à?|
-|また　こんど　おねがいします。|Hẹn anh/chị lần sau vậy.|
+|だめ　ですか。|-|Không được à?|
+|また　こんど　おねがいします。|-|Hẹn anh/chị lần sau vậy.|

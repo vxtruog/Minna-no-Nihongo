@@ -120,6 +120,18 @@
 |あまり|-|không _ lắm|
 |そして|-|và, thêm nữa|
 |～が|-|nhưng|
+|ごしゅじん|-|chồng (người khác)|
+|しゅじん/おっと|-|chồng (mình)|
+|おくさん|-|vợ (người khác)|
+|つま/かない|-|vợ (mình)|
+|こども|-|con cái|
+|よく|-|tốt, rõ (chỉ mức độ)|
+|だいたい|-|đại khái, tàm tạm|
+|たくさん|-|nhiều|
+|すこし|-|chút ít|
+|ぜんぜん|-|hoàn toàn _ không (dùng với thể phủ định)|
+|はやく|-|sớm, nhanh|
+|～から|-|vì|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -213,6 +225,7 @@
 |どう|-|thế nào|
 |どうな + N|-|N như thế nào|
 |どれ|-|cái nào|
+|どうして|-|tại sao|
 
 # 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|
@@ -265,3 +278,11 @@
 |もう　～ですね。|-|Đã _ rồi nhỉ.|
 |そろそろ　しつねいします。|-|Đã đến lúc tôi phải về rồi.|
 |また　いらっしゃって　ください。|-|Lần sau anh/chị lại đến chơi nhé.|
+|かして　ください。|-|Hãy cho tôi mượn nó.|
+|いいですよ。|-|Được chứ./Được ạ.|
+|だんねんですが|-|Đáng tiếc là...|
+|ああ|-|Ah, ôi|
+|いっしょに　いかがですか。|Anh/chị cùng _ với tôi (chúng tôi) không?|
+|～は　ちょっと|-|_ thì có lẽ không được rồi.|
+|だめ　ですか。|Không được à?|
+|また　こんど　おねがいします。|Hẹn anh/chị lần sau vậy.|

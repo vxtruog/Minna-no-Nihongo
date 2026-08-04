@@ -158,6 +158,20 @@ __なにが__　+ すきですか/きらいですか。
 
 __どんな__ + N + __が__ + すきですか/きらいですか。
 
+## 14. Giỏi/Kém
+N + __が__ + じょうずです/へたです。
+
+N + __が__ + じょうずじゃ　ありません。
+
+N + __が__ + じょうずですか。
+
+## 15. Có/Hiểu
+N + __が__ + あります/わかります。
+
+N + __が__ + ありません/わかりません。
+
+N + __が__ + ありますか/わかりますか。
+
 # Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2
 ```
@@ -211,4 +225,20 @@ __どんな__ + N + __が__ + すきですか/きらいですか。
 ```
 - Ý nghĩa: Câu 1 và câu 2.
 - Dùng để nối hai câu có ý tương đương nhau.
+```
+(Phó từ chỉ số lượng): __たくさん/すこし/あまり/ぜんぜん__　+ あります。
+```
+- Ý nghĩa: có nhiều/có ít/không có lắm (+phủ định)/hoàn toàn không có (+phủ định).
+- Dùng với số lượng có cái gì.
+```
+(Phó từ chỉ mức độ): よく/だいたい/すこし/あまり/ぜんぜん　+ わかります。
+```
+- Ý nghĩa: hiểu rõ/hiểu đại khái/hiểu một chút/không hiểu lắm (+phủ định)/hoàn toàn không (+phủ định).
+- Dùng với mức độ hiểu cái gì.
+```
+(Liên từ __から__): 「Câu 1」__から__、「Câu 2」。
+```
+- Ý nghĩa: Vì câu 1 nên câu 2.
+- Dùng cho mệnh đề nguyên nhân - kết quả.
+- Dùng để trả lời cho câu: どうして ...　。(tại sao?, vì sao?)
 ```

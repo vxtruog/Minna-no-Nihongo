@@ -276,7 +276,7 @@
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |__あります__|-|ở (dùng cho đồ vật)|
-|__います__|-|ở (dùng cho người, động vật)|
+|__います__|-|ở (dùng cho người, động vật), có|
 |__いろいろ「な」__|-|đa dạng, nhiều|
 |いぬ|-|con chó|
 |ねこ|-|con mèo|
@@ -304,6 +304,22 @@
 |のりば|-|điểm đón xe|
 |けん|-|tỉnh|
 |コーナー|-|góc, khu vực|
+
+# 11. Từ vựng bài 11
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__かかります__|-|mất, tốn (thời gian, tiền bạc)|
+|りんご|-|quả táo|
+|みかん|-|quả quýt|
+|サンドイッチ|-|bánh sandwich|
+|カレーライス|-|cơm cà ri|
+|アイスクリーム|-|kem|
+|きって|-|tem|
+|はがき|-|bưu thiếp|
+|ふうとう|-|phong bì|
+|がいこく|-|nước ngoài|
+|りゅうがくせい|-|du học sinh|
+|クラス|-|lớp học|
 
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|

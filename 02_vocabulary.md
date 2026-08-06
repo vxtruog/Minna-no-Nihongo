@@ -38,7 +38,7 @@
 |コンピューター|-|máy vi tính|
 |くるま|-|ô tô, xe hơi|
 |じどうしゃ|-|xe hơi (lịch sự hơn くるま)|
-|つくえ|-|cái bàn|
+|つくえ|-|cái bàn (làm việc/học tập)|
 |いす|-|cái ghế|
 |チョコレート|-|sôcôla|
 |コーヒー|-|cà phê|
@@ -271,6 +271,37 @@
 |ようじ|-|việc bận, công chuyện|
 |やくそく|-|cuộc hẹn, lời hứa|
 |アルバイト|-|việc làm thêm|
+
+# 10. Từ vựng bài 10
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__あります__|-|ở (dùng cho đồ vật)|
+|__います__|-|ở (dùng cho người, động vật)|
+|__いろいろ「な」__|-|đa dạng, nhiều|
+|いぬ|-|con chó|
+|ねこ|-|con mèo|
+|パンダ|-|con gấu trúc|
+|ぞう|-|con voi|
+|き|-|cái cây|
+|もの|-|đồ vật|
+|でんち|-|pin|
+|はこ|-|hộp|
+|スイッチ|-|công tắc|
+|ねいぞうこ|-|tủ lạnh|
+|テーブル|-|cái bàn|
+|ベッド|-|cái giường|
+|たな|-|giá sách, kệ sách|
+|ドア|-|cái cửa|
+|まど|-|cái cửa sổ|
+|ポスト|-|hộp thư, hòm thư|
+|ATM|-|máy rút tiền tự động|
+|ビル|-|tòa nhà|
+|コンビニ|-|cửa hàng tiện lợi|
+|こうえん|-|công viên|
+|きっさてん|-|quán giải khát, quán cà phê|
+|～や|-|cửa hàng _|
+|のりば|-|điểm đón xe|
+|けん|-|tỉnh|
 
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|

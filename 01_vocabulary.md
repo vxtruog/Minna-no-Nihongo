@@ -132,6 +132,23 @@
 |ぜんぜん|-|hoàn toàn _ không (dùng với thể phủ định)|
 |はやく|-|sớm, nhanh|
 |～から|-|vì|
+|おとこの　ひと|-|người đàn ông|
+|おんあの　ひと|-|người đàn bà|
+|おとこの　こ|-|cậu con trai|
+|おんなの　こ|-|cô con gái|
+|うえ|-|phía trên|
+|した|-|phía dưới|
+|まえ|-|phía trước|
+|うしろ|-|phía sau|
+|みぎ|-|bên phải|
+|ひだり|-|bên trái|
+|なか|-|bên trong, giữa|
+|そと|-|bên ngoài|
+|となり|-|bên cạnh|
+|ちかく|-|gần|
+|あいだ|-|giữa, ở giữa|
+|いちばん　した|-|ở dưới cùng|
+|～や　～など|-|_ và _ , ...|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -286,3 +303,4 @@
 |～は　ちょっと|-|_ thì có lẽ không được rồi.|
 |だめ　ですか。|-|Không được à?|
 |また　こんど　おねがいします。|-|Hẹn anh/chị lần sau vậy.|
+|どうも　すみません。|-|Cám ơn.|

@@ -285,6 +285,7 @@
 |き|-|cái cây|
 |もの|-|đồ vật|
 |でんち|-|pin|
+|ナンプラー|-|nước mắm|
 |はこ|-|hộp|
 |スイッチ|-|công tắc|
 |ねいぞうこ|-|tủ lạnh|
@@ -302,6 +303,7 @@
 |～や|-|cửa hàng _|
 |のりば|-|điểm đón xe|
 |けん|-|tỉnh|
+|コーナー|-|góc, khu vực|
 
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|

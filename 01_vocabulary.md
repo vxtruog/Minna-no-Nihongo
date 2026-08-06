@@ -77,7 +77,6 @@
 |まいにち|-|hàng ngày, mỗi ngày|
 |～から|-|từ ___ (thời điểm bắt đầu)|
 |～まで|-|đến ___ (thời điểm kết thúc|
-|～と～|-|___ và ___|
 |ばんごう|-|số|
 |でわばんごう|-|số điện thoại|
 |ひと|人|người|
@@ -148,7 +147,28 @@
 |ちかく|-|gần|
 |あいだ|-|giữa, ở giữa|
 |いちばん　した|-|ở dưới cùng|
-|～や　～など|-|_ và _ , ...|
+|ーにん|-|_ người|
+|ーだい|-|_ cái, chiếc (đếm máy móc, phương tiện giao thông.|
+|ーまい|-|_ tấm, tờ (đếm vật mỏng)|
+|ーかい|-|_ lần|
+|りょうしん|-|bố mẹ|
+|きょうだい|-|anh chị em|
+|あに|-|anh trai (của mình)|
+|おにいさん|-|anh trai (của người khác)|
+|あね|-|chị gái (của mình)|
+|おねえさん|-|chị gái (của người khác)|
+|おとおと|-|em trai (của mình)|
+|おとうとさん|-|em trai (của người khác)|
+|いもうと|-|em gái (của mình)|
+|いもうとさん|-|em gái (của người khác)|
+|ーじかん|-|_ tiếng|
+|ーしゅうかん|-|_ tuần|
+|ーかげつ|-|_ tháng|
+|ーねんかん|-|_ năm|
+|～ぐらい|-|khoảng ~|
+|ぜんぶで|-|tổng cộng|
+|みんな|-|tất cả|
+|～だけ|-|chỉ ~|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -243,6 +263,8 @@
 |どうな + N|-|N như thế nào|
 |どれ|-|cái nào|
 |どうして|-|tại sao|
+|いくつ|-|mấy cái, bao nhiêu cái|
+|どのくらい|-|bao lâu|
 
 # 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|

@@ -165,12 +165,28 @@ N + __が__ + じょうずじゃ　ありません。
 
 N + __が__ + じょうずですか。
 
-## 15. Có/Hiểu
+## 15. Có(sở hữu)/Hiểu
 N + __が__ + あります/わかります。
 
 N + __が__ + ありません/わかりません。
 
 N + __が__ + ありますか/わかりますか。
+
+## 16. Có(tồn tại) vật/người/động vật
+N + __が__ + あります/います。
+
+N_địa điểm + __に__ + N + __が__ + あります/います。
+
+N_địa điểm + __に__ + __なにが__ + ありますか。
+
+N_địa điểm + __に__ + __だねが__ + いますか。
+```
+- Nếu ở địa điểm mà không có vật/người thì dùng なにも/だねも + thể phủ định để trả lời.
+```
+
+N + __は__ + N_địa điểm + __に__ + あります/います。
+
+N + __は__ + __どこに__ + ありますか/いますか。
 
 # Ngữ pháp bổ sung
 (Trợ từ __の__): N1 __の__ N2
@@ -197,6 +213,12 @@ N + __が__ + ありますか/わかりますか。
 - N1 là danh từ chỉ địa điểm xuất xứ/hãng xuất xứ của N2.
 - N2 là danh từ chính.
 ```
+(Trợ từ __の__): N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ: ở N2 của N1.
+- N1 là danh từ chỉ người/vật/động vật.
+- N2 là những từ chỉ phương hướng, vị trí.
+```
 (Trợ từ __も__): S1 + __は__ + N + __です__。S2 + __も__ + N + __です__。
 ```
 - Ý nghĩa: S1 là N. S2 cũng là N.
@@ -206,6 +228,11 @@ N + __が__ + ありますか/わかりますか。
 - Ý nghĩa cụm danh từ: N1 và N2.
 - Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
 ```
+(Trợ từ __や__): N1 __や__ N2
+```
+- Ý nghĩa: Liệt kê một số đối tượng tiêu biểu và sau danh từ được nêu cuối cùng còn rất nhiều danh từ khác nữa.
+```
+
 (Phó từ __とても__): __とても__ + A
 ```
 - Ý nghĩa: rất A
@@ -216,16 +243,6 @@ N + __が__ + ありますか/わかりますか。
 - Ý nghĩa: không _ lắm
 - Là phó từ đi với câu phủ định thể hiện mức độ thấp của tính chất, trạng thái.
 ```
-(Liên từ __が__): 「Câu 1」__が__、「Câu 2」。
-```
-- Ý nghĩa: Câu 1 nhưng câu 2.
-- Dùng để nối hai câu có ý tương phản nhau.
-```
-(Liên từ __そして__): 「Câu 1」。__そして__「Câu 2」。
-```
-- Ý nghĩa: Câu 1 và câu 2.
-- Dùng để nối hai câu có ý tương đương nhau.
-```
 (Phó từ chỉ số lượng): __たくさん/すこし/あまり/ぜんぜん__　+ あります。
 ```
 - Ý nghĩa: có nhiều/có ít/không có lắm (+phủ định)/hoàn toàn không có (+phủ định).
@@ -235,6 +252,17 @@ N + __が__ + ありますか/わかりますか。
 ```
 - Ý nghĩa: hiểu rõ/hiểu đại khái/hiểu một chút/không hiểu lắm (+phủ định)/hoàn toàn không (+phủ định).
 - Dùng với mức độ hiểu cái gì.
+```
+
+(Liên từ __が__): 「Câu 1」__が__、「Câu 2」。
+```
+- Ý nghĩa: Câu 1 nhưng câu 2.
+- Dùng để nối hai câu có ý tương phản nhau.
+```
+(Liên từ __そして__): 「Câu 1」。__そして__「Câu 2」。
+```
+- Ý nghĩa: Câu 1 và câu 2.
+- Dùng để nối hai câu có ý tương đương nhau.
 ```
 (Liên từ __から__): 「Câu 1」__から__、「Câu 2」。
 ```

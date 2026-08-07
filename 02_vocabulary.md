@@ -276,7 +276,7 @@
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
 |__あります__|-|ở (dùng cho đồ vật)|
-|__います__|-|ở (dùng cho người, động vật), có|
+|__います__|-|ở (dùng cho người, động vật), có (tồn tại)|
 |__いろいろ「な」__|-|đa dạng, nhiều|
 |いぬ|-|con chó|
 |ねこ|-|con mèo|
@@ -320,6 +320,49 @@
 |がいこく|-|nước ngoài|
 |りゅうがくせい|-|du học sinh|
 |クラス|-|lớp học|
+
+# 12. Từ vựng bài 12
+|Thuần Nhật|Kanji|Nghĩa của từ|
+|-|-|-|
+|__かんたん「な」__|-|đơn giản, dễ|
+|__ちかい__|-|gần|
+|__とおい__|-|xa|
+|__はやい__|-|nhanh, sớm|
+|__おぞい__|-|muộn, chậm|
+|__おおい__|-|nhiều|
+|__すくない__|-|ít|
+|__あたたかい__|-|ấm|
+|__すずしい__|-|mát|
+|__あまい__|-|ngọt|
+|__からい__|-|cay|
+|__おもい__|-|nặng|
+|__かるい__|-|nhẹ|
+|__いい__|-|thích, chọn, dùng|
+|きせつ|-|mùa|
+|はる|-|mùa xuân|
+|なつ|-|mùa hè|
+|あき|-|mùa thu|
+|ふゆ|-|mùa đông|
+|てんき|-|thời tiết|
+|あめ|-|mưa|
+|ゆき|-|tuyết|
+|くもり|-|có mây|
+|ホテル|-|khách sạn|
+|くうこう|-|sân bay|
+|うみ|-|biển, đại dương|
+|せかい|-|thế giới|
+|パーテイー|-|tiệc|
+|おまつり|-|lễ hội|
+|すきやき|-|Sukiyaki (món lẩu thịt bò, rau)|
+|さしみ|-|Sashimi (món gỏi cá sống)|
+|おすし|-|Sushi (món cơm trộn giấm có cá tươi ở trên)|
+|てんぷら|-|Tempura (món hải sản và rau chiên tẩm bột)|
+|ぶたにく|-|thịt lợn|
+|とりにく|-|thịt gà|
+|ぎゅうにく|-|thịt bò|
+|レモン|-|quả chanh|
+|いけばな|-|nghệ thuật cắm hoa|
+|もみじ|-|cây lá đỏ, lá đỏ|
 
 # Tên địa danh trong tiếng Nhật
 |Thuần Nhật|Kanji|Nghĩa của từ|

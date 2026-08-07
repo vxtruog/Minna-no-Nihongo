@@ -169,6 +169,10 @@
 |ぜんぶで|-|tổng cộng|
 |みんな|-|tất cả|
 |～だけ|-|chỉ ~|
+|どちらも|-|cả hai|
+|いちばん|-|nhất|
+|ずっと|-|(hơn) hẳn|
+|はじめて|-|lần đầu tiên|
 
 # 2. Đếm số
 |Số|Số đếm|Số tuổi|Số tầng|Số giờ|Số phút|
@@ -265,6 +269,7 @@
 |どうして|-|tại sao|
 |いくつ|-|mấy cái, bao nhiêu cái|
 |どのくらい|-|bao lâu|
+|どちら|-|cái nào (trong hai cái)|
 
 # 5. Câu giao tiếp
 |Thuần Nhật|Kanji|Nghĩa của từ|

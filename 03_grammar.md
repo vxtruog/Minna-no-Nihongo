@@ -1,9 +1,77 @@
-# 1. Động từ thể ます
-||Quá khứ|Hiện tại & Tương lai|
-|-|-|-|
-|Khẳng định|Vました|Vます|
-|Phủ định|Vませんでした|Vません|
-|Nghi vấn|Vましたか|Ｖますか|
+# 1. Thời và thể trong tiếng Nhật
+<table>
+  <tr>
+    <th colspan="2">Động từ thể ます</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Hiện tại, Tương lai</b><br>
+      ⊕ Vます<br>
+      ⊖ Vません<br>
+      ⊙ Ｖますか<br>
+    </td>
+    <td>
+      <b>Quá khứ</b><br>
+      ⊕ Vました<br>
+      ⊖ Vませんでした<br>
+      ⊙ Vましたか<br>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Danh từ</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Hiện tại, Tương lai</b><br>
+      ⊕ Nです<br>
+      ⊖ Nじゃありません<br>
+      ⊙ Nですか<br>
+    </td>
+    <td>
+      <b>Quá khứ</b><br>
+      ⊕ Nでした<br>
+      ⊖ Nじゃありませんでした<br>
+      ⊙ Nでしたか<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2">Tính từ đuôi [な]</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Hiện tại, Tương lai</b><br>
+      ⊕ A(bỏ な）です<br>
+      ⊖ A(bỏ な）じゃありません<br>
+      ⊙ A(bỏ な）ですか<br>
+    </td>
+    <td>
+      <b>Quá khứ</b><br>
+      ⊕ A(bỏ な）でした<br>
+      ⊖ A(bỏ な）じゃありませんでした<br>
+      ⊙ A(bỏ な）でしたか<br>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Tính từ đuôi [い]</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Hiện tại, Tương lai</b><br>
+      ⊕ A(い）です<br>
+      ⊖ A(bỏ い）くないです<br>
+      ⊙ A(い）ですか<br>
+    </td>
+    <td>
+      <b>Quá khứ</b><br>
+      ⊕ A(bỏ い）かったです<br>
+      ⊖ A(bỏ い）くなかったです<br>
+      ⊙ A(bỏ い）かったですか<br>
+    </td>
+  </tr>
+</table>
 
 # 2. Câu có vị ngữ là danh từ
 S + は + N + __です__。

@@ -105,7 +105,7 @@ N_chỉ đồ vật + は + N_chỉ địa điểm + __です__。
 N + は + __どこ/どちら__ + __ですか__。
 ```
 - N là danh từ chỉ địa điểm, người, vật.
-- Nếu N là danh từ như おくに, かいしゃ, がっこう, だいがく,... thì đang hỏi về tên của nơi mình đang sinh sống, làm việc, học tập, ...
+- Nếu N là danh từ như お国, 会社, 学校, 大学,... thì đang hỏi về tên của nơi mình đang sinh sống, làm việc, học tập, ...
 ```
 # 5. Nói về thời gian
 ## 5.1. Hỏi giờ

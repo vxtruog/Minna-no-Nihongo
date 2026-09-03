@@ -53,18 +53,18 @@
 |あちら|-|phía kia, đằng kia (cách nói lịch sự của あそこ)|
 |ーかい / ーがい|-|tầng thứ ___|
 |ーえん|ー円|___ yên|
-|ひゃく|-|trăm|
-|せん|-|nghìn|
-|まん|-|mười nghìn, vạn|
+|ひゃく|百|trăm|
+|せん|千|nghìn|
+|まん|万|mười nghìn, vạn|
 |いま|今|bây giờ|
 |ーじ|ー時|___ giờ|
 |ーふん/ーぷん|ー分|___ phút|
 |はん|半|rưỡi, nửa|
 |ごぜん|-|A.M, trước 12 giờ trưa|
 |ごご|-|P.M, sau 12 giờ trưa|
-|あさ|-|buổi sáng|
-|ひる|-|buổi trưa|
-|ばん|-|buổi tối|
+|あさ|朝|buổi sáng|
+|ひる|昼|buổi trưa|
+|ばん|晩|buổi tối|
 |おととい|-|hôm kia|
 |きのう|-|hôm qua|
 |きょう|-|hôm nay|
@@ -72,9 +72,9 @@
 |あさって|-|ngày kia|
 |けさ|-|sáng nay|
 |こんばん|-|tối nay|
-|まいあさ|-|hàng sáng, mỗi sáng|
-|まいばん|-|hàng tối, mỗi tối|
-|まいにち|-|hàng ngày, mỗi ngày|
+|まいあさ|毎朝|hàng sáng, mỗi sáng|
+|まいばん|毎晩|hàng tối, mỗi tối|
+|まいにち||毎日hàng ngày, mỗi ngày|
 |～から|-|từ ___ (thời điểm bắt đầu)|
 |～まで|-|đến ___ (thời điểm kết thúc|
 |ばんごう|-|số|

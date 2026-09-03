@@ -1,16 +1,16 @@
 # 1. Từ vựng bài 1
 |Thuần Nhật|Kanji|Nghĩa của từ|
 |-|-|-|
-|せんせい|-|thầy/cô (xưng hô)|
+|せんせい|先生|thầy/cô (xưng hô)|
 |きょうし|-|giáo viên (giới thiệu nghề nghiệp)|
-|がくせい|-|học sinh, sinh viên|
-|かいしゃいん|-|nhân viên công ty (giới thiệu nghề nghiệp một cách chung chung)|
-|しゃいん|-|nhân viên công ty (dùng kèm theo công ty)|
+|がくせい|学生|học sinh, sinh viên|
+|かいしゃいん|-会社員|nhân viên công ty (giới thiệu nghề nghiệp một cách chung chung)|
+|しゃいん|社員|nhân viên công ty (dùng kèm theo công ty)|
 |ぎんこういん|-|nhân viên ngân hàng|
-|いしゃ|-|bác sĩ|
+|いしゃ|医者|bác sĩ|
 |けんきゅうしゃ|-|nhà nghiên cứu|
 |エンジニア|-|kỹ sư|
-|だいがく|-|trường đại học|
+|だいがく|大学|trường đại học|
 |びょういん|-|bệnh viện|
 
 # 2. Từ vựng bài 2

@@ -116,7 +116,7 @@ N_chỉ địa điểm quốc gia/thành phố + は + __今何時ですか__。
 - Trả lời: __時　__分 です。
 ```
 ## 5.2. Hỏi về thứ trong tuần
-N + は + __何ようび　ですか__。
+N + は + __何曜日ですか__。
 ```
 N là danh từ chỉ một mốc thời gian có thể xác định được thứ trong tuần.
 ```

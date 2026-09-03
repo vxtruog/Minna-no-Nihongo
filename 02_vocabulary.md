@@ -4,7 +4,7 @@
 |せんせい|先生|thầy/cô (xưng hô)|
 |きょうし|-|giáo viên (giới thiệu nghề nghiệp)|
 |がくせい|学生|học sinh, sinh viên|
-|かいしゃいん|-会社員|nhân viên công ty (giới thiệu nghề nghiệp một cách chung chung)|
+|かいしゃいん|会社員|nhân viên công ty (giới thiệu nghề nghiệp một cách chung chung)|
 |しゃいん|社員|nhân viên công ty (dùng kèm theo công ty)|
 |ぎんこういん|-|nhân viên ngân hàng|
 |いしゃ|医者|bác sĩ|

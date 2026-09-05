@@ -256,7 +256,8 @@ N + __は__ + N_địa điểm + __に__ + あります/います。
 
 N + __は__ + __どこに__ + ありますか/いますか。
 
-# Ngữ pháp bổ sung
+# * Ngữ pháp bổ sung
+## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2
 ```
 - Ý nghĩa cụm danh từ: N2 của N1.
@@ -283,7 +284,7 @@ N + __は__ + __どこに__ + ありますか/いますか。
 ```
 (Trợ từ __の__): N1 __の__ N2
 ```
-- Ý nghĩa cụm danh từ: ở N2 của N1.
+- Ý nghĩa cụm danh từ chỉ vị trí: ở N2 của N1.
 - N1 là danh từ chỉ người/vật/động vật.
 - N2 là những từ chỉ phương hướng, vị trí.
 ```
@@ -300,7 +301,7 @@ N + __は__ + __どこに__ + ありますか/いますか。
 ```
 - Ý nghĩa: Liệt kê một số đối tượng tiêu biểu và sau danh từ được nêu cuối cùng còn rất nhiều danh từ khác nữa.
 ```
-
+## 2. Phó từ
 (Phó từ __とても__): __とても__ + A
 ```
 - Ý nghĩa: rất A
@@ -316,12 +317,12 @@ N + __は__ + __どこに__ + ありますか/いますか。
 - Ý nghĩa: có nhiều/có ít/không có lắm (+phủ định)/hoàn toàn không có (+phủ định).
 - Dùng với số lượng có cái gì.
 ```
-(Phó từ chỉ mức độ): よく/だいたい/すこし/あまり/ぜんぜん　+ わかります。
+(Phó từ chỉ mức độ): __よく/だいたい/すこし/あまり/ぜんぜん__　+ わかります。
 ```
 - Ý nghĩa: hiểu rõ/hiểu đại khái/hiểu một chút/không hiểu lắm (+phủ định)/hoàn toàn không (+phủ định).
 - Dùng với mức độ hiểu cái gì.
 ```
-
+## 3. Liên từ
 (Liên từ __が__): 「Câu 1」__が__、「Câu 2」。
 ```
 - Ý nghĩa: Câu 1 nhưng câu 2.

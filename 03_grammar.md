@@ -268,6 +268,16 @@ Từ để hỏi có thể là いくつ (vật nói chung), なんまい (vật
 
 __どのくらい__ + (N + trợ từ) + Vます+ か。(... trong bao lâu ?)
 
+Khoảng thời gian/Lượng từ + __ぐらい__ (khoảng ...)
+
+N1 + trợ từ + lượng từ + __と__ + N2 + trợ từ + lượng từ + Vます。
+
+Khoảng thời gian + __に__ + ... + __かい__ + Vます。(làm gì bao nhiêu lần trong khoảng thời gian)
+
+=> __なんかいも__ +　Vます。(làm V rất nhiều lần)
+
+=> __いっかいも__ + Vません。(một lần cũng không)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

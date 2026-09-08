@@ -45,7 +45,7 @@
       <br>
     </td>
     <td>
-      <b>Nhóm III</b><br>
+      <b>Nhóm III</b>:<br>
       来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
       <b>Cách chia</b>:<br>
       <b>bỏ ます => thêm て<br>

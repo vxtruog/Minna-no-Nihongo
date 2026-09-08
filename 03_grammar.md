@@ -19,6 +19,29 @@
   </tr>
 
   <tr>
+    <th colspan="2">Động từ thể て</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I</b><br>
+      Là những động từ có âm trước ます thuộc cột い.<br><br>
+      <br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm II</b><br>
+      Là những động từ có âm trước ます thuộc cột え. Và những động từ có 3 âm tiết. Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, たります, できます, しんじます.<br>
+    </td>
+    <td>
+      <b>Nhóm III</b><br>
+      来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br>
+      <br>
+      <br>
+    </td>
+  </tr>
+
+  <tr>
     <th colspan="2">Danh từ</th>
   </tr>
   <tr>

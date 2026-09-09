@@ -200,6 +200,8 @@ V + ませんか。  (mời/rủ ai đó cùng làm một việc)
 
 V + ましょう。  (đề nghị cùng làm một việc)
 
+V + ましょうか。(để tôi làm V cho nhé)
+
 # 8. Thực hiện hành động bằng công cụ/cách thức
 N_công cụ/cách thức + __で__ + Vます。
 
@@ -330,6 +332,11 @@ N + __が__ + __ほしいですか__。
 Vます => __Vたい__ (muốn làm V)
 
 Từ để hỏi + __Vたい__ + ですか。
+
+## 20. Mẫu câu ứng dụng của Vて
+Vて ください。 (hãy làm V nhé)
+
+Vて います。 (đang làm V)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

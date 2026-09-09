@@ -338,6 +338,10 @@ Vて ください。 (hãy làm V nhé)
 
 Vて います。 (đang làm V)
 
+Vて もいいですか。(tôi làm V có được không)
+
+Vて は いけません。(cấm làm V, không được làm V)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

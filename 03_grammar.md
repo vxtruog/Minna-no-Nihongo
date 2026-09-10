@@ -338,6 +338,8 @@ Vて ください。 (hãy làm V nhé)
 
 Vて います。 (đang làm V)
 
+Vて います。 (V từ trong quá khứ, hiện tại vẫn V và tương lai vẫn tiếp diễn V)
+
 Vて もいいですか。(tôi làm V có được không)
 
 Vて は いけません。(cấm làm V, không được làm V)

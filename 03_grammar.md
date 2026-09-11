@@ -230,9 +230,9 @@ Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ
 B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
 
 # 10. Đã làm gì đó chưa
-__もう__ + Vますたか。
+__もう__ + Vましたか。
 
-＝> はい、__もう__ Vますた。
+＝> はい、__もう__ Vました。
 
 ＝> いいえ、__まだです__。
 
@@ -347,6 +347,8 @@ Vて います。 (thói quen, tập quán)
 Vて もいいですか。(tôi làm V có được không)
 
 Vて は いけません。(cấm làm V, không được làm V)
+
+V1て, V2て, ..., Vn。(liệt kê hành động xảy ra theo trình tự thời gian)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

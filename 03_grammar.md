@@ -190,7 +190,9 @@ Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
 N_chỉ địa điểm + __へ__ + V(bỏ ます)/N + __に__ + __いきます/きます/かえります__。
 
 # 7. Hành động và hoạt động
-S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ + Vます。
+S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ + Vます。(hành động xảy ra ở một địa điểm)
+
+S + は + N_chỉ địa điểm + __に__ + N_chỉ đối tượng + __を__ + Vます。(hành động tác động lên vị trí)
 
 S + は + (__どこで__) + (__なにを__) + Vます + __か__。
 
@@ -339,6 +341,8 @@ Vて ください。 (hãy làm V nhé)
 Vて います。 (đang làm V)
 
 Vて います。 (V từ trong quá khứ, hiện tại vẫn V và tương lai vẫn tiếp diễn V)
+
+Vて います。 (thói quen, tập quán)
 
 Vて もいいですか。(tôi làm V có được không)
 

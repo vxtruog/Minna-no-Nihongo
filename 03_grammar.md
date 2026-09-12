@@ -194,6 +194,8 @@ S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ +
 
 S + は + N_chỉ địa điểm + __に__ + N_chỉ đối tượng + __を__ + Vます。(hành động tác động lên vị trí)
 
+S + は + N_chỉ địa điểm + __を__ + でます。(ra khỏi địa điểm, vị trí)
+
 S + は + (__どこで__) + (__なにを__) + Vます + __か__。
 
 S + は + N_chỉ hoạt động + __を　します__。
@@ -347,6 +349,8 @@ Vて います。 (thói quen, tập quán)
 Vて もいいですか。(tôi làm V có được không)
 
 Vて は いけません。(cấm làm V, không được làm V)
+
+__どやって__ Vますか。(Làm V bằng cách nào?)
 
 V1て, V2て, ..., Vn。(liệt kê hành động xảy ra theo trình tự thời gian)
 

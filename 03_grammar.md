@@ -335,7 +335,7 @@ Vます => __Vたい__ (muốn làm V)
 
 Từ để hỏi + __Vたい__ + ですか。
 
-## 20. Mẫu câu ứng dụng của Vて
+## 20. Mẫu câu ứng dụng của thể て
 Vて ください。 (hãy làm V nhé)
 
 Vて います。 (đang làm V)
@@ -349,6 +349,17 @@ Vて もいいですか。(tôi làm V có được không)
 Vて は いけません。(cấm làm V, không được làm V)
 
 V1て, V2て, ..., Vn。(liệt kê hành động xảy ra theo trình tự thời gian)
+
+V1てから, V2。(sau khi làm V1 thì làm V2)
+
+A(bỏ い) + くて => A1くて, A2くて, ..., An。(liệt kê nhiều tính chất của đối tượng, cùng tích cực hoặc cùng tiêu cực)
+
+A(bỏ な) + で =>  A1で, A2で, ..., An。(liệt kê nhiều tính chất của đối tượng, cùng tích cực hoặc cùng tiêu cực)
+
+N + で => N1で, N2で, ..., Nn。(liệt kê nhiều danh từ)
+
+## 21. Miêu tả một bộ phận của đối tượng
+S + は + N + が + A + です。
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

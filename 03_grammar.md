@@ -439,6 +439,15 @@ Vなくて もいいです。(không cần làm V)
 
 Mốc thời gian + までに (hạn chót là mốc thời gian nào đó)
 
+## 23. Mẫu câu ứng dụng của thể る
+S + は + N/Vる + ことが + できます。(S có thể làm N/V)
+
+私のしゅみ + は + N/Vる こと です。(sở thích của tôi là ...)
+
+しゅみ + は + 何 + ですか。(sở thích của người nghe là gì?)
+
+V1る + まえに + V2. (trước khi làm V1 thì làm V2)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

@@ -402,8 +402,12 @@ Vます => __Vたい__ (muốn làm V)
 
 Từ để hỏi + __Vたい__ + ですか。
 
+ぜひ + Vたい。(rất muốn làm V)
+
 ## 20. Mẫu câu ứng dụng của thể て
 Vて ください。 (hãy làm V nhé)
+
+ぜひ Vて ください。 (nhất định làm V nhé)
 
 Vて います。 (đang làm V)
 
@@ -449,6 +453,8 @@ S + は + N/Vる + ことが + できます。(S có thể làm N/V)
 V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì làm V2)
 
 なかなか + Vません。(mãi mà không làm được V)
+
+なかなか + Vることができません。(khó có thể làm V)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

@@ -446,7 +446,9 @@ S + は + N/Vる + ことが + できます。(S có thể làm N/V)
 
 しゅみ + は + 何 + ですか。(sở thích của người nghe là gì?)
 
-V1る + まえに + V2. (trước khi làm V1 thì làm V2)
+V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì làm V2)
+
+なかなか + Vません。(mãi mà không làm được V)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

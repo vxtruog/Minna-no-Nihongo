@@ -58,7 +58,7 @@
   </tr>
 
   <tr>
-    <th colspan="2">Động từ thể phủ định ない</th>
+    <th colspan="2">Động từ thể phủ định ない (thể thông thường của ません)</th>
   </tr>
 
   <tr>
@@ -91,7 +91,7 @@
   </tr>
 
   <tr>
-    <th colspan="2">Động từ thể từ điển る</th>
+    <th colspan="2">Động từ thể từ điển る (thể thông thường của ます)</th>
   </tr>
 
   <tr>

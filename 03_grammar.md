@@ -468,15 +468,15 @@ Vて ください。 (hãy làm V nhé)
 
 ぜひ Vて ください。 (nhất định làm V nhé)
 
-Vて います。 (đang làm V)
+Vて います。 (đang làm V) => thể thông thường Vている。
 
 Vて います。 (V từ trong quá khứ, hiện tại vẫn V và tương lai vẫn tiếp diễn V)
 
 Vて います。 (thói quen, tập quán)
 
-Vて もいいですか。(tôi làm V có được không)
+Vて もいいですか。(tôi làm V có được không) => thể thông thường Vてもいい。
 
-Vて は いけません。(cấm làm V, không được làm V)
+Vて は いけません。(cấm làm V, không được làm V) => thể thông thường Vて は いけない。
 
 __どやって__ Vますか。(Làm V bằng cách nào?)
 
@@ -496,7 +496,7 @@ S + は + N + が + A + です。
 ## 22. Mẫu câu ứng dụng của thể ない
 Vないで ください。(đừng làm V)
 
-Vなければ なりません。(phải làm V)
+Vなければ なりません。(phải làm V)  => thể thông thường Vなければ ならない。
 
 Vなくて もいいです。(không cần làm V)
 

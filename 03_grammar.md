@@ -503,7 +503,7 @@ Vなくて もいいです。(không cần làm V)
 Mốc thời gian + までに (hạn chót là mốc thời gian nào đó)
 
 ## 23. Mẫu câu ứng dụng của thể る
-S + は + N/Vる + ことが + できます。(S có thể làm N/V)
+S + は + N/Vる + ことが + できます。(S có thể làm N/V) => thể thông thường ... できる。
 
 私のしゅみ + は + N/Vる こと です。(sở thích của tôi là ...)
 
@@ -516,13 +516,13 @@ V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì là
 なかなか + Vることができません。(khó có thể làm V)
 
 ## 24. Mẫu câu ứng dụng của thể た
-Vた ことが あります。(đã từng làm V, trải nghiệm nhưng ít xảy ra)
+Vた ことが あります。(đã từng làm V, trải nghiệm nhưng ít xảy ra) => thể thông thường ... ある。
 
 Vた ことが ありません。(chưa từng làm V)
 
 Vた ことが ありますか。(đã từng làm V chưa?)
 
-V1たり, V2たり, Vnたりします。(liệt kê hành động xảy ra trong quá khứ)
+V1たり, V2たり, Vnたりします。(liệt kê hành động xảy ra trong quá khứ) => thể thông thường ... Vnたりする。
 
 ## 25. Trở nên, trở thành
 A(bỏ い) + く + なります。
@@ -530,6 +530,8 @@ A(bỏ い) + く + なります。
 A(bỏ な) + に + なります。
 
 N + に + なります。
+
+=> thể thông thường ... なる。
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

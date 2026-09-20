@@ -533,6 +533,16 @@ N + に + なります。
 
 => thể thông thường ... なる。
 
+## 26. Nghĩ rằng, phỏng đoán
+
+Thể thông thường + __と__ + おもいます。(Tôi nghĩa là ...)
+
+Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩa là ... không ...)
+
+Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
+
+N + __に__ + __ついて__ + __どお__ + おもいますか。(Bạn nghĩ thế nào về N)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

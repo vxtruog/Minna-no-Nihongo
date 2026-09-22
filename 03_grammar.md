@@ -543,6 +543,42 @@ Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là .
 
 N + __に__ + __ついて__ + __どお__ + おもいますか。(Bạn nghĩ thế nào về N)
 
+## 27. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
+Mệnh đề bổ nghĩa thể thông thường + N
+
+Vる + じかん/やくそく/ようじ
+
+## 28. Khi ... thì ...
+Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2.
+
+どうしますか。(thì làm như thế nào)
+
+Vる + __とき__、vế 2. (V xảy ra sau vế 2)
+
+Vた + __とき__、vế 2. (V xảy ra trước vế 2)
+
+## 29. Hễ mà ... thì ...
+
+Vる + __と__、vế 2. (Hễ mà V xảy ra sau vế 2)
+
+## 30.
+Aは Bに Vて + あげます。(A làm V cho B)
+
+Bは Aに Vて + もらいます。(B được A làm V)
+
+Aは わたしに Nを くれます。(A cho tôi(người trong nhóm tôi) N)
+
+Aは わたしに Vて くれます。(A cho tôi(người trong nhóm tôi) N)
+
+## 31.
+もし MD1 (QKTTT) + ら、MD2。(Nếu ... thì ...)
+
+Vた ら、MD2。(Sau khi V thì ...)
+
+もし MD1 + ら、どう しますか。(Nếu ... thì ...)
+
+Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì ...)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

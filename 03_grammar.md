@@ -140,7 +140,7 @@
       <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
       Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, たります, できます, しんじます.<br><br>
       <b>Cách chia</b>:<br>
-      <b>bỏ ます => thêm た<br>
+      <b>bỏ ました => thêm た<br>
       <br>
       <br>
       <br>
@@ -150,7 +150,7 @@
       <b>Nhóm III</b>:<br>
       来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
       <b>Cách chia</b>:<br>
-      <b>bỏ ます => thêm た<br>
+      <b>bỏ ました => thêm た<br>
       <br>
       <br>
       <br>

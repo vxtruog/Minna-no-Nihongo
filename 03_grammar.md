@@ -36,7 +36,7 @@
     </td>
     <td>
       <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
-      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, 足ります, できます, しんじます.<br><br>
+      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, 足ります, できます, 信じます.<br><br>
       <b>Cách chia</b>:<br>
       <b>bỏ ます => thêm て<br>
       <br>

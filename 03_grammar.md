@@ -234,12 +234,7 @@
   </tr>
 </table>
 
-# 2. Câu có vị ngữ là danh từ
-S + は + thời và thể của danh từ。
-
-S + は + từ để hỏi + __ですか__。
-
-# 3. Nói về đồ vật
+# 2. Nói về đồ vật
 __こね/そね/あね__  + は + N_chỉ đồ vật + __です__。
 
 __こね/そね/あね__  + は + N_chỉ đồ vật + __(じゃ／では)　ありません__。
@@ -251,6 +246,32 @@ __こね/そね/あね__ + は + __何　ですか__。
 __こね/そね/あね__ + は + N1 + __ですか__、N2 + __ですか__。
 
 N_chỉ đồ vật + は + __いくら　ですか__。(hỏi về giá tiền của đồ vật)
+
+# 3. Nói về thời gian
+__今、何時ですか__。(Bây giờ là mấy giờ?)
+
+N_chỉ địa điểm quốc gia/thành phố + は + __今何時ですか__。(Ở N bây giờ là mấy giờ?)
+```
+- Trả lời: __時　__分 です。
+```
+
+N + は + __何曜日ですか__。(N là thứ mấy?)
+```
+N là danh từ chỉ một mốc thời gian có thể xác định được thứ trong tuần.
+```
+
+S + は + thời gian xác định + __に__ + Vます。
+
+S + は + thời gian không xác định + Vます。
+
+S + は + thời gian xác định + __から__ + thời gian xác định __まで__ + Vます。
+```
+から và まで không nhất thiết phải đi cùng với nhau, có thể sử dụng から riêng và まで riêng.
+```
+
+S + は + __いつ/何時に__ + Vます + __か__。
+
+S + は + __何時から 何時まで__ + Vます + __か__。
 
 # 4. Nói về địa điểm
 __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。
@@ -264,35 +285,8 @@ N + は + __どこ/どちら__ + __ですか__。
 - N là danh từ chỉ địa điểm, người, vật.
 - Nếu N là danh từ như お国, 会社, 学校, 大学,... thì đang hỏi về tên của nơi mình đang sinh sống, làm việc, học tập, ...
 ```
-# 5. Nói về thời gian
-## 5.1. Hỏi giờ
-__今、何時ですか__。
 
-N_chỉ địa điểm quốc gia/thành phố + は + __今何時ですか__。
-```
-- Trả lời: __時　__分 です。
-```
-## 5.2. Hỏi về thứ trong tuần
-N + は + __何曜日ですか__。
-```
-N là danh từ chỉ một mốc thời gian có thể xác định được thứ trong tuần.
-```
-## 5.3. Câu nói về hành động với thời gian
-S + は + thời gian xác định + __に__ + Vます。
-
-S + は + thời gian không xác định + Vます。
-
-S + は + thời gian xác định + __から__ + thời gian xác định __まで__ + Vます。
-```
-から và まで không nhất thiết phải đi cùng với nhau, có thể sử dụng から riêng và まで riêng.
-```
-## 5.4. Câu hỏi về hành động với thời gian
-S + は + __いつ/何時に__ + Vます + __か__。
-
-S + は + __何時から 何時まで__ + Vます + __か__。
-
-# 6. Động từ di chuyển
-S + は + N_chỉ địa điểm + __へ いきます/きます/かえります__。
+S + は + N_chỉ địa điểm + __へ__ + __いきます/きます/かえります__。
 ```
 - いきます, đi đến một nơi khác, điểm nhìn ở nơi xuất phát.
 - きます, đi đến nơi được lấy làm điểm nhìn (nơi người nói đang ở hoặc nơi người nói thuộc về).
@@ -309,28 +303,17 @@ S + は + (__だれと__) + (__なにで__) + (__どこへ__) + __いきます/�
 
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
 
-N_chỉ địa điểm + __へ__ + V(bỏ ます)/N + __に__ + __いきます/きます/かえります__。
+S + は + N_chỉ địa điểm + __へ__ + V(bỏ ます)/N + __に__ + __いきます/きます/かえります__。(đi đến đâu để làm V)
 
-# 7. Hành động và hoạt động
 S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ + Vます。(hành động xảy ra ở một địa điểm)
 
 S + は + N_chỉ địa điểm + __に__ + N_chỉ đối tượng + __を__ + Vます。(hành động tác động lên vị trí)
-
-N_chỉ đối tượng + は + N_chỉ địa điểm + __に/で__ + Vます。
 
 S + は + N_chỉ địa điểm + __を__ + でます。(ra khỏi địa điểm, vị trí)
 
 S + は + (__どこで__) + (__なにを__) + Vます + __か__。
 
-S + は + N_chỉ hoạt động + __を　します__。
-
-V + ませんか。  (mời/rủ ai đó cùng làm một việc)
-
-V + ましょう。  (đề nghị cùng làm một việc)
-
-V + ましょうか。(để tôi làm V cho nhé)
-
-# 8. Thực hiện hành động bằng công cụ/cách thức
+# 5. Thực hiện hành động bằng công cụ/cách thức
 N_công cụ/cách thức + __で__ + Vます。
 
 __何で__ + Vます + __か__。
@@ -338,6 +321,19 @@ __何で__ + Vます + __か__。
 「Từ/câu 1」+ は + ngôn ngữ + __で__ + 「Từ/câu 2」 + __です__。
 
 「Từ/câu 1」+ は + ngôn ngữ + __で__ + __何ですか__。
+
+# 6. Mời/Rủ
+V + ませんか。  (mời/rủ ai đó cùng làm một việc)
+
+V + ましょう。  (đề nghị cùng làm một việc)
+
+V + ましょうか。(để tôi làm V cho nhé)
+
+__もう__ + Vましたか。(đã làm V chưa)
+```
+＝> はい、__もう__ Vました。
+＝> いいえ、__まだです__。
+```
 
 # 9. Cho/Nhận
 A + は + B + __に__ + N + __を__ + V_cho。
@@ -354,13 +350,6 @@ Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ
 ```
 
 B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
-
-# 10. Đã làm gì đó chưa
-__もう__ + Vましたか。
-
-＝> はい、__もう__ Vました。
-
-＝> いいえ、__まだです__。
 
 ## 11. Câu có vị ngữ là tính từ
 S + は + thời và thể của tính từ。

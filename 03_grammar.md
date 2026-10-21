@@ -428,7 +428,7 @@ Từ để hỏi có thể là いくつ (vật nói chung), なんまい (vật
 
 __どのくらい__ + (N + trợ từ) + Vます+ か。(... trong bao lâu ?)
 
-Khoảng thời gian/Lượng từ + __ぐらい__ (khoảng ...)
+=> Khoảng thời gian/Lượng từ + __ぐらい__ (khoảng ...)
 
 N1 + trợ từ + lượng từ + __と__ + N2 + trợ từ + lượng từ + Vます。
 

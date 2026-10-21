@@ -135,18 +135,6 @@
 |おんあの　ひと|-|người đàn bà|
 |おとこの　こ|-|cậu con trai|
 |おんなの　こ|-|cô con gái|
-|うえ|-|phía trên|
-|した|-|phía dưới|
-|まえ|-|phía trước|
-|うしろ|-|phía sau|
-|みぎ|-|bên phải|
-|ひだり|-|bên trái|
-|なか|-|bên trong, giữa|
-|そと|-|bên ngoài|
-|となり|-|bên cạnh|
-|ちかく|-|gần|
-|あいだ|-|giữa, ở giữa|
-|いちばん　した|-|ở dưới cùng|
 |ーにん|-|_ người|
 |ーだい|-|_ cái, chiếc (đếm máy móc, phương tiện giao thông.|
 |ーまい|-|_ tấm, tờ (đếm vật mỏng)|

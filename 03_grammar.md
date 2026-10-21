@@ -432,6 +432,8 @@ __どのくらい__ + (N + trợ từ) + Vます+ か。(... trong bao lâu ?)
 
 N1 + trợ từ + lượng từ + __と__ + N2 + trợ từ + lượng từ + Vます。
 
+Khoảng thời gian/N + __だけ__ + Vます。(Chỉ V trong vòng/chỉ V mỗi ...)
+
 Khoảng thời gian xác định + __に__ + ... + __かい__ + Vます。(làm gì bao nhiêu lần trong khoảng thời gian)
 
 => __なんかいも__ +　Vます。(làm V rất nhiều lần)

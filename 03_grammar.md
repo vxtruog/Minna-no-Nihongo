@@ -598,7 +598,19 @@ Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì ...)
 ```
 - Ý nghĩa cụm danh từ chỉ vị trí: ở N2 của N1.
 - N1 là danh từ chỉ người/vật/động vật.
-- N2 là những từ chỉ phương hướng, vị trí.
+- N2 là những từ chỉ phương hướng, vị trí như:
+  + うえ (上): phía trên
+  + した (下): phía dưới
+  + まえ (前): phía trước
+  + うしろ (後ろ): phía sau
+  + みぎ (右): bên phải
+  + ひだり (左): bên trái
+  + なか (中): bên trong
+  + そと (外): bên ngoài
+  + となり (隣): bên cạnh
+  + ちかく (近く): gần (nơi nào đó)
+  + あいだ (間): giữa (hai hoặc nhiều đối tượng)
+  + いちばん　うえ/した: ở trên/dưới cùng
 ```
 (Trợ từ __も__): S1 + __は__ + N + __です__。S2 + __も__ + N + __です__。
 ```

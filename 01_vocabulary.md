@@ -38,19 +38,7 @@
 |～くん|-|hậu tố thêm vào phía sau tên của bé trai|
 |～じん|～人|hậu tố thêm vào phía sau, mang nghĩa là người|
 |ーさい|-|___ tuổi|
-|これ|-|cái này (ở gần người nói)|
-|それ|-|cái đó (ở gần người nghe)|
-|あれ|-|cái kia (ở xa cả người nói và người nghe)|
-|この　+ N|-|___ này|
-|その　+ N|-|___ đó|
-|あの　+ N|-|___ kia|
 |～ご|-|tiếng/ngôn ngữ ___|
-|ここ|-|chỗ này, đằng này|
-|そこ|-|chỗ đó, đằng đó|
-|あそこ|-|chỗ kia, đằng kia|
-|こちら|-|phía này, đằng này (cách nói lịch sự của ここ)|
-|そちら|-|phía đó, đằng đó (cách nói lịch sự của そこ)|
-|あちら|-|phía kia, đằng kia (cách nói lịch sự của あそこ)|
 |ーかい / ーがい|-|tầng thứ ___|
 |ーえん|ー円|___ yên|
 |ひゃく|百|trăm|

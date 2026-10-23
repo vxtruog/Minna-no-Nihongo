@@ -322,8 +322,6 @@ S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ +
 
 S + は + N_chỉ địa điểm + __に__ + N_chỉ đối tượng + __を__ + Vます。(hành động tác động lên vị trí)
 
-S + は + N_chỉ địa điểm + __を__ + でます。(ra khỏi địa điểm, vị trí)
-
 S + は + (__どこで__) + (__なにを__) + Vます + __か__。
 
 # 5. Thực hiện hành động bằng công cụ/cách thức
@@ -374,6 +372,8 @@ S + は + __どう__ + __ですか/でしたか__。
 S + は + __A_な / A_い__ + N + __です__。(cụm danh từ)
 
 S + は + __どんな__ + N + __ですか/でしたか__。
+
+S + は + N + が + A + です。(miêu tả bộ phận N của đối tượng S)
 
 # 9. Thích/Ghét
 N + __が__ + すきです/きらいです。
@@ -503,9 +503,6 @@ A(bỏ な) + で =>  A1で, A2で, ..., An。(liệt kê nhiều tính chất c
 A1 ですが、A2 です。(liệt kê tính chất nhưng tính chất đối ngược nhau)
 
 N + で => N1で, N2で, ..., Nn。(liệt kê nhiều danh từ)
-
-## 21. Miêu tả một bộ phận của đối tượng
-S + は + N + が + A + です。
 
 ## 22. Mẫu câu ứng dụng của thể ない
 Vないで ください。(đừng làm V)

@@ -500,6 +500,8 @@ A(bỏ い) + くて => A1くて, A2くて, ..., An。(liệt kê nhiều tính 
 
 A(bỏ な) + で =>  A1で, A2で, ..., An。(liệt kê nhiều tính chất của đối tượng, cùng tích cực hoặc cùng tiêu cực)
 
+A1 ですが、A2 です。(liệt kê tính chất nhưng tính chất đối ngược nhau)
+
 N + で => N1で, N2で, ..., Nn。(liệt kê nhiều danh từ)
 
 ## 21. Miêu tả một bộ phận của đối tượng

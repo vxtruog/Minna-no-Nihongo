@@ -486,6 +486,8 @@ Vて います。 (thói quen, tập quán)
 
 Vて もいいですか。(tôi làm V có được không) => thể thông thường Vてもいい。
 
+Vて もいいです。(cho phép làm V)
+
 Vて は いけません。(cấm làm V, không được làm V) => thể thông thường Vて は いけない。
 
 __どやって__ Vますか。(Làm V bằng cách nào?)

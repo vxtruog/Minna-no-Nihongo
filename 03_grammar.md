@@ -504,7 +504,7 @@ A1 ですが、A2 です。(liệt kê tính chất nhưng tính chất đối n
 
 N + で => N1で, N2で, ..., Nn。(liệt kê nhiều danh từ)
 
-## 22. Mẫu câu ứng dụng của thể ない
+## 17. Mẫu câu ứng dụng của thể ない
 Vないで ください。(đừng làm V)
 
 Vなければ なりません。(phải làm V)  => thể thông thường Vなければ ならない。
@@ -513,10 +513,12 @@ Vなくて もいいです。(không cần làm V)
 
 Mốc thời gian + までに (hạn chót là mốc thời gian nào đó)
 
-## 23. Mẫu câu ứng dụng của thể る
-S + は + N/Vる + ことが + できます。(S có thể làm N/V) => thể thông thường ... できる。
+## 18. Mẫu câu ứng dụng của thể る
+S + は + N + が + できます。(S có thể làm N) => thể thông thường ... できる。
 
-私のしゅみ + は + N/Vる こと です。(sở thích của tôi là ...)
+S + は + Vること + が + できます。(S có thể làm V)
+
+私のしゅみ + は + N/Vること です。(sở thích của tôi là ...)
 
 しゅみ + は + 何 + ですか。(sở thích của người nghe là gì?)
 

@@ -13,7 +13,7 @@
     <td>
       <b>Quá khứ</b><br>
       ⊕ Vました<br>
-      ⊖ Vませんでした<br>
+      ⊖ Vませんでした<br>（Thể thông thường là Vなかった)<br>
       ⊙ Vましたか<br>
     </td>
   </tr>
@@ -88,10 +88,6 @@
       <br>
       <br>
     </td>
-  </tr>
-
-  <tr>
-    <th colspan="2">Vなかった (thể thông thường của Vませんでした)</th>
   </tr>
 
   <tr>

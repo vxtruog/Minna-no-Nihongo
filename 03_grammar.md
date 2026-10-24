@@ -546,15 +546,14 @@ N + に + なります。
 
 => thể thông thường ... なる。
 
-## 26. Nghĩ rằng, phỏng đoán
+## 21. Nghĩ rằng, phỏng đoán
+N + に + ついて + どう  おもいますか。(Bạn nghĩ như thế nào về vấn đề N?)
 
-Thể thông thường + __と__ + おもいます。(Tôi nghĩa là ...)
+Thể thông thường + __と__ + おもいます。(Tôi nghĩ là ...)
 
-Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩa là ... không ...)
+Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ là ... không ...)
 
 Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
-
-N + __に__ + __ついて__ + __どお__ + おもいますか。(Bạn nghĩ thế nào về N)
 
 ## 27. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
 Mệnh đề bổ nghĩa thể thông thường + N

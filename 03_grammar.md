@@ -528,7 +528,7 @@ V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì là
 
 なかなか + Vることができません。(khó có thể làm V)
 
-## 24. Mẫu câu ứng dụng của thể た
+## 19. Mẫu câu ứng dụng của thể た
 Vた ことが あります。(đã từng làm V, trải nghiệm nhưng ít xảy ra) => thể thông thường ... ある。
 
 Vた ことが ありません。(chưa từng làm V)
@@ -537,7 +537,7 @@ Vた ことが ありますか。(đã từng làm V chưa?)
 
 V1たり, V2たり, Vnたりします。(liệt kê hành động xảy ra trong quá khứ) => thể thông thường ... Vnたりする。
 
-## 25. Trở nên, trở thành
+## 20. Trở nên, trở thành
 A(bỏ い) + く + なります。
 
 A(bỏ な) + に + なります。

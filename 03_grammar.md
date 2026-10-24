@@ -91,6 +91,10 @@
   </tr>
 
   <tr>
+    <th colspan="2">Vなかった (thể thông thường của Vませんでした)</th>
+  </tr>
+
+  <tr>
     <th colspan="2">Động từ thể từ điển る (thể thông thường của ます)</th>
   </tr>
 

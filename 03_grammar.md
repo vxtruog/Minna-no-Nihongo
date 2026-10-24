@@ -504,7 +504,7 @@ A1 ですが、A2 です。(liệt kê tính chất nhưng tính chất đối n
 
 N + で => N1で, N2で, ..., Nn。(liệt kê nhiều danh từ)
 
-## 17. Mẫu câu ứng dụng của thể ない
+# 17. Mẫu câu ứng dụng của thể ない
 Vないで ください。(đừng làm V)
 
 Vなければ なりません。(phải làm V)  => thể thông thường Vなければ ならない。
@@ -513,7 +513,7 @@ Vなくて もいいです。(không cần làm V)
 
 Mốc thời gian + までに (hạn chót là mốc thời gian nào đó)
 
-## 18. Mẫu câu ứng dụng của thể る
+# 18. Mẫu câu ứng dụng của thể る
 S + は + N + が + できます。(S có thể làm N) => thể thông thường ... できる。
 
 S + は + Vること + が + できます。(S có thể làm V)
@@ -528,7 +528,7 @@ V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì là
 
 なかなか + Vることができません。(khó có thể làm V)
 
-## 19. Mẫu câu ứng dụng của thể た
+# 19. Mẫu câu ứng dụng của thể た
 Vた ことが あります。(đã từng làm V, trải nghiệm nhưng ít xảy ra) => thể thông thường ... ある。
 
 Vた ことが ありません。(chưa từng làm V)
@@ -537,7 +537,7 @@ Vた ことが ありますか。(đã từng làm V chưa?)
 
 V1たり, V2たり, Vnたりします。(liệt kê hành động xảy ra trong quá khứ) => thể thông thường ... Vnたりする。
 
-## 20. Trở nên, trở thành
+# 20. Trở nên, trở thành
 A(bỏ い) + く + なります。
 
 A(bỏ な) + に + なります。
@@ -546,7 +546,7 @@ N + に + なります。
 
 => thể thông thường ... なる。
 
-## 21. Nghĩ rằng, phỏng đoán
+# 21. Nghĩ rằng, phỏng đoán
 N + に + ついて + どう  おもいますか。(Bạn nghĩ như thế nào về vấn đề N?)
 
 Thể thông thường + __と__ + おもいます。(Tôi nghĩ là ...)
@@ -554,6 +554,11 @@ Thể thông thường + __と__ + おもいます。(Tôi nghĩ là ...)
 Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ là ... không ...)
 
 Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
+
+# 22. Trích dẫn câu nói
+「Câu nói」 + と + 言います。(Khẩu ngữ)
+
+
 
 ## 27. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
 Mệnh đề bổ nghĩa thể thông thường + N

@@ -376,11 +376,13 @@ Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ
 
 B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
 
-A + は + B + に + Vて + あげます。(A làm V cho B)
+A + は + (N + を) + B + に + Vて + あげます。(A làm V cho B)
 
-A + は + B + に + Vて + くれます。(A làm V cho B, B là tôi/người trong nhóm tôi)
+A + は + B + に + (N + を) + Vて + くれます。(A làm V cho B, B là tôi/người trong nhóm tôi)
 
-B + は + A + に + Vて + もらいます。(B được A làm V)
+B + は + (N + を) + A + に + Vて + もらいます。(B được A làm V)
+
+N + が + (Vて) + くれましたよ。(N tặng cho tôi đó, để giải thích thêm thông tin)
 
 # 8. Câu có vị ngữ là tính từ
 S + は + thời và thể của tính từ。

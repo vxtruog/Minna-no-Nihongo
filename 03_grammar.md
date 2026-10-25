@@ -340,7 +340,7 @@ V + ませんか。  (mời/rủ ai đó cùng làm một việc)
 
 V + ましょう。  (đề nghị cùng làm một việc)
 
-V + ましょうか。(để tôi làm V cho nhé)
+V + ましょうか。(để tôi làm V cho nhé/hãy cùng làm nhé)
 
 __もう__ + Vましたか。(đã làm V chưa)
 ```
@@ -579,7 +579,11 @@ N + でも + V。(Làm gì đó như N chẳng hạn)
 ## 27. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
 Mệnh đề bổ nghĩa thể thông thường + N
 
-Vる + じかん/やくそく/ようじ
+```
+Chủ ngữ trong mệnh đề bổ nghĩa sẽ đi với trợ từ が thay vì đi với は.
+```
+
+Vる + じかん/やくそく/ようじ (Thời gian/Cuộc hẹn/Việc bận làm gì đó)
 
 ## 28. Khi ... thì ...
 Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2.

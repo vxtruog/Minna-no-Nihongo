@@ -378,9 +378,9 @@ B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
 
 A + は + B + に + Vて + あげます。(A làm V cho B)
 
-B + は + A + に + Vて + もらいます。(B được A làm V)
-
 A + は + B + に + Vて + くれます。(A làm V cho B, B là tôi/người trong nhóm tôi)
+
+B + は + A + に + Vて + もらいます。(B được A làm V)
 
 # 8. Câu có vị ngữ là tính từ
 S + は + thời và thể của tính từ。

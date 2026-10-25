@@ -625,6 +625,27 @@ Vた + ら、MD2。(Sau khi V thì MD2, thời điểm/điều kiện/kết qu�
 
 Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)
 
+# 26. ～んです
+TTT + んですか。(Xác nhận thông tin, yêu cầu cung cấp thêm thông tin, giải thích lý do, giải thích tình trạng)
+
+```
+- Với A(な) hoặc N nếu có đuôi だ thì đổi thành な.
+- Khi trả lời xác nhận thông tin, yêu cầu cung cấp thêm thông tin thì không sử dụng んです.
+```
+
+TTT + んです。(Giải thích lý do/tình trạng, cung cấp thêm lý do)
+
+```
+- Khi trả lời giải thích lý do có どうして có thể dùng んです thay cho から.
+```
+
+TTT + んですが、... (mở đầu ngập ngừng để nhờ vả)
+
+TTT + んですが、Vて いただけませんか。(vì ... nên làm gì đó cho tôi được không?, lịch sự hơn Vて ください)
+
+TTT + んですが、từ để hỏi + Vた らいいですか。(vì ... nên làm thế nào thì tốt?, xin lời khuyên)
+
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

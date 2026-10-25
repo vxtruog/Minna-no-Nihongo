@@ -416,6 +416,8 @@ N + __は__ + N_địa điểm + __に__ + あります/います。
 
 N + __は__ + __どこに__ + ありますか/いますか。
 
+N_địa điểm + で + N_sự kiện + が + あります。(N_sự kiện được tổ chức/xảy ra ở N_địa điểm)
+
 # 13. Câu có chứa lượng từ
 N + trợ từ + lượng từ + Vます。
 
@@ -509,6 +511,8 @@ Vないで ください。(đừng làm V)
 
 Vなければ なりません。(phải làm V)  => thể thông thường Vなければ ならない。
 
+Vないと。(phải làm V) => dạng rút ngắn của Vなければ なりません。
+
 Vなくて もいいです。(không cần làm V)
 
 Mốc thời gian + までに (hạn chót là mốc thời gian nào đó)
@@ -555,10 +559,22 @@ Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ l
 
 Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
 
+Thể thông thường + でしょう。(... phải không? => phỏng đoán, xác nhận lại)
+
 # 22. Trích dẫn câu nói
+... + なん + と + 言いますか。(... thì nói điều gì?)
+
 「Câu nói」 + と + 言います。(Khẩu ngữ)
 
+S + は + なん + と + 言いましたか。(S đã nói điều gì?)
 
+S + は +「Câu nói」 + と + 言いました。(Trích dẫn trực tiếp câu nói của S)
+
+S + は +「Câu nói thể thông thường」 + と + 言いました。(Trích dẫn gián tiếp câu nói của S)
+
+N_tình huống + で + V。(Diễn ra việc gì đó trong tình huống N)
+
+N + でも + V。(Làm gì đó như N chẳng hạn)
 
 ## 27. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
 Mệnh đề bổ nghĩa thể thông thường + N

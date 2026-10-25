@@ -576,7 +576,7 @@ N_tình huống + で + V。(Diễn ra việc gì đó trong tình huống N)
 
 N + でも + V。(Làm gì đó như N chẳng hạn)
 
-## 27. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
+# 23. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
 Mệnh đề bổ nghĩa thể thông thường + N
 
 ```
@@ -585,18 +585,16 @@ Chủ ngữ trong mệnh đề bổ nghĩa sẽ đi với trợ từ が thay v�
 
 Vる + じかん/やくそく/ようじ (Thời gian/Cuộc hẹn/Việc bận làm gì đó)
 
-## 28. Khi ... thì ...
-Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2.
+# 24. Khi/Hễ mà ... thì ...
+Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2. (Khi ... thì vế 2)
 
-どうしますか。(thì làm như thế nào)
+... どうしますか。(... thì làm như thế nào)
 
 Vる + __とき__、vế 2. (V xảy ra sau vế 2)
 
 Vた + __とき__、vế 2. (V xảy ra trước vế 2)
 
-## 29. Hễ mà ... thì ...
-
-Vる + __と__、vế 2. (Hễ mà V xảy ra sau vế 2)
+Vる + __と__、vế 2. (Hễ mà V thì xảy ra vế 2 một cách chắc chắn)
 
 ## 30.
 Aは Bに Vて + あげます。(A làm V cho B)

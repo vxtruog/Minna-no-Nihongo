@@ -363,11 +363,11 @@ __もう__ + Vましたか。(đã làm V chưa)
 ```
 
 # 7. Cho/Nhận
-A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó, B không được là "わたし")
+A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó)
 
 A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
 
-A + は + B + に + N + を くれます。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
+A + は + B + __に__ + N + __を__ + くれます。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
 
 B + は + A + __に__ + N + __を__ + V_nhận。
 ```
@@ -380,7 +380,7 @@ A + は + B + に + Vて + あげます。(A làm V cho B)
 
 B + は + A + に + Vて + もらいます。(B được A làm V)
 
-A + は + B + に + Vて くれます。(A làm V cho B, B là tôi/người trong nhóm tôi)
+A + は + B + に + Vて + くれます。(A làm V cho B, B là tôi/người trong nhóm tôi)
 
 # 8. Câu có vị ngữ là tính từ
 S + は + thời và thể của tính từ。

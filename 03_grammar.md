@@ -13,7 +13,7 @@
     <td>
       <b>Quá khứ</b><br>
       ⊕ Vました<br>
-      ⊖ Vませんでした<br>（Thể thông thường là Vなかった)<br>
+      ⊖ Vませんでした<br>
       ⊙ Vましたか<br>
     </td>
   </tr>

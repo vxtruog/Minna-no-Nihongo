@@ -158,7 +158,21 @@
       <br>
     </td>
   </tr>
-
+        
+  <tr>
+    <th colspan="2">Động từ thể phủ định trong quá khứ</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Phủ định quá khứ</b><br>
+      Vませんでした
+    </td>
+    <td>
+      <b>Thể thông thường</b><br>
+      Vなかった
+    </td>
+  </tr>
+  
   <tr>
     <th colspan="2">Danh từ</th>
   </tr>

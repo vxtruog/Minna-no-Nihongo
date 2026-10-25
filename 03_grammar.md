@@ -516,7 +516,7 @@ __どやって__ Vますか。(Làm V bằng cách nào?)
 
 V1て, V2て, ..., Vn。(liệt kê hành động xảy ra theo trình tự thời gian)
 
-V1てから, V2。(sau khi làm V1 thì làm V2)
+V1てから, V2。(sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
 
 A(bỏ い) + くて => A1くて, A2くて, ..., An。(liệt kê nhiều tính chất của đối tượng, cùng tích cực hoặc cùng tiêu cực)
 
@@ -616,14 +616,14 @@ Vた + __とき__、vế 2. (V xảy ra trước vế 2)
 
 Vる + __と__、vế 2. (Hễ mà V thì xảy ra vế 2 một cách chắc chắn)
 
-## 31.
-もし MD1 (QKTTT) + ら、MD2。(Nếu ... thì ...)
+# 25. Nếu/Cho dù ... thì ...
+もし MD1 (QKTTT) + ら、MD2。(Nếu MD1 thì MD2)
 
-Vた ら、MD2。(Sau khi V thì ...)
+Vた + ら、MD2。(Sau khi V thì MD2, thời điểm/điều kiện/kết quả bất ngờ)
 
-もし MD1 + ら、どう しますか。(Nếu ... thì ...)
+もし MD1 + ら、どう しますか。(Nếu MD1 thì bạn sẽ làm gì)
 
-Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì ...)
+Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

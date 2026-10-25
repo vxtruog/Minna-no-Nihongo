@@ -363,13 +363,11 @@ __もう__ + Vましたか。(đã làm V chưa)
 ```
 
 # 7. Cho/Nhận
-A + は + B + __に__ + N + __を__ + V_cho。
-```
-V_cho gồm あげます/おくります/かします/おしえます/かけます/かきます.
-Riêng đối với あげます, B không được là "わたし".
-```
+A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó, B không được là "わたし")
 
 A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
+
+A + は + B + に + N + を くれます。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
 
 B + は + A + __に__ + N + __を__ + V_nhận。
 ```
@@ -377,6 +375,12 @@ Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ
 ```
 
 B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
+
+A + は + B + に + Vて + あげます。(A làm V cho B)
+
+B + は + A + に + Vて + もらいます。(B được A làm V)
+
+A + は + B + に + Vて くれます。(A làm V cho B, B là tôi/người trong nhóm tôi)
 
 # 8. Câu có vị ngữ là tính từ
 S + は + thời và thể của tính từ。
@@ -609,15 +613,6 @@ Vる + __とき__、vế 2. (V xảy ra sau vế 2)
 Vた + __とき__、vế 2. (V xảy ra trước vế 2)
 
 Vる + __と__、vế 2. (Hễ mà V thì xảy ra vế 2 một cách chắc chắn)
-
-## 30.
-Aは Bに Vて + あげます。(A làm V cho B)
-
-Bは Aに Vて + もらいます。(B được A làm V)
-
-Aは わたしに Nを くれます。(A cho tôi(người trong nhóm tôi) N)
-
-Aは わたしに Vて くれます。(A cho tôi(người trong nhóm tôi) N)
 
 ## 31.
 もし MD1 (QKTTT) + ら、MD2。(Nếu ... thì ...)

@@ -369,7 +369,7 @@ A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
 
 A + は + B + __に__ + N + __を__ + くれます。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
 
-B + は + A + __に__ + N + __を__ + V_nhận。
+B + は + A + __に__ + N + __を__ + V_nhận。(B nhận từ A cái gì đó)
 ```
 Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ từ に bằng から.
 ```

@@ -246,6 +246,36 @@
       <br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="2">Động từ thể khả năng</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I</b>: Là những động từ có âm trước ます thuộc cột い.<br><br>
+      <b>Cách chia</b> （bỏ ます):<br>
+      <b>cột い => cột え + る<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
+      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, たります, できます, 信じます.<br><br>
+      <b>Cách chia</b>:<br>
+      <b>bỏ ます => thêm らります<br>
+      <br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III</b>:<br>
+      来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
+      <b>Cách chia</b>:<br>
+      <b>きます => こられます<br>
+      <b>します => できます<br>
+      <br>
+    </td>
+  </tr>
+        
 </table>
 
 # 2. Nói về đồ vật
@@ -645,6 +675,27 @@ TTT + んですが、Vて いただけませんか。(vì ... nên làm gì đó
 
 TTT + んですが、từ để hỏi + Vた らいいですか。(vì ... nên làm thế nào thì tốt?, xin lời khuyên)
 
+# 27. Thể khả năng (rút gọn của mẫu câu Vる ことが できます。)
+```
+- Trợ từ を sẽ đổi thành が.
+- Ngoại lệ: できる, みえる, ある, いる, わかる, きこえる, しりる.
+```
+
+みます => みられます: có thể nhìn thấy (có chủ ý)
+
+みえます: có thể nhìn thấy (không có chủ ý)
+
+ききます => きけます: có thể nghe thấy (có chủ ý)
+
+きこえます: có thể nhìn thấy (không có chủ ý)
+
+N_sự việc + が + できました。(N được hoàn thành/Có N phát sinh)
+
+N_địa điểm + に + N_công trình + が + できます/できました。(tại địa điểm N có công trình N được xây dựng xong)
+
+～しか + V_phủ định (chỉ V) = ～だけ + V_khẳng định
+
+～N1 + は + V_khả năng + が、N2 ＋
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

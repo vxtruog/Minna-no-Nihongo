@@ -697,6 +697,9 @@ N_địa điểm + に + N_công trình + が + できます/できました。(
 
 ～N1 + は + V_khả năng + が、N2 ＋ は + V_phủ định khả năng。(Có thể V1 nhưng không thể V2)
 
+# 28. Vừa ... vừa ...
+V1 (bỏ ます）+ ながら + V2。(Vừa làm V1, vừa làm V2, V2 là hành động chính)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

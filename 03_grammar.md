@@ -695,7 +695,7 @@ N_địa điểm + に + N_công trình + が + できます/できました。(
 
 ～しか + V_phủ định (chỉ V) = ～だけ + V_khẳng định
 
-～N1 + は + V_khả năng + が、N2 ＋
+～N1 + は + V_khả năng + が、N2 ＋ は + V_phủ định khả năng。(Có thể V1 nhưng không thể V2)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

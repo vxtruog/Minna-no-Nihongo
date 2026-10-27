@@ -392,6 +392,61 @@ __もう__ + Vましたか。(đã làm V chưa)
 ＝> いいえ、まだです。(không, vẫn chưa)
 ```
 
+# 7. Liệt kê và nối
+N1 __と__ N2
+```
+- Ý nghĩa: N1 và N2 (liệt kê đầy đủ).
+- Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
+```
+N1 __や__ N2
+```
+- Ý nghĩa: N1 và N2 (liệt kê không đầy đủ).
+- Liệt kê một số đối tượng tiêu biểu và sau danh từ được nêu cuối cùng còn rất nhiều danh từ khác nữa.
+```
+N1 __とか__、N2 __とか__
+```
+- Ý nghĩa: như là ... như là ... (liệt kê ví dụ tiêu biểu)
+- Thường mang sắc thái hội thoại.
+```
+A(bỏ い) + __くて__ => A1くて, A2くて, ..., An。
+```
+- Ý nghĩa: A1, A2, ... và An
+- Nối nhiều tính chất của đối tượng, tính chất cùng quan điểm
+```
+A(bỏ な) + __で__ =>  A1で, A2で, ..., An。
+```
+- Ý nghĩa: A1, A2, ... và An
+- Nối nhiều tính chất của đối tượng, tính chất cùng quan điểm
+```
+A1 ですが, A2 です。
+```
+- Ý nghĩa: A1 nhưng A2
+- Nối tính chất tương phản
+```
+N + __で__ => N1で, N2で, ..., Nn。(nối nhiều danh từ/mệnh đề danh từ)
+
+V1て, V2て, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
+
+V1たり, V2たり, Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
+
+V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
+
+V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
+
+TTT + し, TTT + し, ... 
+```
+- Ý nghĩa 1: Vì có A, có B, ... nên ...
+- Liệt kê nhiều lý do cùng quan điểm để dẫn đến kết luận.
+- Nếu trợ từ là を/が thì chuyển thành trợ từ も.
+- Trong trường hợp kết luận đã rõ ràng thì có thể lược bỏ.
+- Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
+```
+```
+- Ý nghĩa 2: Vừa ... vừa ...
+- Liệt kê các mệnh đề cùng quan điểm.
+- Để nhấn mạnh thêm それに (hơn nữa) và trước quan điểm cuối.
+```
+
 # 7. Cho/Nhận
 A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó)
 
@@ -556,20 +611,6 @@ Vて は いけません。(cấm làm V, không được làm V) => thể thôn
 
 __どやって__ Vますか。(Làm V bằng cách nào?)
 
-V1て, V2て, ..., Vn。(liệt kê hành động xảy ra theo trình tự thời gian)
-
-V1てから, V2。(sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
-
-A(bỏ い) + くて => A1くて, A2くて, ..., An。(liệt kê nhiều tính chất của đối tượng, cùng tích cực hoặc cùng tiêu cực)
-
-A(bỏ な) + で =>  A1で, A2で, ..., An。(liệt kê nhiều tính chất của đối tượng, cùng tích cực hoặc cùng tiêu cực)
-
-A1 ですが、A2 です。(liệt kê tính chất nhưng tính chất đối ngược nhau)
-
-N + で => N1で, N2で, ..., Nn。(liệt kê nhiều danh từ)
-
-～とか、～とか。(Như là ... như là ..., liệt kê nhiều danh từ, ví dụ tiêu biểu)
-
 # 17. Mẫu câu ứng dụng của thể ない
 Vないで ください。(đừng làm V)
 
@@ -602,8 +643,6 @@ Vた ことが あります。(đã từng làm V, trải nghiệm nhưng ít x�
 Vた ことが ありません。(chưa từng làm V)
 
 Vた ことが ありますか。(đã từng làm V chưa?)
-
-V1たり, V2たり, Vnたりします。(liệt kê hành động xảy ra trong quá khứ) => thể thông thường ... Vnたりする。
 
 # 20. Trở nên, trở thành
 A(bỏ い) + く + なります。
@@ -711,23 +750,6 @@ N_địa điểm + に + N_công trình + が + できます/できました。(
 
 ～N1 + は + V_khả năng + が、N2 ＋ は + V_phủ định khả năng。(Có thể V1 nhưng không thể V2)
 
-# 28. Vừa ... vừa ...
-V1 (bỏ ます）+ ながら + V2。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
-
-TTT + し (Vừa ... vừa ..., nối các mệnh đề chung quan điểm)
-
-```
-- Nếu trợ từ là を/が thì chuyển thành trợ từ も.
-- Để nhấn mạnh dùng thêm それに (hơn nữa).
-```
-
-TTT + し (vì ... nên ...)
-
-```
-- Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
-- Trong trường hợp vế sau "nên" đã rõ ràng thì có thể lược bỏ.
-```
-
 # 29.
 Tha động từ: chủ động, có tác động lên tân ngữ (đi kèm trợ từ を)
 
@@ -795,15 +817,6 @@ Vて しまいました (Đã lỡ V mất rồi)
 (Trợ từ __も__): S1 + __は__ + N + __です__。S2 + __も__ + N + __です__。
 ```
 - Ý nghĩa: S1 là N. S2 cũng là N.
-```
-(Trợ từ __と__): N1 __と__ N2
-```
-- Ý nghĩa cụm danh từ: N1 và N2.
-- Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
-```
-(Trợ từ __や__): N1 __や__ N2
-```
-- Ý nghĩa: Liệt kê một số đối tượng tiêu biểu và sau danh từ được nêu cuối cùng còn rất nhiều danh từ khác nữa.
 ```
 ## 2. Phó từ
 (Phó từ __とても__): __とても__ + A

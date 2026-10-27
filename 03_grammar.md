@@ -536,9 +536,7 @@ Từ để hỏi + __Vたい__ + ですか。
 ぜひ + Vたい。(rất muốn làm V)
 
 # 16. Mẫu câu ứng dụng của thể て
-Vて ください。 (hãy làm V nhé)
-
-ぜひ Vて ください。 (nhất định làm V nhé)
+(ぜひ) Vて ください。 ((nhất định) hãy làm V nhé)
 
 (まだ) + Vて います。 ((vẫn) đang làm V) => thể thông thường Vている。
 

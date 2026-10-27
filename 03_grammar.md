@@ -445,6 +445,27 @@ V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn th
 
 V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
 
+# 8. Nghĩa vụ, lời khuyên, cấm đoán và cho phép
+(ぜひ) Vて ください。 (Hãy làm V nhé)
+
+TTT + んですが、Vて いただけませんか。(vì ... nên làm gì đó cho tôi được không?, lịch sự hơn Vて ください)
+
+Vて もいいですか。(Tôi làm V có được không?)
+
+Vて もいいです。(Cho phép làm V)
+
+Vて はいけません。(Cấm làm V, không được làm V)
+
+Vないで ください。(Đừng làm V)
+
+Vなければ なりません。(Phải làm V, lịch sự)
+
+Vないと いけません。(Phải làm V, hội thoại, nói rút gọn là Vないと) 
+
+Vなくて もいいです。(Không cần làm V)
+
+TTT + んですが、từ để hỏi + Vたらいいですか。(vì ... nên làm thế nào thì tốt?, xin lời khuyên)
+
 # 7. Cho/Nhận
 A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó)
 
@@ -589,7 +610,6 @@ Từ để hỏi + __Vたい__ + ですか。
 ぜひ + Vたい。(rất muốn làm V)
 
 # 16. Mẫu câu ứng dụng của thể て
-(ぜひ) Vて ください。 ((nhất định) hãy làm V nhé)
 
 (まだ) + Vて います。 ((vẫn) đang làm V) => thể thông thường Vている。
 
@@ -601,22 +621,7 @@ Vて いました。(thói quen trong quá khứ)
 
 N + が + Vて います。(N đang trong tình trạng V, V không có chủ ý)
 
-Vて もいいですか。(tôi làm V có được không) => thể thông thường Vてもいい。
-
-Vて もいいです。(cho phép làm V)
-
-Vて は いけません。(cấm làm V, không được làm V) => thể thông thường Vて は いけない。
-
 __どやって__ Vますか。(Làm V bằng cách nào?)
-
-# 17. Mẫu câu ứng dụng của thể ない
-Vないで ください。(đừng làm V)
-
-Vなければ なりません。(phải làm V)  => thể thông thường Vなければ ならない。
-
-Vないと。(phải làm V) => dạng rút ngắn của Vなければ なりません。
-
-Vなくて もいいです。(không cần làm V)
 
 Mốc thời gian + までに (hạn chót là mốc thời gian nào đó)
 
@@ -721,10 +726,6 @@ TTT + んです。(Giải thích lý do/tình trạng, cung cấp thêm lý do)
 ```
 
 TTT + んですが、... (mở đầu ngập ngừng để nhờ vả)
-
-TTT + んですが、Vて いただけませんか。(vì ... nên làm gì đó cho tôi được không?, lịch sự hơn Vて ください)
-
-TTT + んですが、từ để hỏi + Vた らいいですか。(vì ... nên làm thế nào thì tốt?, xin lời khuyên)
 
 # 27. Thể khả năng (rút gọn của mẫu câu Vる ことが できます。)
 ```

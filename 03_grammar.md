@@ -538,6 +538,8 @@ Vて います。 (thói quen, tập quán)
 
 Vて いました。(thói quen trong quá khứ)
 
+N + が + Vて います。(N đang trong tình trạng V)
+
 Vて もいいですか。(tôi làm V có được không) => thể thông thường Vてもいい。
 
 Vて もいいです。(cho phép làm V)
@@ -715,6 +717,13 @@ TTT + し (vì ... nên ...)
 - Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
 - Trong trường hợp vế sau "nên" đã rõ ràng thì có thể lược bỏ.
 ```
+
+# 29.
+Tha động từ: chủ động, có tác động lên tân ngữ (đi kèm trợ từ を)
+
+Tự động từ: chỉ trạng thái, không chủ ý (đi kèm trợ từ が)
+
+
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

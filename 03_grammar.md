@@ -723,7 +723,20 @@ Tha động từ: chủ động, có tác động lên tân ngữ (đi kèm tr�
 
 Tự động từ: chỉ trạng thái, không chủ ý (đi kèm trợ từ が)
 
+Vて しまいます (Sẽ xong hoàn toàn)
 
+Vて しまいました (Đã xong hoàn toàn)
+
+```
+Thường đi kèm với các phó từ ぜんぶ, すべて.
+Khác với Vました là đã xảy ra trong quá khứ, chưa chắc hoàn thành.
+```
+
+Vて しまいました (Đã lỡ V mất rồi)
+
+どこかで (ở đâu đó làm hành động nào đó)
+
+どこかに (ở đâu đó có cái gì đó)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

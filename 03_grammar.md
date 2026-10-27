@@ -536,6 +536,8 @@ Vて います。 (V từ trong quá khứ, hiện tại vẫn V và tương lai
 
 Vて います。 (thói quen, tập quán)
 
+Vて いました。(thói quen trong quá khứ)
+
 Vて もいいですか。(tôi làm V có được không) => thể thông thường Vてもいい。
 
 Vて もいいです。(cho phép làm V)
@@ -698,7 +700,21 @@ N_địa điểm + に + N_công trình + が + できます/できました。(
 ～N1 + は + V_khả năng + が、N2 ＋ は + V_phủ định khả năng。(Có thể V1 nhưng không thể V2)
 
 # 28. Vừa ... vừa ...
-V1 (bỏ ます）+ ながら + V2。(Vừa làm V1, vừa làm V2, V2 là hành động chính)
+V1 (bỏ ます）+ ながら + V2。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
+
+TTT + し (Vừa ... vừa ..., nối các mệnh đề chung quan điểm)
+
+```
+- Nếu trợ từ là を/が thì chuyển thành trợ từ も.
+- Để nhấn mạnh dùng thêm それに (hơn nữa).
+```
+
+TTT + し (vì ... nên ...)
+
+```
+- Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
+- Trong trường hợp vế sau "nên" đã rõ ràng thì có thể lược bỏ.
+```
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
@@ -794,4 +810,9 @@ V1 (bỏ ます）+ ながら + V2。(Vừa làm V1, vừa làm V2, V2 là hành
 - Ý nghĩa: Vì câu 1 nên câu 2.
 - Dùng cho mệnh đề nguyên nhân - kết quả.
 - Dùng để trả lời cho câu: どうして ...　。(tại sao?, vì sao?)
+```
+(Liên từ __それで__):
+```
+- Ý nghĩa: Do đó, nên ...
+- Trình bày kết quả do nguyên nhân hoặc lý do đã được trình bày trước nó.
 ```

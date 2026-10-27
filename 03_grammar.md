@@ -418,12 +418,24 @@ A(bỏ な) + __で__ =>  A1で, A2で, ..., An。
 - Ý nghĩa: A1, A2, ... và An
 - Nối nhiều tính chất của đối tượng, tính chất cùng quan điểm
 ```
-A1 ですが, A2 です。
+N + __で__ => N1で, N2で, ..., Nn。
 ```
-- Ý nghĩa: A1 nhưng A2
-- Nối tính chất tương phản
+- Ý nghĩa: N1, N2, ... và Nn
+- Nối các vị ngữ danh từ hoặc các mệnh đề có vị ngữ là danh từ
 ```
-N + __で__ => N1で, N2で, ..., Nn。(nối nhiều danh từ/mệnh đề danh từ)
+TTT + し, TTT + し, ... 
+```
+- Ý nghĩa 1: Vì có A, có B, ... nên ...
+- Liệt kê nhiều lý do cùng quan điểm để dẫn đến kết luận.
+- Nếu trợ từ là を/が thì có thể chuyển thành trợ từ も nếu muốn nhấn mạnh.
+- Trong trường hợp kết luận đã rõ ràng thì có thể lược bỏ.
+- Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
+```
+```
+- Ý nghĩa 2: Vừa ... vừa ...
+- Liệt kê các mệnh đề cùng quan điểm, có sắc thái bổ sung lẫn nhau.
+- Để nhấn mạnh có thể thêm それに (hơn nữa) vào trước quan điểm cuối.
+```
 
 V1て, V2て, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
 
@@ -432,20 +444,6 @@ V1たり, V2たり, Vnたりします。(liệt kê vài hành động tiêu bi�
 V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
 
 V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
-
-TTT + し, TTT + し, ... 
-```
-- Ý nghĩa 1: Vì có A, có B, ... nên ...
-- Liệt kê nhiều lý do cùng quan điểm để dẫn đến kết luận.
-- Nếu trợ từ là を/が thì chuyển thành trợ từ も.
-- Trong trường hợp kết luận đã rõ ràng thì có thể lược bỏ.
-- Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
-```
-```
-- Ý nghĩa 2: Vừa ... vừa ...
-- Liệt kê các mệnh đề cùng quan điểm.
-- Để nhấn mạnh thêm それに (hơn nữa) và trước quan điểm cuối.
-```
 
 # 7. Cho/Nhận
 A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó)

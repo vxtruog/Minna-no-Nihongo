@@ -453,6 +453,16 @@ N + __が__ + ありますか/わかりますか。
 # 12. Có(tồn tại) vật/người/động vật
 N_địa điểm + __に__ + N + __が__ + あります/います。
 
+N_địa điểm + __に__ + N + __が__ + Vて　あります。(Ở địa điểm N có vật N được V, V có chủ ý)
+
+N + __は__ + N_địa điểm + __に__ + Vて　あります。(N được V ở vị trí N, V có chủ ý)
+
+もう + Vて　あります。(Đã V sẵn rồi)
+
+Vて　おきます。(Chuẩn bị V trước)
+
+(そのままに) + Vて　おきます。(Cứ giữ nguyên như thế)
+
 N_địa điểm + __に__ + __なにが__ + ありますか。
 
 N_địa điểm + __に__ + __だねが__ + いますか。
@@ -530,7 +540,7 @@ Vて ください。 (hãy làm V nhé)
 
 ぜひ Vて ください。 (nhất định làm V nhé)
 
-Vて います。 (đang làm V) => thể thông thường Vている。
+(まだ) + Vて います。 ((vẫn) đang làm V) => thể thông thường Vている。
 
 Vて います。 (V từ trong quá khứ, hiện tại vẫn V và tương lai vẫn tiếp diễn V)
 
@@ -538,7 +548,7 @@ Vて います。 (thói quen, tập quán)
 
 Vて いました。(thói quen trong quá khứ)
 
-N + が + Vて います。(N đang trong tình trạng V)
+N + が + Vて います。(N đang trong tình trạng V, V không có chủ ý)
 
 Vて もいいですか。(tôi làm V có được không) => thể thông thường Vてもいい。
 
@@ -559,6 +569,8 @@ A(bỏ な) + で =>  A1で, A2で, ..., An。(liệt kê nhiều tính chất c
 A1 ですが、A2 です。(liệt kê tính chất nhưng tính chất đối ngược nhau)
 
 N + で => N1で, N2で, ..., Nn。(liệt kê nhiều danh từ)
+
+～とか、～とか。(Như là ... như là ..., liệt kê nhiều danh từ, ví dụ tiêu biểu)
 
 # 17. Mẫu câu ứng dụng của thể ない
 Vないで ください。(đừng làm V)

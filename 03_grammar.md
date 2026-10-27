@@ -408,22 +408,22 @@ N1 __とか__、N2 __とか__
 - Ý nghĩa: như là ... như là ... (liệt kê ví dụ tiêu biểu)
 - Thường mang sắc thái hội thoại.
 ```
-A(bỏ い) + __くて__ => A1くて, A2くて, ..., An。
+A(bỏ い) + __くて__ => A1 __くて__, A2 __くて__, ..., An。
 ```
 - Ý nghĩa: A1, A2, ... và An
 - Nối nhiều tính chất của đối tượng, tính chất cùng quan điểm
 ```
-A(bỏ な) + __で__ =>  A1で, A2で, ..., An。
+A(bỏ な) + __で__ =>  A1 __で__, A2 __で__, ..., An。
 ```
 - Ý nghĩa: A1, A2, ... và An
 - Nối nhiều tính chất của đối tượng, tính chất cùng quan điểm
 ```
-N + __で__ => N1で, N2で, ..., Nn。
+N + __で__ => N1 __で__, N2 __で__, ..., Nn。
 ```
 - Ý nghĩa: N1, N2, ... và Nn
 - Nối các vị ngữ danh từ hoặc các mệnh đề có vị ngữ là danh từ
 ```
-TTT + し, TTT + し, ... 
+TTT + __し__, TTT + __し__, ... 
 ```
 - Ý nghĩa 1: Vì có A, có B, ... nên ...
 - Liệt kê nhiều lý do cùng quan điểm để dẫn đến kết luận.
@@ -437,9 +437,9 @@ TTT + し, TTT + し, ...
 - Để nhấn mạnh có thể thêm それに (hơn nữa) vào trước quan điểm cuối.
 ```
 
-V1て, V2て, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
+V1 __て__, V2 __て__, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
 
-V1たり, V2たり, Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
+V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
 
 V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
 

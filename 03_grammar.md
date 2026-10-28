@@ -374,6 +374,25 @@ S + は + N_chỉ địa điểm + __に__ + N_chỉ đối tượng + __を__ +
 
 S + は + (__どこで__) + (__なにを__) + Vます + __か__。
 
+__Vị trí tương đối của đối tượng__: N1 __の__ N2
+```
+- Ý nghĩa cụm danh từ chỉ vị trí: ở N2 của N1.
+- N1 là danh từ chỉ người/vật/động vật.
+- N2 là những từ chỉ phương hướng, vị trí như:
+  + うえ (上): phía trên
+  + した (下): phía dưới
+  + まえ (前): phía trước
+  + うしろ (後ろ): phía sau
+  + みぎ (右): bên phải
+  + ひだり (左): bên trái
+  + なか (中): bên trong
+  + そと (外): bên ngoài
+  + となり (隣): bên cạnh
+  + ちかく (近く): gần (nơi nào đó)
+  + あいだ (間): giữa (hai hoặc nhiều đối tượng)
+  + いちばん　うえ/した: ở trên/dưới cùng
+```
+
 # 5. Thực hiện hành động bằng công cụ/cách thức
 N_công cụ/cách thức + __で__ + Vます。
 
@@ -800,24 +819,6 @@ Vて しまいました (Đã lỡ V mất rồi)
 - Ý nghĩa cụm danh từ: N2 của N1.
 - N1 là danh từ chỉ địa điểm xuất xứ/hãng xuất xứ của N2.
 - N2 là danh từ chính.
-```
-(Trợ từ __の__): N1 __の__ N2
-```
-- Ý nghĩa cụm danh từ chỉ vị trí: ở N2 của N1.
-- N1 là danh từ chỉ người/vật/động vật.
-- N2 là những từ chỉ phương hướng, vị trí như:
-  + うえ (上): phía trên
-  + した (下): phía dưới
-  + まえ (前): phía trước
-  + うしろ (後ろ): phía sau
-  + みぎ (右): bên phải
-  + ひだり (左): bên trái
-  + なか (中): bên trong
-  + そと (外): bên ngoài
-  + となり (隣): bên cạnh
-  + ちかく (近く): gần (nơi nào đó)
-  + あいだ (間): giữa (hai hoặc nhiều đối tượng)
-  + いちばん　うえ/した: ở trên/dưới cùng
 ```
 (Trợ từ __も__): S1 + __は__ + N + __です__。S2 + __も__ + N + __です__。
 ```

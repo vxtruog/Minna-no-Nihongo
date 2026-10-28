@@ -325,6 +325,12 @@ S + は + __いつ/何時に__ + Vます + __か__。
 
 S + は + __何時から 何時まで__ + Vます + __か__。
 
+Mốc thời gian ước lượng + __ごろ__ (Khoảng vào lúc ...)
+
+Khoảng thời gian + 間 (かん) (Trong suốt khoảng thời gian ...)
+
+N + の + 間 (あいだ) (Trong suốt khoảng thời gian N ...)
+
 # 4. Nói về địa điểm
 __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。
 

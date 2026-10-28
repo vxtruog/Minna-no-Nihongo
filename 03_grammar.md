@@ -823,6 +823,21 @@ Vて しまいました (Đã lỡ V mất rồi)
 
 どこかに (ở đâu đó có cái gì đó)
 
+# 30. Thể ý chí
+Vようと + 思っています。(Định làm gì đó)
+```
+- Chủ ngữ của câu là ngôi thứ nhất.
+- Vようと + 思います。: ý định xuất hiện ngay tại thời điểm nói.
+- Vようと + 思っています。: ý định xuất hiện từ trước đó và kéo dài đến hiện tại.
+```
+
+Vる/Vない + つもりです。(Dự định làm gì/không làm gì)
+```
+- Dự định được quyết định chắc chắn từ trước. (ý chí mạnh hơn ようと 思っています。)
+- Chủ ngữ của câu là ngôi thứ nhất.
+- Không dùng với ý định hàng ngày.
+```
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

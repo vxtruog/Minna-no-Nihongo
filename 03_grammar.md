@@ -304,6 +304,35 @@
       <br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="2">Động từ thể mệnh lệnh</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I</b>: Là những động từ có âm trước ます thuộc cột い.<br><br>
+      <b>Cách chia</b> （bỏ ます):<br>
+      <b>cột い => cột え<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
+      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, たります, できます, 信じます.<br><br>
+      <b>Cách chia</b>:<br>
+      <b>bỏ ます => thêm ろ<br>
+      <br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III</b>:<br>
+      来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
+      <b>Cách chia</b>:<br>
+      <b>きます => こい<br>
+      <b>します => しろ<br>
+      <br>
+    </td>
+  </tr>
         
 </table>
 
@@ -837,6 +866,36 @@ Vる/Vない + つもりです。(Dự định làm gì/không làm gì)
 - Chủ ngữ của câu là ngôi thứ nhất.
 - Không dùng với ý định hàng ngày.
 ```
+
+Vる/Nの + 予定です。(Dự định, kế hoạch làm gì)
+```
+- Quyết định mang tính chắc chắn cao.
+- Dùng để nói cả với kế hoạch đã được lên của công ty, tổ chức.
+```
+
+# 31. Khuyên nhủ
+Vた/Vない + ほうがいいです。(Nên/Không nên làm V)
+
+TTT + でしょう。(Có lẽ ..., phỏng đoán dựa trên thông tin)
+
+TTT + かもしれません。(Không biết chừng là ..., nói về một tình huống ít có khả năng xảy ra)
+
+# 32. 
+Thể mệnh lệnh: dùng để bắt buộc ai đó phải thực hiện hành vi nào đó.
+
+Khi cha mẹ nói với con cái, thầy giáo nói với học sinh, hay nữ giới thì dùng V(bỏ ます) + なさい để nhẹ nhàng hơn.
+
+Thể cấm chỉ: Vる + な. dùng để ra lệnh cho ai đó không được thực hiện hành vi nào đó.
+
+～と 書いてあります (có viết là ...)
+
+～と 読みます (có đọc là ...)
+
+～と いう 意味です (có nghĩa là ...)
+
+"Câu"/TTT + と伝いて いただけませんか。(Có thể truyền đạt, nhắn lại giúp tôi được không)
+
+"Câu"/TTT + と伝いて いました。(Ai đó đã nói là ...)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

@@ -571,7 +571,7 @@ B + は + (N + を) + A + に + Vて + もらいます。(B được A làm V)
 
 N + が + (Vて) + くれましたよ。(N tặng cho tôi đó, để giải thích thêm thông tin)
 
-# 8. Câu có vị ngữ là tính từ
+# 8. Câu có tính từ
 S + は + thời và thể của tính từ。
 
 S + は + __どう__ + __ですか/でしたか__。
@@ -581,6 +581,10 @@ S + は + __A_な / A_い__ + N + __です__。(cụm danh từ)
 S + は + __どんな__ + N + __ですか/でしたか__。
 
 S + は + N + が + A + です。(miêu tả bộ phận N của đối tượng S)
+
+Tính từ い (bỏ い) + く + động từ
+
+Tính từ な (bỏ な) + に + động từ
 
 # 9. Thích/Ghét
 N + __が__ + すきです/きらいです。

@@ -752,6 +752,8 @@ Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ l
 
 Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
 
+N + __について__ + V。 （Làm gì đó liên quan đến N）
+
 Thể thông thường + でしょう。(... phải không? => phỏng đoán, xác nhận lại)
 
 # 22. Trích dẫn câu nói

@@ -810,6 +810,8 @@ TTT + んです。(Giải thích lý do/tình trạng, cung cấp thêm lý do)
 
 ```
 - Khi trả lời giải thích lý do có どうして có thể dùng んです thay cho から.
+- Mệnh đề + から (vì ...)
+- N + で (vì ...)
 ```
 
 TTT + んですが、... (mở đầu ngập ngừng để nhờ vả)

@@ -830,11 +830,11 @@ TTT + んですが、... (mở đầu ngập ngừng để nhờ vả)
 
 きこえます: có thể nhìn thấy (không có chủ ý)
 
-N_sự việc + が + できました。(N được hoàn thành/Có N phát sinh)
+N_sự việc + __が__ + できました。(N được hoàn thành/Có N phát sinh)
 
-N_địa điểm + に + N_công trình + が + できます/できました。(tại địa điểm N có công trình N được xây dựng xong)
+N_địa điểm + __に__ + N_công trình + __が__ + できます/できました。(tại địa điểm N có công trình N được xây dựng xong)
 
-～しか + V_phủ định (chỉ V) = ～だけ + V_khẳng định
+～__しか__ + V_phủ định (chỉ V) = ～__だけ__ + V_khẳng định
 
 ～N1 + は + V_khả năng + が、N2 ＋ は + V_phủ định khả năng。(Có thể V1 nhưng không thể V2)
 

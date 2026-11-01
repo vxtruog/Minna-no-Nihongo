@@ -834,7 +834,7 @@ N_sự việc + __が__ + できました。(N được hoàn thành/Có N phát
 
 N_địa điểm + __に__ + N_công trình + __が__ + できます/できました。(tại địa điểm N có công trình N được xây dựng xong)
 
-～__しか__ + V_phủ định (chỉ V) = ～__だけ__ + V_khẳng định
+__しか__ + V_phủ định (chỉ V) = __だけ__ + V_khẳng định
 
 ～N1 + は + V_khả năng + が、N2 ＋ は + V_phủ định khả năng。(Có thể V1 nhưng không thể V2)
 

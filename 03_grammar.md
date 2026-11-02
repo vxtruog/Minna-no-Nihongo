@@ -899,7 +899,9 @@ Thể cấm chỉ: Vる + な. dùng để ra lệnh cho ai đó không được
 
 ～と 読みます (có đọc là ...)
 
-～と いう 意味です (có nghĩa là ...)
+～という 意味です (có nghĩa là ...)
+
+～と おなじ 意味です (có cùng ý nghĩa với ...)
 
 "Câu"/TTT + と伝いて いただけませんか。(Có thể truyền đạt, nhắn lại giúp tôi được không)
 

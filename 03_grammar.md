@@ -259,6 +259,28 @@
       します => すれば<br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể bị động</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I:</b><br>
+      cột い <del>ます</del> => cột あ + れます<br>
+      âm い <del>ます</del> => âm わ + れます<br>
+    </td>
+    <td>
+      <b>Nhóm II:</b><br>
+      <del>ます</del> => thêm られます<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III:</b><br>
+      来ます => こられます<br>
+      します => されます<br>
+    </td>
+  </tr>
   
 </table>
 

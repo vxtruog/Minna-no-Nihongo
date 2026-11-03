@@ -1,7 +1,8 @@
-# 1. Thời và thể trong tiếng Nhật
+# 1. Thì và thể trong tiếng Nhật
 ```
 - Động từ nhóm I:
   + Là những động từ có âm trước ます thuộc cột い.
+
 - Động từ nhóm II:
   + Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.
   + Một số động từ có âm trước ます thuộc cột い, nhưng là động từ nhóm II:
@@ -17,39 +18,29 @@
     ++ 落ちます - おちます - rơi, rớt
     ++ 閉じます - とじます - đóng lại
     ++ 伸びます - のびます - phát triển, dài ra
+
 - Động từ nhóm III:
   + 来ます
   + します
   + N + します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します)
 ```
 
-<table>
-  <tr>
-    <th colspan="2">Động từ thể ます</th>
-  </tr>
-  <tr>
-    <td>
-      <b>Hiện tại, Tương lai</b><br>
-      ⊕ Vます<br>
-      ⊖ Vません<br>
-      ⊙ Ｖますか<br>
-    </td>
-    <td>
-      <b>Quá khứ</b><br>
-      ⊕ Vました<br>
-      ⊖ Vませんでした<br>
-      ⊙ Vましたか<br>
-    </td>
-  </tr>
+## 1.1. Thì của động từ thể ます
+|Dạng|Hiện tại/Tương lai|Quá khứ|
+|-|-|-|
+|➕|Ｖます|Ｖました|
+|➖|Ｖません|Ｖませんでした|
+|❔|Ｖますか|Ｖましたか|
 
+## 1.2. Thể của động từ
+<table>
   <tr>
     <th colspan="2">Động từ thể て</th>
   </tr>
 
   <tr>
     <td>
-      <b>Nhóm I</b>: Là những động từ có âm trước ます thuộc cột い.<br><br>
-      <b>Cách chia</b>:<br>
+      <b>Nhóm I:<br>
       <b>い, ち, り => って<br>
       <b>み, に, び => んで<br>
       <b>き => いて<br>
@@ -59,9 +50,7 @@
       <br>
     </td>
     <td>
-      <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
-      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, 足ります, できます, 信じます.<br><br>
-      <b>Cách chia</b>:<br>
+      <b>Nhóm II:<br>
       <b>bỏ ます => thêm て<br>
       <br>
       <br>
@@ -70,8 +59,6 @@
     </td>
     <td>
       <b>Nhóm III</b>:<br>
-      来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
-      <b>Cách chia</b>:<br>
       <b>bỏ ます => thêm て<br>
       <br>
       <br>

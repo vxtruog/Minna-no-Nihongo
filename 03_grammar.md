@@ -58,7 +58,7 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể phủ định ない (thể thông thường của ません)</th>
+    <th colspan="3">Động từ thể ない (thể thông thường của ません)</th>
   </tr>
 
   <tr>
@@ -78,6 +78,40 @@
       <b>Nhóm III:</b><br>
       来ます - きます => こない<br>
       <del>ます</del> => thêm ない<br>
+      <br>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể た (thể thông thường của ました)</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I:</b><br>
+      い, ち, り <del>ました</del> => った<br>
+      み, に, び <del>ました</del> => んだ<br>
+      き <del>ました</del> => いた<br>
+      ぎ <del>ました</del> => いだ<br>
+      行きました - いきました => いった<br>
+      し <del>ました</del> => した<br>
+    </td>
+    <td>
+      <b>Nhóm II:</b><br>
+      <del>ました</del> => thêm た<br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III:</b><br>
+      <del>ました</del> => thêm た<br>
+      <br>
+      <br>
+      <br>
+      <br>
       <br>
     </td>
   </tr>
@@ -108,45 +142,6 @@
     <td>
       <b>Nhóm III:</b><br>
       <del>ます</del> => thêm て<br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-    </td>
-  </tr>
-
-  <tr>
-    <th colspan="2">Động từ thể た (thể thông thường của ました)</th>
-  </tr>
-
-  <tr>
-    <td>
-      <b>Nhóm I</b>: Là những động từ có âm trước ます thuộc cột い.<br><br>
-      <b>Cách chia</b>:<br>
-      <b>い, ち, り => った<br>
-      <b>み, に, び => んだ<br>
-      <b>き => いた<br>
-      <b>ぎ => いだ<br>
-      <b>いきます => いった<br>
-      <b>し => した<br>
-      <br>
-    </td>
-    <td>
-      <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
-      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, たります, できます, しんじます.<br><br>
-      <b>Cách chia</b>:<br>
-      <b>bỏ ました => thêm た<br>
-      <br>
-      <br>
-      <br>
-      <br>
-    </td>
-    <td>
-      <b>Nhóm III</b>:<br>
-      来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
-      <b>Cách chia</b>:<br>
-      <b>bỏ ました => thêm た<br>
       <br>
       <br>
       <br>

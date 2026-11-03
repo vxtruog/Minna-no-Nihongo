@@ -41,19 +41,19 @@
 
   <tr>
     <td>
-      <b>Nhóm I:<br>
-      <b>cột い bỏ ます=> cột う<br>
+      <b>Nhóm I:</b><br>
+      cột い <del>ます</del> => cột う<br>
       <br>
     </td>
     <td>
-      <b>Nhóm II:<br>
-      <b>bỏ ます => thêm る<br>
+      <b>Nhóm II:</b><br>
+      <del>ます</del> => thêm る<br>
       <br>
     </td>
     <td>
       <b>Nhóm III</b>:<br>
-      <b>来ます - きます => くる<br>
-      <b>bỏ します => thêm する<br>
+      来ます - きます => くる<br>
+      <del>します</del> => thêm する<br>
     </td>
   </tr>
 
@@ -63,21 +63,21 @@
 
   <tr>
     <td>
-      <b>Nhóm I:<br>
-      <b>cột い bỏ ます => cột あ + ない<br>
-      <b>Ngoại lệ âm い => âm わ + ない<br>
-      <b>あります => ない<br>
+      <b>Nhóm I:</b><br>
+      cột い <del>ます</del> => cột あ + ない<br>
+      âm い <del>ます</del> => âm わ + ない<br>
+      あります => ない<br>
     </td>
     <td>
-      <b>Nhóm II:<br>
-      <b>bỏ ます => thêm ない<br>
+      <b>Nhóm II:</b><br>
+      <del>ます</del> => thêm ない<br>
       <br>
       <br>
     </td>
     <td>
-      <b>Nhóm III:<br>
-      <b>来ます - きます => こない<br>
-      <b>bỏ ます => thêm ない<br>
+      <b>Nhóm III:</b><br>
+      来ます - きます => こない<br>
+      <del>ます</del> => thêm ない<br>
       <br>
     </td>
   </tr>
@@ -88,17 +88,17 @@
 
   <tr>
     <td>
-      <b>Nhóm I:<br>
-      <b>い, ち, り bỏ ます => って<br>
-      <b>み, に, び bỏ ます => んで<br>
-      <b>き bỏ ます => いて<br>
-      <b>ぎ bỏ ます => いで<br>
-      <b>行きます - いきます => 行って<br>
-      <b>し bỏ ます => thêm て<br>
+      <b>Nhóm I:</b><br>
+      い, ち, り <del>ます</del> => って<br>
+      み, に, び <del>ます</del> => んで<br>
+      き <del>ます</del> => いて<br>
+      ぎ <del>ます</del> => いで<br>
+      行きます - いきます => 行って<br>
+      し <del>ます</del> => thêm て<br>
     </td>
     <td>
-      <b>Nhóm II:<br>
-      <b>bỏ ます => thêm て<br>
+      <b>Nhóm II:</b><br>
+      <del>ます</del> => thêm て<br>
       <br>
       <br>
       <br>
@@ -106,8 +106,8 @@
       <br>
     </td>
     <td>
-      <b>Nhóm III</b>:<br>
-      <b>bỏ ます => thêm て<br>
+      <b>Nhóm III:</b><br>
+      <del>ます</del> => thêm て<br>
       <br>
       <br>
       <br>
@@ -115,7 +115,6 @@
       <br>
     </td>
   </tr>
-
 
   <tr>
     <th colspan="2">Động từ thể た (thể thông thường của ました)</th>

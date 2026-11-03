@@ -267,24 +267,24 @@
   <tr>
     <td>
       <b>Hiện tại, Tương lai</b><br>
-      ⊕ A(bỏ な）です<br>
-      ⊖ A(bỏ な）じゃありません<br>
-      ⊙ A(bỏ な）ですか<br>
+      ⊕ A(<del>な</del>）です<br>
+      ⊖ A(<del>な</del>）じゃありません<br>
+      ⊙ A(<del>な</del>）ですか<br>
       <br>
     </td>
     <td>
       <b>Quá khứ</b><br>
-      ⊕ A(bỏ な）でした<br>
-      ⊖ A(bỏ な）じゃありませんでした<br>
-      ⊙ A(bỏ な）でしたか<br>
+      ⊕ A(<del>な</del>）でした<br>
+      ⊖ A(<del>な</del>）じゃありませんでした<br>
+      ⊙ A(<del>な</del>）でしたか<br>
       <br>
     </td>
     <td>
       <b>Thể thông thường</b><br>
-      A(bỏ な）です => A(bỏ な)だ<br>
-      A(bỏ な）じゃありません => A(bỏ な)じゃない<br>
-      A(bỏ な）でした => A(bỏ な)だった<br>
-      A(bỏ な）じゃありませんでした => A(bỏ な)じゃなかった<br>
+      A(<del>な</del>）です => A(<del>な</del>) だ<br>
+      A(<del>な</del>）じゃありません => A(<del>な</del>) じゃない<br>
+      A(<del>な</del>）でした => A(<del>な</del>) だった<br>
+      A(<del>な</del>）じゃありませんでした => A(<del>な</del>) じゃなかった<br>
     </td>
   </tr>
 
@@ -295,18 +295,18 @@
     <td>
       <b>Hiện tại, Tương lai</b><br>
       ⊕ A(い）です<br>
-      ⊖ A(bỏ い）くないです<br>
+      ⊖ A(<del>い</del>）くないです<br>
       ⊙ A(い）ですか<br>
     </td>
     <td>
       <b>Quá khứ</b><br>
-      ⊕ A(bỏ い）かったです<br>
-      ⊖ A(bỏ い）くなかったです<br>
-      ⊙ A(bỏ い）かったですか<br>
+      ⊕ A(<del>い</del>）かったです<br>
+      ⊖ A(<del>い</del>）くなかったです<br>
+      ⊙ A(<del>い</del>）かったですか<br>
     </td>
     <td>
       <b>Thể thông thường</b><br>
-      bỏ です<br>
+      <del>です</del><br>
       <br>
       <br>
     </td>

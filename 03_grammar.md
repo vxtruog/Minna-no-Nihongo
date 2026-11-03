@@ -334,7 +334,7 @@
   </tr>
 
   <tr>
-    <th colspan="4">Tính từ đuôi「い」</th>
+    <th colspan="3">Tính từ đuôi「い」</th>
   </tr>
   <tr>
     <td>

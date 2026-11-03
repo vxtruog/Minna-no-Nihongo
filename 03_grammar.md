@@ -161,6 +161,28 @@
       <br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể khả năng</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I:</b><br>
+      <b>cột い <del>ます</del> => cột え + ます<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm II:</b><br>
+      <b><del>ます</del> => thêm らります<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III:</b><br>
+      <b>来ます => こられます<br>
+      <b>します => できます<br>
+    </td>
+  </tr>
   
   <tr>
     <th colspan="2">Danh từ</th>
@@ -232,35 +254,6 @@
       <b>Thể thông thường</b><br>
       bỏ です<br>
       <br>
-      <br>
-    </td>
-  </tr>
-
-  <tr>
-    <th colspan="2">Động từ thể khả năng</th>
-  </tr>
-
-  <tr>
-    <td>
-      <b>Nhóm I</b>: Là những động từ có âm trước ます thuộc cột い.<br><br>
-      <b>Cách chia</b> （bỏ ます):<br>
-      <b>cột い => cột え + る<br>
-      <br>
-    </td>
-    <td>
-      <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
-      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, たります, できます, 信じます.<br><br>
-      <b>Cách chia</b>:<br>
-      <b>bỏ ます => thêm らります<br>
-      <br>
-      <br>
-    </td>
-    <td>
-      <b>Nhóm III</b>:<br>
-      来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
-      <b>Cách chia</b>:<br>
-      <b>きます => こられます<br>
-      <b>します => できます<br>
       <br>
     </td>
   </tr>

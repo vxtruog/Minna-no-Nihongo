@@ -990,6 +990,19 @@ Vる/Vない + ようにします。(cố gắng, nỗ lực làm gì đó theo 
 
 Vる/Vない + ようにしてください。(hãy cố gắng làm/không làm gì đó, yêu cầu ai đó thực hiện việc gì đó, nhưng không cần phải ở thời điểm nói)
 
+# 37. Ứng dụng thể bị động
+N1 + は + N2 + に + V_thể bị động (N1 được/bị N2 tác động một hành động nào đó)
+
+N1 + は + N2 + に + N3 + を + V_thể bị động (N1 bị N2 thực hiện hành động với N3 là vật sở hữu của N1, gây phiền toái)
+
+N + は/が + V_thể bị động (N được làm gì đó, N đứng trước thời gian/địa điểm dùng は, đứng sau thì dùng が)
+
+N1 + は + N2 + によって + V_thể bị động (N1 do N2 làm V)
+
+N + から + つくります。(được làm từ (nguyên liệu) ...)
+
+N + で + つくります。(được làm bằng (vật liệu) ...)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

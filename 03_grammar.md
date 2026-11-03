@@ -323,7 +323,7 @@
 この/その/あの + N: dùng được cho người, động vật và đồ vật.
 ```
 ## 2.1. Đếm số lượng
-|Số lượng|Số tầng|Vật nói chung|Vật thon dài|Vật mỏng|Máy móc/Xe|Số người|Động vật nhỏ|
+|Số|Số tầng|Vật nói chung|Vật thon dài|Vật mỏng|Máy móc/Xe|Số người|Động vật nhỏ|
 |-|-|-|-|-|-|-|-|
 |1|🔹いっかい|ひとつ|🔹いっぽん|Số đếm + まい|Số đếm + だい|ひとり|いっぴき|
 |2|にかい|ふたつ|にほん|||ふたり|にひき|

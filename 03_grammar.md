@@ -240,24 +240,24 @@
   <tr>
     <td>
       <b>Hiện tại, Tương lai</b><br>
-      ⊕ Nです<br>
-      ⊖ Nじゃありません<br>
-      ⊙ Nですか<br>
+      ⊕ N です<br>
+      ⊖ N じゃありません<br>
+      ⊙ N ですか<br>
       <br>
     </td>
     <td>
       <b>Quá khứ</b><br>
-      ⊕ Nでした<br>
-      ⊖ Nじゃありませんでした<br>
-      ⊙ Nでしたか<br>
+      ⊕ N でした<br>
+      ⊖ N じゃありませんでした<br>
+      ⊙ N でしたか<br>
       <br>
     </td>
     <td>
       <b>Thể thông thường</b><br>
-      Nです => Nだ<br>
-      Nじゃありません => Nじゃない<br>
-      Nでした => Nだった<br>
-      Nじゃありませんでした => Nじゃなかった<br>
+      N です => N だ<br>
+      N じゃありません => N じゃない<br>
+      N でした => N だった<br>
+      N じゃありませんでした => N じゃなかった<br>
     </td>
   </tr>
   
@@ -267,9 +267,9 @@
   <tr>
     <td>
       <b>Hiện tại, Tương lai</b><br>
-      ⊕ A(<del>な</del>）です<br>
-      ⊖ A(<del>な</del>）じゃありません<br>
-      ⊙ A(<del>な</del>）ですか<br>
+      ⊕ A(<del>な</del>) です<br>
+      ⊖ A(<del>な</del>) じゃありません<br>
+      ⊙ A(<del>な</del>) ですか<br>
       <br>
     </td>
     <td>
@@ -294,7 +294,7 @@
   <tr>
     <td>
       <b>Hiện tại, Tương lai</b><br>
-      ⊕ A(い）です<br>
+      ⊕ A(い) です<br>
       ⊖ A(<del>い</del>）くないです<br>
       ⊙ A(い）ですか<br>
     </td>

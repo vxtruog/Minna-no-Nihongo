@@ -174,7 +174,7 @@
     </td>
     <td>
       <b>Nhóm II:</b><br>
-      <del>ます</del> => thêm らります<br>
+      <del>ます</del> => thêm られます<br>
       <br>
     </td>
     <td>
@@ -235,6 +235,28 @@
   <tr>
     <td colspan="3" align="center">
       Chia như động từ thể る => thêm な<br>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể điều kiện</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I:</b><br>
+      cột い <del>ます</del> => cột え + ば<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm II:</b><br>
+      <del>ます</del> => thêm れば<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III:</b><br>
+      来ます => くれば<br>
+      します => すれば<br>
     </td>
   </tr>
   

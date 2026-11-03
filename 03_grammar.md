@@ -1,4 +1,28 @@
 # 1. Thời và thể trong tiếng Nhật
+```
+- Động từ nhóm I:
+  + Là những động từ có âm trước ます thuộc cột い.
+- Động từ nhóm II:
+  + Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.
+  + Một số động từ có âm trước ます thuộc cột い, nhưng là động từ nhóm II:
+    ++ 起きます - おきます - thức dậy
+    ++ 借ります - かります - mượn
+    ++ 降ります - おります - xuống (xe)
+    ++ 足ります - たります - đủ
+    ++ 浴びます - あびます - tắm
+    ++ できます - できます - có thể
+    ++ 過ぎます - すぎます - đi qua, quá
+    ++ 信じます - しんじます - tin tưởng
+    ++ 生きます - いきます - sống
+    ++ 落ちます - おちます - rơi, rớt
+    ++ 閉じます - とじます - đóng lại
+    ++ 伸びます - のびます - phát triển, dài ra
+- Động từ nhóm III:
+  + 来ます
+  + します
+  + N + します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します)
+```
+
 <table>
   <tr>
     <th colspan="2">Động từ thể ます</th>

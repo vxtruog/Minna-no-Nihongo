@@ -227,6 +227,16 @@
       します => しろ<br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể cấm chỉ</th>
+  </tr>
+  
+  <tr>
+    <td colspan="3" align="center">
+      Chia như động từ thể る => thêm な<br>
+    </td>
+  </tr>
   
 </table>
 

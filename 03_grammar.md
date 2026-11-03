@@ -907,6 +907,33 @@ Thể cấm chỉ: Vる + な. dùng để ra lệnh cho ai đó không được
 
 "Câu"/TTT + と伝いて いました。(Ai đó đã nói là ...)
 
+# 35. Thể điều kiện
+Thể điều kiện, vế 2.
+
+- Dùng để diễn tả điều kiện cần thiết để sự việc nào đó xảy ra.
+
+- Nếu vế đầu và vế sau của câu văn có chung chủ ngữ thì không thể dùng động từ biểu thị chủ ý.
+
+Thể điều kiện + いいですか。(Tôi nên làm gì thì tốt)
+
+N + なら (Nếu mà N thì ...)
+
+Thể điều kiện、～ほど (càng ... càng ...)
+
+# 36. 
+Vる/Vない + __ように__ + ... (Làm V vì mục đích ...)
+```
+Động từ đứng trước ように là những động từ không bao hàm chủ ý.
+```
+
+～ように　なります。(Trở nên, trở thành, thường dùng với thể khả năng)
+
+Vなく + なります。(Trở nên không thể, thường dùng với thể khả năng)
+
+Vる/Vない + ようにします。(cố gắng, nỗ lực làm gì đó theo chiều hướng tốt lên)
+
+Vる/Vない + ようにしてください。(hãy cố gắng làm/không làm gì đó, yêu cầu ai đó thực hiện việc gì đó, nhưng không cần phải ở thời điểm nói)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

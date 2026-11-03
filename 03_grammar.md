@@ -56,6 +56,31 @@
       <b>bỏ します => thêm する<br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể phủ định ない (thể thông thường của ません)</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I:<br>
+      <b>cột い bỏ ます => cột あ + ない<br>
+      <b>Ngoại lệ âm い => âm わ + ない<br>
+      <b>あります => ない<br>
+    </td>
+    <td>
+      <b>Nhóm II:<br>
+      <b>bỏ ます => thêm ない<br>
+      <br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III:<br>
+      <b>来ます - きます => こない<br>
+      <b>bỏ ます => thêm ない<br>
+      <br>
+    </td>
+  </tr>
   
   <tr>
     <th colspan="3">Động từ thể て</th>
@@ -91,38 +116,6 @@
     </td>
   </tr>
 
-  <tr>
-    <th colspan="2">Động từ thể phủ định ない (thể thông thường của ません)</th>
-  </tr>
-
-  <tr>
-    <td>
-      <b>Nhóm I</b>: Là những động từ có âm trước ます thuộc cột い.<br><br>
-      <b>Cách chia</b> （bỏ ます):<br>
-      <b>cột い => cột あ + ない<br>
-      <b>Ngoại lệ:<br>
-      <b>âm い => âm わ + ない<br>
-      <b>あります => ない<br>
-      <br>
-    </td>
-    <td>
-      <b>Nhóm II</b>: Là những động từ có âm trước ます thuộc cột え, và những động từ có 3 âm tiết.<br>
-      Ngoại trừ: 起きます, 降ります, 浴びます, 借ります, たります, できます, 信じます.<br><br>
-      <b>Cách chia</b>:<br>
-      <b>bỏ ます => thêm ない<br>
-      <br>
-      <br>
-    </td>
-    <td>
-      <b>Nhóm III</b>:<br>
-      来ます, します và (N) します (khi bỏ します thì N vẫn mang nghĩa tương đương khi có します).<br><br>
-      <b>Cách chia</b>:<br>
-      <b>きます => こない<br>
-      <b>bỏ ます => thêm ない<br>
-      <br>
-      <br>
-    </td>
-  </tr>
 
   <tr>
     <th colspan="2">Động từ thể た (thể thông thường của ました)</th>

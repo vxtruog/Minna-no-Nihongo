@@ -243,12 +243,14 @@
       ⊕ Nです<br>
       ⊖ Nじゃありません<br>
       ⊙ Nですか<br>
+      <br>
     </td>
     <td>
       <b>Quá khứ</b><br>
       ⊕ Nでした<br>
       ⊖ Nじゃありませんでした<br>
       ⊙ Nでしたか<br>
+      <br>
     </td>
     <td>
       <b>Thể thông thường</b><br>
@@ -268,12 +270,14 @@
       ⊕ A(bỏ な）です<br>
       ⊖ A(bỏ な）じゃありません<br>
       ⊙ A(bỏ な）ですか<br>
+      <br>
     </td>
     <td>
       <b>Quá khứ</b><br>
       ⊕ A(bỏ な）でした<br>
       ⊖ A(bỏ な）じゃありませんでした<br>
       ⊙ A(bỏ な）でしたか<br>
+      <br>
     </td>
     <td>
       <b>Thể thông thường</b><br>

@@ -266,7 +266,7 @@
 <table>
 
   <tr>
-    <th colspan="3">Danh từ</th>
+    <th colspan="4">Danh từ</th>
   </tr>
   
   <tr>
@@ -300,7 +300,7 @@
   </tr>
   
   <tr>
-    <th colspan="3">Tính từ đuôi「な」</th>
+    <th colspan="4">Tính từ đuôi「な」</th>
   </tr>
   <tr>
     <td>
@@ -334,7 +334,7 @@
   </tr>
 
   <tr>
-    <th colspan="3">Tính từ đuôi「い」</th>
+    <th colspan="4">Tính từ đuôi「い」</th>
   </tr>
   <tr>
     <td>

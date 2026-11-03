@@ -286,10 +286,16 @@
     </td>
     <td>
       <b>Thể thông thường</b><br>
-      N です => N だ<br>
-      N じゃありません => N じゃない<br>
-      N でした => N だった<br>
-      N じゃありませんでした => N じゃなかった<br>
+      ⊕ N です => N だ<br>
+      ⊖ N じゃありません => N じゃない<br>
+      ⊕ N でした => N だった<br>
+      ⊖ N じゃありませんでした => N じゃなかった<br>
+    </td>
+    <td>
+      <b>Thể điều kiện</b><br>
+      N + なら<br>
+      <br>
+      <br>
     </td>
   </tr>
   
@@ -318,10 +324,17 @@
       A(<del>な</del>）でした => A(<del>な</del>) だった<br>
       A(<del>な</del>）じゃありませんでした => A(<del>な</del>) じゃなかった<br>
     </td>
+    <td>
+      <b>Thể điều kiện</b><br>
+      A(<del>な</del>) + なら<br>
+      <br>
+      <br>
+      <br>
+    </td>
   </tr>
 
   <tr>
-    <th colspan="3">Tính từ đuôi「い」</th>
+    <th colspan="4">Tính từ đuôi「い」</th>
   </tr>
   <tr>
     <td>
@@ -339,6 +352,12 @@
     <td>
       <b>Thể thông thường</b><br>
       <del>です</del><br>
+      <br>
+      <br>
+    </td>
+    <td>
+      <b>Thể điều kiện</b><br>
+      A(<del>い</del>) + ければ<br>
       <br>
       <br>
     </td>

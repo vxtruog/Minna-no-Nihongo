@@ -117,6 +117,16 @@
       <br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể なかった (thể thông thường của ませんでした)</th>
+  </tr>
+  
+  <tr>
+    <td colspan="3" align="center">
+      Chia như động từ thể ない => <del>い</del> + かった<br>
+    </td>
+  </tr>
   
   <tr>
     <th colspan="3">Động từ thể て</th>
@@ -149,20 +159,6 @@
       <br>
       <br>
       <br>
-    </td>
-  </tr>
-        
-  <tr>
-    <th colspan="2">Động từ thể phủ định trong quá khứ</th>
-  </tr>
-  <tr>
-    <td>
-      <b>Phủ định quá khứ</b><br>
-      Vませんでした
-    </td>
-    <td>
-      <b>Thể thông thường</b><br>
-      Vなかった
     </td>
   </tr>
   

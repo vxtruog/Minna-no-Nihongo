@@ -228,9 +228,15 @@
     </td>
   </tr>
   
+</table>
+
+## 1.3. Thì và thể của tính từ và danh từ
+<table>
+
   <tr>
-    <th colspan="2">Danh từ</th>
+    <th colspan="3">Danh từ</th>
   </tr>
+  
   <tr>
     <td>
       <b>Hiện tại, Tương lai</b><br>
@@ -254,7 +260,7 @@
   </tr>
   
   <tr>
-    <th colspan="2">Tính từ đuôi [な]</th>
+    <th colspan="3">Tính từ đuôi「な」</th>
   </tr>
   <tr>
     <td>
@@ -279,7 +285,7 @@
   </tr>
 
   <tr>
-    <th colspan="2">Tính từ đuôi [い]</th>
+    <th colspan="3">Tính từ đuôi「い」</th>
   </tr>
   <tr>
     <td>
@@ -301,7 +307,7 @@
       <br>
     </td>
   </tr>
-        
+     
 </table>
 
 # 2. Nói về đồ vật

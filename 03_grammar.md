@@ -35,36 +35,27 @@
 ## 1.2. Thể của động từ
 <table>
   <tr>
-    <th colspan="2">Động từ thể て</th>
+    <th colspan="3">Động từ thể て</th>
   </tr>
 
   <tr>
     <td>
-      <b>Nhóm I:<br>
+      <b>Nhóm I (bỏ ます):<br>
       <b>い, ち, り => って<br>
       <b>み, に, び => んで<br>
       <b>き => いて<br>
       <b>ぎ => いで<br>
-      <b>いきます => いって<br>
+      <b>行きます - いきます => 行って<br>
       <b>し => して<br>
       <br>
     </td>
     <td>
       <b>Nhóm II:<br>
       <b>bỏ ます => thêm て<br>
-      <br>
-      <br>
-      <br>
-      <br>
     </td>
     <td>
       <b>Nhóm III</b>:<br>
       <b>bỏ ます => thêm て<br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
     </td>
   </tr>
 

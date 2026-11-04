@@ -997,11 +997,22 @@ N1 + は + N2 + に + N3 + を + V_thể bị động (N1 bị N2 thực hiện 
 
 N + は/が + V_thể bị động (N được làm gì đó, N đứng trước thời gian/địa điểm dùng は, đứng sau thì dùng が)
 
-N1 + は + N2 + によって + V_thể bị động (N1 do N2 làm V)
+N1 + は + N2 + __によって__ + V_thể bị động (N1 do N2 làm V)
 
 N + から + つくります。(được làm từ (nguyên liệu) ...)
 
 N + で + つくります。(được làm bằng (vật liệu) ...)
+
+# 38. 
+Vる + __のは__ + Aです。(cái việc làm V rất A, mang tính chất cảm xúc, tâm trạng, nguy hiểm)
+
+Vる + __のが__ + Aです。(cái việc làm V rất A, mang tính chất năng lực, yêu ghét)
+
+Vる + __のを__ + わすれました。(quên làm gì đó)
+
+Vる + __のを__ + 知っていました。(... có biết không)
+
+Thể thông thường + __のは__ + Nです。(cái việc/nơi nào đó thì là N)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

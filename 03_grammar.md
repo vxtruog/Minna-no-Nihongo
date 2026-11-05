@@ -1045,6 +1045,23 @@ Vて みます。(Thử làm gì đó)
 
 Tính từ đuôi い (bỏ い）+ さ (danh từ chỉ mức độ)
 
+# 41. 
+～に + Nを + いただきます。(nhận được từ ai đó cái gì, lịch sự hơn もらいます, chủ thể là tôi)
+
+～に + Nを + くださいます。(ai đó cho mình cái gì, lịch sự hơn くれます, chủ thể không là tôi)
+
+～に + Nを + やります。(mình cho ai đó cái gì, cho người thấp vị thế hơn, thay cho あげます)
+
+さしあげます。(cho người có địa vị cao hơn)
+
+Vて + いただきます。(được ai đó làm gì cho)
+
+Vて + くださいます。(ai làm cho mình việc gì đó)
+
+Vて + やります。(mình làm gì đó cho ai, cho người thấp vị thế hơn)
+
+Vて + くださいませんか。(xin hãy giúp tôi, lịch sự hơn Vて + ください, nhưng không bằng Vて + いただけませんか)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

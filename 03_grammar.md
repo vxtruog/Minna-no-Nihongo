@@ -1033,6 +1033,18 @@ Biểu thị một cách khách quan về liên hệ giữa nguyên nhân và k�
 ```
 Nの/Vる + 途中で (Trong lúc, khi đang làm V/ diễn ra N thì ...)
 
+# 40. 
+Từ nghi vấn + Thể thông thường + __か__、～
+```
+dùng để lồng ghép 1 câu khẳng định với 1 câu nghi vấn tạo sự kết nối trong câu
+```
+
+Thể thông thường + かどうか。(... có hay không?)
+
+Vて みます。(Thử làm gì đó)
+
+Tính từ đuôi い (bỏ い）+ さ (danh từ chỉ mức độ)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

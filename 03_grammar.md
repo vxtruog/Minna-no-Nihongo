@@ -977,7 +977,7 @@ N + なら (Nếu mà N thì ...)
 Thể điều kiện、～ほど (càng ... càng ...)
 
 # 36. 
-Vる/Vない + __ように__ + ... (Làm V vì mục đích ...)
+Vる/Vない + __ように__ + ... (Làm V vì mục đích ..., thể hiện mong muốn)
 ```
 Động từ đứng trước ように là những động từ không bao hàm chủ ý.
 ```
@@ -1061,6 +1061,21 @@ Vて + くださいます。(ai làm cho mình việc gì đó)
 Vて + やります。(mình làm gì đó cho ai, cho người thấp vị thế hơn)
 
 Vて + くださいませんか。(xin hãy giúp tôi, lịch sự hơn Vて + ください, nhưng không bằng Vて + いただけませんか)
+
+# 42. 
+Vる/Nの + ために (Để, cho, vì ..., thể hiện mục đích của hành vi sẽ thực hiện)
+```
+đi với động từ ý chí, có chủ ý
+```
+
+Vるの/N + に (Để, cho, vì ..., sử dụng vào việc gì/có lợi cho cái gì)
+```
+Nします -> Nに
+```
+
+Lượng từ は thêm vào sau lượng từ biểu thị mức độ tối thiểu mà người nói ước lượng
+
+Lượng từ も thêm vào sau lượng từ biểu thị rằng người nói cảm nhận con số hoặc số lượng đó là nhiều
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

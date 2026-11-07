@@ -1077,6 +1077,23 @@ Lượng từ は thêm vào sau lượng từ biểu thị mức độ tối th
 
 Lượng từ も thêm vào sau lượng từ biểu thị rằng người nói cảm nhận con số hoặc số lượng đó là nhiều
 
+# 43. 
+Vます (bỏ ます) + そうです。(Có vẻ sắp ...)
+```
+Thường đi kèm với các phó từ いまにも, もうすぐ, これから, ...
+```
+
+Aい (bỏ い)/ Nな (bỏ な) + そうです。(Có vẻ ...)
+```
+Nhìn bằng mắt và đưa ra phán đoán chứ chưa thử trực tiếp
+Không dùng với những tính từ thể hiện tính chất quá rõ ràng
+```
+
+Vて 来ます。(Làm gì đó rồi quay lại)
+
+Vて + くれませんか。(Làm ơn ..., chỉ lịch sự hơn Vて ください)
+
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

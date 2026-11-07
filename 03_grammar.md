@@ -1158,7 +1158,11 @@ Thể thông thường(Aな/Nの) + ようです。(Hình như ..., phán đoán
 こえ/おと/にお/おじ + します。(Có tiếng nói/âm thanh/mùi vị/...)
 
 # 48. Thể sai khiến 
+Câu có chứa động từ thể sai khiến bắt buộc phải có 1 trợ từ を và chỉ được phép có 1 trợ từ を.
 
+N_người + を (に) + V_sai khiến (Sai khiến, cho phép, gây ra)
+
+V_sai khiến て + いただけませんか。(Làm ơn cho phép tôi được ...) 
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

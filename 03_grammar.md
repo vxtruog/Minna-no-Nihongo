@@ -1083,7 +1083,7 @@ Vます (bỏ ます) + そうです。(Có vẻ sắp ...)
 Thường đi kèm với các phó từ いまにも, もうすぐ, これから, ...
 ```
 
-Aい (bỏ い)/ Nな (bỏ な) + そうです。(Có vẻ ...)
+Aい (bỏ い)/ Aな (bỏ な) + そうです。(Có vẻ ...)
 ```
 Nhìn bằng mắt và đưa ra phán đoán chứ chưa thử trực tiếp
 Không dùng với những tính từ thể hiện tính chất quá rõ ràng
@@ -1093,6 +1093,24 @@ Vて 来ます。(Làm gì đó rồi quay lại)
 
 Vて + くれませんか。(Làm ơn ..., chỉ lịch sự hơn Vて ください)
 
+# 44.
+Vます (bỏ ます)/ Aい (bỏ い)/ Aな (bỏ な) + すぎます。(Quá ...)
+```
+Dùng để diễn đạt ý vượt quá một mức độ nào đó của động tác, trạng thái
+Dùng trong những trường hợp mang ý xấu, nằm ngoài mong đợi của người nói
+すぎます chia theo động từ nhóm II
+```
+
+Vます (bỏ ます) + やすいです。(Dễ làm gì đó)
+
+Vます (bỏ ます) + にくいです。(Khó làm gì đó)
+
+Nを + Aい (bỏ い) thêm く/ Aな (bỏ な) thêm に/ Nに + します。(Làm cho trở thành ...)
+```
+có chủ ý
+```
+
+Nに + します。(Chọn, quyết định)
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

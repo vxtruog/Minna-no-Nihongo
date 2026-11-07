@@ -1128,6 +1128,13 @@ Vた + ばかりです。(Vừa mới ..., chưa được bao lâu đã thế n�
 
 Vる/Vない/Aい/Aな/Nの + はずです。(Chắc chắn là ...)
 
+# 47.
+Thể thông thường + そうです。(Nghe nói là ...)
+
+Thể thông thường(Aな/Nの) + ようです。(Hình như ..., phán đoán dựa trên thông tin)
+
+こえ/おと/にお/おじ + します。(Có tiếng nói/âm thanh/mùi vị/...)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

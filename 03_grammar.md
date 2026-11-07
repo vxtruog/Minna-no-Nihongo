@@ -1112,6 +1112,22 @@ có chủ ý
 
 Nに + します。(Chọn, quyết định)
 
+# 45.
+Vる/Vた/Vない/Aい/Aな/Nの + 場合は (Trong trường hợp/giả định, ...)
+
+Thể thông thường + のに (Thế mà..., những việc tưởng như xảy ra nhưng không xảy ra)
+
+# 46.
+Vる + ところです。(Sắp sửa, chuẩn bị, ...)
+
+Vている + ところです。(Đang/đúng vào lúc đang ..., nhấn mạnh hơn Vています)
+
+Vた + ところです。(Vừa mới ... xong ...)
+
+Vた + ばかりです。(Vừa mới ..., chưa được bao lâu đã thế nào đó)
+
+Vる/Vない/Aい/Aな/Nの + はずです。(Chắc chắn là ...)
+
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ
 (Trợ từ __の__): N1 __の__ N2

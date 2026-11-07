@@ -281,6 +281,28 @@
       します => されます<br>
     </td>
   </tr>
+
+  <tr>
+    <th colspan="3">Động từ thể sai khiến</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Nhóm I:</b><br>
+      cột い <del>ます</del> => cột あ + せます<br>
+      âm い <del>ます</del> => âm わ + せます<br>
+    </td>
+    <td>
+      <b>Nhóm II:</b><br>
+      <del>ます</del> => thêm させます<br>
+      <br>
+    </td>
+    <td>
+      <b>Nhóm III:</b><br>
+      来ます => こさせます<br>
+      します => させます<br>
+    </td>
+  </tr>
   
 </table>
 
@@ -1134,6 +1156,9 @@ Thể thông thường + そうです。(Nghe nói là ...)
 Thể thông thường(Aな/Nの) + ようです。(Hình như ..., phán đoán dựa trên thông tin)
 
 こえ/おと/にお/おじ + します。(Có tiếng nói/âm thanh/mùi vị/...)
+
+# 48. Thể sai khiến 
+
 
 # * Ngữ pháp bổ sung
 ## 1. Trợ từ

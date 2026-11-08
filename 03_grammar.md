@@ -418,6 +418,15 @@
 この/その/あの + N: dùng được cho người, động vật và đồ vật.
 ```
 ## 2.1. Đếm số lượng
+N + trợ từ + số lượng + Vます。(Làm gì đó với số lượng N)
+
+N + __を__ + lượng từ + ください。(Cho tôi số lượng N)
+
+N + trợ từ + từ để hỏi + Vます + か。(Làm gì đó với bao nhiêu N)
+```
+Từ để hỏi: いくつ (vật nói chung), なんまい (vật mỏng), なんだい (máy móc/xe), なんにん (người), ...
+```
+
 |Số|Số tầng|Vật nói chung|Cuốn/Quyển|Vật thon dài|Cốc/Ly/Chén|Động vật nhỏ|Động vật lớn|
 |-|-|-|-|-|-|-|-|
 |1|🔹いっかい|ひとつ|🔹いっさつ|🔹いっぽん|🔹いっぱい|🔹いっぴき|🔹いっとう|
@@ -813,15 +822,6 @@ N + __は__ + __どこに__ + ありますか/いますか。
 
 N_địa điểm + で + N_sự kiện + が + あります。(N_sự kiện được tổ chức/xảy ra ở N_địa điểm)
 
-# 13. Câu có chứa lượng từ
-N + trợ từ + lượng từ + Vます。
-
-N + __を__ + lượng từ + ください。
-
-N + trợ từ + từ để hỏi + Vます + か。
-```
-Từ để hỏi có thể là いくつ (vật nói chung), なんまい (vật mỏng), なんだい (máy móc/xe), なんにん (người), ...
-```
 
 # 14. Câu so sánh
 N1 + __は__　+ N2 + __より__ + A + です。(N1 thì A hơn N2.)

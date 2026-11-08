@@ -549,6 +549,20 @@ Khoảng thời gian + __間__ (かん) (Trong suốt khoảng thời gian ...)
 
 N + の + __間__ (あいだ) (Trong suốt khoảng thời gian N ...)
 
+__どのくらい__ + (N + trợ từ) + Vます+ か。(Làm V trong bao lâu ?)
+
+=> Khoảng thời gian/Lượng từ + __ぐらい__ (Khoảng ...)
+
+N1 + trợ từ + lượng từ + __と__ + N2 + trợ từ + lượng từ + Vます。(Làm gì đó với số lượng N1 và số lượng N2)
+
+Khoảng thời gian/N + __だけ__ + Vます。(Chỉ V trong vòng/chỉ V mỗi ...)
+
+Khoảng thời gian xác định + __に__ + (N + trợ từ) + __số lần__ + Vます。(làm gì bao nhiêu lần trong khoảng thời gian)
+
+=> __なんかいも__ +　Vます。(làm V rất nhiều lần)
+
+=> __いっかいも__ + Vません。(một lần cũng không)
+
 # 4. Nói về địa điểm
 __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。
 
@@ -808,20 +822,6 @@ N + trợ từ + từ để hỏi + Vます + か。
 ```
 Từ để hỏi có thể là いくつ (vật nói chung), なんまい (vật mỏng), なんだい (máy móc/xe), なんにん (người), ...
 ```
-
-__どのくらい__ + (N + trợ từ) + Vます+ か。(... trong bao lâu ?)
-
-=> Khoảng thời gian/Lượng từ + __ぐらい__ (khoảng ...)
-
-N1 + trợ từ + lượng từ + __と__ + N2 + trợ từ + lượng từ + Vます。
-
-Khoảng thời gian/N + __だけ__ + Vます。(Chỉ V trong vòng/chỉ V mỗi ...)
-
-Khoảng thời gian xác định + __に__ + ... + __かい__ + Vます。(làm gì bao nhiêu lần trong khoảng thời gian)
-
-=> __なんかいも__ +　Vます。(làm V rất nhiều lần)
-
-=> __いっかいも__ + Vません。(một lần cũng không)
 
 # 14. Câu so sánh
 N1 + __は__　+ N2 + __より__ + A + です。(N1 thì A hơn N2.)

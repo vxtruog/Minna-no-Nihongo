@@ -530,18 +530,18 @@ N + は + __何年 何月 何日__ ですか。(Mốc thời gian xác định N
 |Số đếm + ねん|-|năm ___|
 
 ## 3.3. Mẫu câu về thời gian
-S + は + thời gian xác định + __に__ + Vます。
+S + は + __いつ/何時に__ + Vます + __か__。
 
-S + は + thời gian không xác định + Vます。
+└──── S + は + thời gian xác định + __に__ + Vます。
 
-S + は + thời gian xác định + __から__ + thời gian xác định __まで__ + Vます。
+└──── S + は + thời gian không xác định + Vます。
+
+S + は + __何時から 何時まで__ + Vます + __か__。
+
+└──── S + は + thời gian xác định + __から__ + thời gian xác định __まで__ + Vます。
 ```
 から và まで không nhất thiết phải đi cùng với nhau, có thể sử dụng から riêng và まで riêng.
 ```
-
-S + は + __いつ/何時に__ + Vます + __か__。
-
-S + は + __何時から 何時まで__ + Vます + __か__。
 
 Mốc thời gian ước lượng + __ごろ__ (Khoảng vào lúc ...)
 
@@ -551,7 +551,7 @@ N + の + __間__ (あいだ) (Trong suốt khoảng thời gian N ...)
 
 __どのくらい__ + (N + trợ từ) + Vます+ か。(Làm V trong bao lâu ?)
 
-=> Khoảng thời gian/Lượng từ + __ぐらい__ (Khoảng ...)
+└──── Khoảng thời gian/Lượng từ + __ぐらい__ (Khoảng ...)
 
 N1 + trợ từ + lượng từ + __と__ + N2 + trợ từ + lượng từ + Vます。(Làm gì đó với số lượng N1 và số lượng N2)
 
@@ -559,9 +559,9 @@ Khoảng thời gian/N + __だけ__ + Vます。(Chỉ V trong vòng/chỉ V m�
 
 Khoảng thời gian xác định + __に__ + (N + trợ từ) + __số lần__ + Vます。(làm gì bao nhiêu lần trong khoảng thời gian)
 
-=> __なんかいも__ +　Vます。(làm V rất nhiều lần)
+└──── __なんかいも__ +　Vます。(làm V rất nhiều lần)
 
-=> __いっかいも__ + Vません。(một lần cũng không)
+└──── __いっかいも__ + Vません。(một lần cũng không)
 
 # 4. Nói về địa điểm
 __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。

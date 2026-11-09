@@ -623,17 +623,17 @@ __Vị trí tương đối của đối tượng__: N1 __の__ N2
 ```
 
 # 5. Thực hiện hành động bằng công cụ/cách thức
-__何で__ + Vます + __か__。
+何で + Vます + か。
 
-└──── N_công cụ/cách thức + __で__ + Vます。
+└──── N_công cụ/cách thức + で + Vます。
 
-「Từ/câu 1」+ は + ngôn ngữ + __で__ + __何ですか__。
+「Từ/câu 1」+ は + ngôn ngữ + で + 何 + ですか。
 
-└────「Từ/câu 1」+ は + ngôn ngữ + __で__ + 「Từ/câu 2」 + __です__。
+└────「Từ/câu 1」+ は + ngôn ngữ + で + 「Từ/câu 2」 + です。
 
 # 6. Cho/Nhận
 ## 6.1. Cho
-A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
+A + は + (だれに) + N + (なにを) + V_cho + か。
 
 └──── A + は + B + に + N + を + V_cho。(A cho B cái gì đó, B không là tôi/người trong nhóm tôi)
 
@@ -658,18 +658,18 @@ A + は + B + に + (N + を) + Vて + __やります__。(A làm việc gì đ�
 A + が + (Vて) + __くれましたよ__。(A tặng cho tôi/người trong nhóm tôi đấy)
 
 ## 6.2. Nhận
-A + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
+A + は + (だれに) + N + (なにを) + V_nhận + __か__。
 
 └──── A + は + B + に + N + を + V_nhận。(A nhận từ B cái gì đó)
 ```
 Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ từ に bằng から.
 ```
 
-A + は + B + に + (N + を) + いただきます。(A nhận được từ B cái gì, khiêm nhường hơn もらいます, A là tôi/người trong nhóm tôi)
+A + は + B + に + (N + を) + __いただきます__。(A nhận được từ B cái gì, khiêm nhường hơn もらいます, A là tôi/người trong nhóm tôi)
 
-A + は + B + に + (N + を) + Vて + もらいます。(A được B làm việc gì đó)
+A + は + B + に + (N + を) + Vて + __もらいます__。(A được B làm việc gì đó)
 
-A + は + B + に + (N + を) + Vて + いただきます。(A được B làm việc gì đó, khiêm nhường hơn)
+A + は + B + に + (N + を) + Vて + __いただきます__。(A được B làm việc gì đó, khiêm nhường hơn)
 
 # 7. Đánh giá tương phản
 ## 7.1. Thích/Ghét
@@ -720,7 +720,7 @@ A + は + B + に + (N + を) + Vて + いただきます。(A được B làm v
       A + は + なにが + すきですか。<br>
     </td>
     <td>
-      A + は + N + __が__ + へたです。<br>
+      A + は + N + が + へたです。<br>
       <br>
       <br>
       <br>
@@ -773,6 +773,37 @@ V<del>ます</del> + たい => __Vたい__ (muốn làm V)
 Vたい chia giống tính từ đuôi い
 ぜひ + Vたい。(rất muốn làm V)
 ```
+
+# 9. Có (sở hữu/tồn tại)
+## 9.1. Có(sở hữu)
+N + __が__ + あります。
+
+N + __が__ + ありません。
+
+N + __が__ + ありますか。
+
+## 9.2. Có(tồn tại) vật/người/động vật
+N_địa điểm + __に__ + N + __が__ + あります/います。
+
+N_địa điểm + __に__ + N + __が__ + Vて　あります。(Ở địa điểm N có vật N được V, V có chủ ý)
+
+N + __は__ + N_địa điểm + __に__ + Vて　あります。(N được V ở vị trí N, V có chủ ý)
+
+N_địa điểm + __に__ + __なにが__ + ありますか。
+
+N_địa điểm + __に__ + __だねが__ + いますか。
+```
+- あります dùng cho đồ vật.
+- います dùng cho người, động vật.
+- Nếu ở địa điểm mà không có vật/người thì dùng なにも/だねも + thể phủ định để trả lời.
+```
+
+N + は + N_địa điểm + __に__ + あります/います。
+
+N + は + __どこに__ + ありますか/いますか。
+
+N_địa điểm + で + N_sự kiện + が + あります。(N_sự kiện được tổ chức/xảy ra ở N_địa điểm)
+
 
 # 7. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
@@ -880,42 +911,6 @@ Tính từ い (bỏ い) + く + động từ
 
 Tính từ な (bỏ な) + に + động từ
 
-# 11. Có(sở hữu)/Hiểu
-N + __が__ + あります/わかります。
-
-N + __が__ + ありません/わかりません。
-
-N + __が__ + ありますか/わかりますか。
-
-# 12. Có(tồn tại) vật/người/động vật
-N_địa điểm + __に__ + N + __が__ + あります/います。
-
-N_địa điểm + __に__ + N + __が__ + Vて　あります。(Ở địa điểm N có vật N được V, V có chủ ý)
-
-N + __は__ + N_địa điểm + __に__ + Vて　あります。(N được V ở vị trí N, V có chủ ý)
-
-もう + Vて　あります。(Đã V sẵn rồi)
-
-Vて　おきます。(Chuẩn bị V trước)
-
-(そのままに) + Vて　おきます。(Cứ giữ nguyên như thế)
-
-N_địa điểm + __に__ + __なにが__ + ありますか。
-
-N_địa điểm + __に__ + __だねが__ + いますか。
-```
-- あります dùng cho đồ vật.
-- います dùng cho người, động vật.
-- Nếu ở địa điểm mà không có vật/người thì dùng なにも/だねも + thể phủ định để trả lời.
-```
-
-N + __は__ + N_địa điểm + __に__ + あります/います。
-
-N + __は__ + __どこに__ + ありますか/いますか。
-
-N_địa điểm + で + N_sự kiện + が + あります。(N_sự kiện được tổ chức/xảy ra ở N_địa điểm)
-
-
 # 14. Câu so sánh
 N1 + __は__　+ N2 + __より__ + A + です。(N1 thì A hơn N2.)
 
@@ -947,6 +942,12 @@ Vて いました。(thói quen trong quá khứ)
 N + が + Vて います。(N đang trong tình trạng V, V không có chủ ý)
 
 __どやって__ Vますか。(Làm V bằng cách nào?)
+
+もう + Vて　あります。(Đã V sẵn rồi)
+
+Vて　おきます。(Chuẩn bị V trước)
+
+(そのままに) + Vて　おきます。(Cứ giữ nguyên như thế)
 
 # 18. Mẫu câu ứng dụng của thể る
 S + は + N + が + できます。(S có thể làm N) => thể thông thường ... できる。

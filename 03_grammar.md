@@ -769,10 +769,10 @@ N + が + __ほしいですか__。
 Từ để hỏi + が + __ほしいですか__。
 
 V<del>ます</del> + たい => __Vたい__ (muốn làm V)
-
+```
+Vたい chia giống tính từ đuôi い
 ぜひ + Vたい。(rất muốn làm V)
-
-Từ để hỏi + __Vたい__ + ですか。
+```
 
 # 7. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)

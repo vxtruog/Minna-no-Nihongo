@@ -728,6 +728,32 @@ A + は + B + に + (N + を) + Vて + いただきます。(A được B làm v
   </tr>  
 </table>
 
+## 7.3. Dễ/Khó
+<table>
+  <tr>
+    <td>
+      <b>Dễ</b><br>
+    </td>
+    <td>
+      <b>Khó</b><br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      N + が + やさしいです。(Cái gì đó dễ)<br>
+      Vます <del>ます</del> + やすいです。(Dễ làm gì đó)<br>
+    </td>
+    <td>
+      N + が + むずかしいです。(Cái gì đó khó)<br>
+      Vます <del>ます</del> + にくいです。(Khó làm gì đó)<br>
+    </td>
+  </tr>  
+</table>
+
+
+
+
 # 7. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
 
@@ -1232,10 +1258,6 @@ Dùng để diễn đạt ý vượt quá một mức độ nào đó của đ�
 Dùng trong những trường hợp mang ý xấu, nằm ngoài mong đợi của người nói
 すぎます chia theo động từ nhóm II
 ```
-
-Vます (bỏ ます) + やすいです。(Dễ làm gì đó)
-
-Vます (bỏ ます) + にくいです。(Khó làm gì đó)
 
 Nを + Aい (bỏ い) thêm く/ Aな (bỏ な) thêm に/ Nに + します。(Làm cho trở thành ...)
 ```

@@ -560,7 +560,7 @@ Khoảng thời gian xác định + __に__ + (N + trợ từ) + __số lần__ 
 
 └──── __いっかいも__ + Vません。(một lần cũng không)
 
-# 4. Nói về địa điểm
+# 4. Nói về địa điểm, vị trí
 __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。
 ```
 ここ: chỗ này (ở gần người nói)
@@ -599,7 +599,7 @@ S + は + (__どこで__) + (__なにを__) + Vます + __か__。
 
 └──── S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ + Vます。(hành động xảy ra ở một địa điểm)
 
-S + は + N_chỉ địa điểm + __に__ + N_chỉ đối tượng + __を__ + Vます。(hành động tác động lên vị trí)
+S + は + N_chỉ vị trí + __に__ + N_chỉ đối tượng + __を__ + Vます。(hành động tác động lên vị trí)
 
 __Vị trí tương đối của đối tượng__: N1 __の__ N2
 ```
@@ -629,7 +629,47 @@ __何で__ + Vます + __か__。
 
 └────「Từ/câu 1」+ は + ngôn ngữ + __で__ + 「Từ/câu 2」 + __です__。
 
-# 6. Mẫu câu giao tiếp với động từ
+# 6. Cho/Nhận
+## 6.1. Cho
+A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
+
+└──── A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó, B không là tôi/người trong nhóm tôi)
+
+└──── A + は + B + __に__ + N + __を__ + __くれます__。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
+
+A + は + B + に + N + を + __くださいます__。(A cho B cái gì đó, kính ngữ hơn くれます, A được kính trọng, B là tôi/người trong nhóm tôi)
+
+A は + B に + N + を + __さしあげます__。(A cho B cái gì đó, khiêm nhường hơn, B được kính trọng, A là tôi/người trong nhóm tôi)
+
+A + は + B + に + Nを + __やります__。(A cho B cái gì đó, cho đối tượng vị thế thấp hơn, thay cho あげます)
+
+A + は + (N + を) + B + に + Vて + __あげます__。(A làm việc gì đó cho B, B không là tôi/người trong nhóm tôi)
+
+A + は + B + に + (N + を) + Vて + __くれます__。(A làm việc gì đó cho B, B là tôi/người trong nhóm tôi)
+
+A + は + B + に + Vて + __くださいます__。(A làm việc gì đó cho B, A được kính trọng)
+
+A は + B に + N + を + __さしあげます__。(A làm việc gì đó cho B, khiêm nhường ngữ)
+
+A + は + B + に + Vて + やります。(A làm việc gì đó cho B, cho người thấp vị thế hơn)
+
+A + が + (Vて) + __くれましたよ__。(A tặng cho tôi/người trong nhóm tôi đấy)
+
+## 6.2. Nhận
+A + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
+
+└──── A + は + B + __に__ + N + __を__ + V_nhận。(A nhận từ B cái gì đó)
+```
+Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ từ に bằng から.
+```
+
+A + は + B + に + (N + を) + Vて + もらいます。(A được B làm việc gì đó) 
+
+A + は + B + に + N + を + いただきます。(A nhận được từ B cái gì, khiêm nhường hơn もらいます, A là tôi/người trong nhóm tôi)
+
+A + は + B + に + Vて + いただきます。(A được B làm việc gì đó, khiêm nhường ngữ)
+
+# 7. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
 
 V + ませんか。  (mời/rủ ai đó cùng làm một việc)
@@ -644,7 +684,7 @@ __もう__ + Vましたか。(đã làm V chưa)
 ＝> いいえ、まだです。(không, vẫn chưa)
 ```
 
-# 7. Liệt kê và nối
+# 8. Liệt kê và nối
 N1 __と__ N2
 ```
 - Ý nghĩa: N1 và N2 (liệt kê đầy đủ).
@@ -700,6 +740,8 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
 # 8. Nghĩa vụ, lời khuyên, cấm đoán và cho phép
 (ぜひ) Vて ください。 (Hãy làm V nhé)
 
+Vて + くださいませんか。(xin hãy giúp tôi, lịch sự hơn Vて + ください, nhưng không bằng Vて + いただけませんか)
+
 TTT + んですが、Vて いただけませんか。(vì ... nên làm gì đó cho tôi được không?, lịch sự hơn Vて ください)
 
 Vて もいいですか。(Tôi làm V có được không?)
@@ -717,28 +759,6 @@ Vないと いけません。(Phải làm V, hội thoại, nói rút gọn là 
 Vなくて もいいです。(Không cần làm V)
 
 TTT + んですが、từ để hỏi + Vたらいいですか。(vì ... nên làm thế nào thì tốt?, xin lời khuyên)
-
-# 7. Cho/Nhận
-A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó)
-
-A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
-
-A + は + B + __に__ + N + __を__ + くれます。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
-
-B + は + A + __に__ + N + __を__ + V_nhận。(B nhận từ A cái gì đó)
-```
-Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ từ に bằng から.
-```
-
-B + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
-
-A + は + (N + を) + B + に + Vて + あげます。(A làm V cho B)
-
-A + は + B + に + (N + を) + Vて + くれます。(A làm V cho B, B là tôi/người trong nhóm tôi)
-
-B + は + (N + を) + A + に + Vて + もらいます。(B được A làm V)
-
-N + が + (Vて) + くれましたよ。(N tặng cho tôi đó, để giải thích thêm thông tin)
 
 # 8. Câu có tính từ
 S + は + thời và thể của tính từ。
@@ -1134,23 +1154,6 @@ Thể thông thường + かどうか。(... có hay không?)
 Vて みます。(Thử làm gì đó)
 
 Tính từ đuôi い (bỏ い）+ さ (danh từ chỉ mức độ)
-
-# 41. 
-～に + Nを + いただきます。(nhận được từ ai đó cái gì, lịch sự hơn もらいます, chủ thể là tôi)
-
-～に + Nを + くださいます。(ai đó cho mình cái gì, lịch sự hơn くれます, chủ thể không là tôi)
-
-～に + Nを + やります。(mình cho ai đó cái gì, cho người thấp vị thế hơn, thay cho あげます)
-
-さしあげます。(cho người có địa vị cao hơn)
-
-Vて + いただきます。(được ai đó làm gì cho)
-
-Vて + くださいます。(ai làm cho mình việc gì đó)
-
-Vて + やります。(mình làm gì đó cho ai, cho người thấp vị thế hơn)
-
-Vて + くださいませんか。(xin hãy giúp tôi, lịch sự hơn Vて + ください, nhưng không bằng Vて + いただけませんか)
 
 # 42. 
 Vる/Nの + ために (Để, cho, vì ..., thể hiện mục đích của hành vi sẽ thực hiện)

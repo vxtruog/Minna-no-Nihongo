@@ -742,11 +742,11 @@ A + は + B + に + (N + を) + Vて + いただきます。(A được B làm v
   <tr>
     <td>
       N + が + やさしいです。(Cái gì đó dễ)<br>
-      Vます <del>ます</del> + やすいです。(Dễ làm gì đó)<br>
+      V<del>ます</del> + やすいです。(Dễ làm gì đó)<br>
     </td>
     <td>
       N + が + むずかしいです。(Cái gì đó khó)<br>
-      Vます <del>ます</del> + にくいです。(Khó làm gì đó)<br>
+      V<del>ます</del> + にくいです。(Khó làm gì đó)<br>
     </td>
   </tr>  
 </table>

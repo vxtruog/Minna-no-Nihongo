@@ -811,13 +811,13 @@ N1 + __は__　+ N2 + __より ずっと__ + A + です。(N1 thì A hơn hẳn 
 
 N1 + __と__ + N2 + __と__ + __どちら が__ + A + ですか。(Giữa N1 và N2 thì cái nào hơn?)
 
-=> N1(N2) + __のほう が__ + A + です。
+└──── N1(N2) + __のほう が__ + A + です。
 
-=> __どちら も__ + A + です。(Cả hai đều A)
+└──── __どちら も__ + A + です。(Cả hai đều A)
 
 N1 (の中) + __で__ + từ để hỏi + __が__ + __いちばん__　+ A + ですか。(Trong N1 thì ... là nhất?)
 
-=> N2 + __が__ + __いちばん__　+ A + です。
+└──── N2 + __が__ + __いちばん__　+ A + です。
 ```
 Từ để hỏi có thể là なに, だれ, どこ, いつ,...
 ```
@@ -837,7 +837,7 @@ __もう__ + Vましたか。(đã làm V chưa)
 ＝> いいえ、まだです。(không, vẫn chưa)
 ```
 
-# 8. Liệt kê và nối
+# 11. Liệt kê và nối
 N1 __と__ N2
 ```
 - Ý nghĩa: N1 và N2 (liệt kê đầy đủ).
@@ -853,12 +853,12 @@ N1 __とか__、N2 __とか__
 - Ý nghĩa: như là ... như là ... (liệt kê ví dụ tiêu biểu)
 - Thường mang sắc thái hội thoại.
 ```
-A(bỏ い) + __くて__ => A1 __くて__, A2 __くて__, ..., An。
+A(<del>い</del>) + __くて__ => A1 __くて__, A2 __くて__, ..., An。
 ```
 - Ý nghĩa: A1, A2, ... và An
 - Nối nhiều tính chất của đối tượng, tính chất cùng quan điểm
 ```
-A(bỏ な) + __で__ =>  A1 __で__, A2 __で__, ..., An。
+A(<del>な</del>) + __で__ =>  A1 __で__, A2 __で__, ..., An。
 ```
 - Ý nghĩa: A1, A2, ... và An
 - Nối nhiều tính chất của đối tượng, tính chất cùng quan điểm
@@ -871,17 +871,14 @@ N + __で__ => N1 __で__, N2 __で__, ..., Nn。
 TTT + __し__, TTT + __し__, ... 
 ```
 - Ý nghĩa 1: Vì có A, có B, ... nên ...
-- Liệt kê nhiều lý do cùng quan điểm để dẫn đến kết luận.
-- Nếu trợ từ là を/が thì có thể chuyển thành trợ từ も nếu muốn nhấn mạnh.
-- Trong trường hợp kết luận đã rõ ràng thì có thể lược bỏ.
-- Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
-```
-```
+  + Liệt kê nhiều lý do cùng quan điểm để dẫn đến kết luận.
+  + Nếu trợ từ là を/が thì có thể chuyển thành trợ từ も nếu muốn nhấn mạnh.
+  + Trong trường hợp kết luận đã rõ ràng thì có thể lược bỏ.
+  + Mẫu này khác から ở chỗ mẫu câu này bao hàm ngoài ra còn nhiều lý do khác nữa.
 - Ý nghĩa 2: Vừa ... vừa ...
-- Liệt kê các mệnh đề cùng quan điểm, có sắc thái bổ sung lẫn nhau.
-- Để nhấn mạnh có thể thêm それに (hơn nữa) vào trước quan điểm cuối.
+  + Liệt kê các mệnh đề cùng quan điểm, có sắc thái bổ sung lẫn nhau.
+  + Để nhấn mạnh có thể thêm それに (hơn nữa) vào trước quan điểm cuối.
 ```
-
 V1 __て__, V2 __て__, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
 
 V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
@@ -889,6 +886,17 @@ V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành đ
 V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
 
 V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
+
+# 12. Câu phức theo các mối quan hệ ý nghĩa
+## 12.1. Nguyên nhân – kết quả
+## 12.2. Điều kiện
+## 12.3. Nhượng bộ
+## 12.4. Tương phản
+## 12.5. Mục đích
+## 12.6. Thời gian
+## 12.7. Trình tự
+## 12.8. Đồng thời
+## 12.9. Liệt kê - bổ sung
 
 # 8. Nghĩa vụ, lời khuyên, cấm đoán và cho phép
 (ぜひ) Vて ください。 (Hãy làm V nhé)

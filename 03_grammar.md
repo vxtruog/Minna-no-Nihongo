@@ -633,23 +633,23 @@ __何で__ + Vます + __か__。
 ## 6.1. Cho
 A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
 
-└──── A + は + B + __に__ + N + __を__ + V_cho。(A cho B cái gì đó, B không là tôi/người trong nhóm tôi)
+└──── A + は + B + に + N + を + V_cho。(A cho B cái gì đó, B không là tôi/người trong nhóm tôi)
 
-└──── A + は + B + __に__ + N + __を__ + __くれます__。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
+└──── A + は + B + に + N + を + __くれます__。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
 
 A + は + B + に + N + を + __くださいます__。(A cho B cái gì đó, kính ngữ hơn くれます)
 
-A は + B に + N + を + __さしあげます__。(A cho B cái gì đó, khiêm nhường hơn, A là tôi/người trong nhóm tôi)
+A + は + B + に + N + を + __さしあげます__。(A cho B cái gì đó, khiêm nhường hơn, A là tôi/người trong nhóm tôi)
 
 A + は + B + に + N + を + __やります__。(A cho B cái gì đó, cho đối tượng vị thế thấp hơn, thay cho あげます)
 
-A + は + (N + を) + B + に + Vて + __あげます__。(A làm việc gì đó cho B, B không là tôi/người trong nhóm tôi)
+A + は + B + に + (N + を) + Vて + __あげます__。(A làm việc gì đó cho B, B không là tôi/người trong nhóm tôi)
 
 A + は + B + に + (N + を) + Vて + __くれます__。(A làm việc gì đó cho B, B là tôi/người trong nhóm tôi)
 
 A + は + B + に + (N + を) + Vて + __くださいます__。(A làm việc gì đó cho B, kính ngữ hơn)
 
-A は + B に + (N + を) + Vて + __さしあげます__。(A làm việc gì đó cho B, khiêm nhường hơn)
+A + は + B + に + (N + を) + Vて + __さしあげます__。(A làm việc gì đó cho B, khiêm nhường hơn)
 
 A + は + B + に + (N + を) + Vて + __やります__。(A làm việc gì đó cho B, cho đối tượng vị thế thấp hơn)
 
@@ -658,16 +658,16 @@ A + が + (Vて) + __くれましたよ__。(A tặng cho tôi/người trong nh
 ## 6.2. Nhận
 A + は + (__だれに__) + N + (__なにを__) + V_nhận + __か__。
 
-└──── A + は + B + __に__ + N + __を__ + V_nhận。(A nhận từ B cái gì đó)
+└──── A + は + B + に + N + を + V_nhận。(A nhận từ B cái gì đó)
 ```
 Nếu nhận từ một tổ chức, công ty hoặc tập thể thì thay trợ từ に bằng から.
 ```
 
-A + は + B + に + (N + を) + Vて + もらいます。(A được B làm việc gì đó) 
+A + は + B + に + (N + を) + いただきます。(A nhận được từ B cái gì, khiêm nhường hơn もらいます, A là tôi/người trong nhóm tôi)
 
-A + は + B + に + N + を + いただきます。(A nhận được từ B cái gì, khiêm nhường hơn もらいます, A là tôi/người trong nhóm tôi)
+A + は + B + に + (N + を) + Vて + もらいます。(A được B làm việc gì đó)
 
-A + は + B + に + Vて + いただきます。(A được B làm việc gì đó, khiêm nhường ngữ)
+A + は + B + に + (N + を) + Vて + いただきます。(A được B làm việc gì đó, khiêm nhường hơn)
 
 # 7. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)

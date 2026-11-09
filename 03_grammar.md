@@ -409,14 +409,13 @@
 この/その/あの + N: dùng được cho người, động vật và đồ vật.
 ```
 ## 2.1. Đếm số lượng
-N + trợ từ + số lượng + Vます。(Làm gì đó với số lượng N)
-
-N + __を__ + lượng từ + ください。(Cho tôi số lượng N)
-
 N + trợ từ + từ để hỏi + Vます + か。(Làm gì đó với bao nhiêu N)
 ```
-Từ để hỏi: いくつ (vật nói chung), なんまい (vật mỏng), なんだい (máy móc/xe), なんにん (người), ...
+Từ để hỏi: いくつ, なんまい, なんだい, なんにん, ...
 ```
+└──── N + trợ từ + số lượng + Vます。(Làm gì đó với số lượng N)
+
+N + __を__ + lượng từ + ください。(Cho tôi số lượng N)
 
 |Số|Số tầng|Vật nói chung|Cuốn/Quyển|Vật thon dài|Cốc/Ly/Chén|Động vật nhỏ|Động vật lớn|
 |-|-|-|-|-|-|-|-|
@@ -441,7 +440,7 @@ Từ để hỏi: いくつ (vật nói chung), なんまい (vật mỏng), な
 ## 2.2. Hỏi về giá tiền
 N + は + __いくら__ + ですか。(Đồ vật N có giá bao nhiêu?)
 
-=> Số tiền + __円__ + です。(Có giá ___ yên.)
+└──── Số tiền + __円__ + です。(Có giá ___ yên.)
 
 |Số|Chục (十)|Trăm (百)|Nghìn (千)|Vạn (万)|
 |-|-|-|-|-|
@@ -453,11 +452,9 @@ N + は + __いくら__ + ですか。(Đồ vật N có giá bao nhiêu?)
 
 # 3. Nói về thời gian
 ## 3.1. Giờ, phút
-今、__何時__ ですか。(Bây giờ là mấy giờ?)
-
 N + は + __今何時__ ですか。(Ở địa điểm N bây giờ là mấy giờ?)
 
-=> __ __時__　__ __分__ です。
+└──── __ __時__　__ __分__ です。
 
 |Số|Số đếm|Số tuổi|Số giờ|Số phút|Số lần|
 |-|-|-|-|-|-|
@@ -565,9 +562,6 @@ Khoảng thời gian xác định + __に__ + (N + trợ từ) + __số lần__ 
 
 # 4. Nói về địa điểm
 __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。
-
-N_chỉ địa điểm + は + __ここ/そこ/あそこ__ + __です__。
-
 ```
 ここ: chỗ này (ở gần người nói)
 そこ: chỗ đó (ở gần người nghe)
@@ -575,13 +569,14 @@ N_chỉ địa điểm + は + __ここ/そこ/あそこ__ + __です__。
 こちら/そちら/あちら là cách nói lịch sự của ここ/そこ/あそこ
 ```
 
-N_chỉ đồ vật + は + N_chỉ địa điểm + __です__。
-
 N + は + __どこ/どちら__ + __ですか__。
 ```
 - N là danh từ chỉ địa điểm, người, vật.
 - Nếu N là danh từ như お国, 会社, 学校, 大学,... thì đang hỏi về tên của nơi mình đang sinh sống, làm việc, học tập, ...
 ```
+└──── N_chỉ đồ vật + は + N_chỉ địa điểm + __です__。
+
+└──── N_chỉ địa điểm + は + __ここ/そこ/あそこ__ + __です__。 
 
 S + は + N_chỉ địa điểm + __へ__ + __いきます/きます/かえります__。
 ```
@@ -590,21 +585,21 @@ S + は + N_chỉ địa điểm + __へ__ + __いきます/きます/かえり�
 - かえります, trở về nơi quen thuộc của chủ thể.
 ```
 
-S + は + N_người/động vật + __と__ + N_chỉ phương tiện + __で__ + N_chỉ địa điểm + __へ__ + __いきます/きます/かえります__。
+S + は + (__だれと__) + (__なにで__) + (__どこへ__) + __いきます/きます/かえります__ + __か__。
+
+└──── S + は + N_người/động vật + __と__ + N_chỉ phương tiện + __で__ + N_chỉ địa điểm + __へ__ + __いきます/きます/かえります__。
 ```
 - Nếu đi một mình thì thay cụm "N_người/động vật + と" thành "一人で".
 - Trong trường hợp đi bộ thì thay cụm "N_chỉ phương tiện + で" thành "歩いて" (hoặc "あるいて").
 ```
 
-S + は + (__だれと__) + (__なにで__) + (__どこへ__) + __いきます/きます/かえります__ + __か__。 
-
 S + は + N_chỉ địa điểm + __へ__ + V(bỏ ます)/N + __に__ + __いきます/きます/かえります__。(đi đến đâu để làm V)
 
-S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ + Vます。(hành động xảy ra ở một địa điểm)
+S + は + (__どこで__) + (__なにを__) + Vます + __か__。
+
+└──── S + は + N_chỉ địa điểm + __で__ + N_chỉ đối tượng + __を__ + Vます。(hành động xảy ra ở một địa điểm)
 
 S + は + N_chỉ địa điểm + __に__ + N_chỉ đối tượng + __を__ + Vます。(hành động tác động lên vị trí)
-
-S + は + (__どこで__) + (__なにを__) + Vます + __か__。
 
 __Vị trí tương đối của đối tượng__: N1 __の__ N2
 ```
@@ -626,13 +621,13 @@ __Vị trí tương đối của đối tượng__: N1 __の__ N2
 ```
 
 # 5. Thực hiện hành động bằng công cụ/cách thức
-N_công cụ/cách thức + __で__ + Vます。
-
 __何で__ + Vます + __か__。
 
-「Từ/câu 1」+ は + ngôn ngữ + __で__ + 「Từ/câu 2」 + __です__。
+└──── N_công cụ/cách thức + __で__ + Vます。
 
 「Từ/câu 1」+ は + ngôn ngữ + __で__ + __何ですか__。
+
+└────「Từ/câu 1」+ は + ngôn ngữ + __で__ + 「Từ/câu 2」 + __です__。
 
 # 6. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)

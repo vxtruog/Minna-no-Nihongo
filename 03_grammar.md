@@ -671,7 +671,7 @@ A + は + B + に + (N + を) + Vて + もらいます。(A được B làm vi�
 
 A + は + B + に + (N + を) + Vて + いただきます。(A được B làm việc gì đó, khiêm nhường hơn)
 
-# 7. Sở thích và đánh giá
+# 7. Đánh giá tương phản
 ## 7.1. Thích/Ghét
 <table>
   <tr>

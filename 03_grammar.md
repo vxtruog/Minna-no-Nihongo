@@ -34,12 +34,12 @@
 
 ## 1.2. Thể của động từ
 <table>
-
+  
   <tr>
-    <th colspan="3">Động từ thể từ điển る (thể thông thường của ます)</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể từ điển る</b><br>
+      (thể thông thường của ます)
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột う<br>
@@ -58,10 +58,10 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể ない (thể thông thường của ません)</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể ない</b><br>
+      (thể thông thường của ません)
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột あ + ない<br>
@@ -83,10 +83,10 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể た (thể thông thường của ました)</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể た</b><br>
+      (thể thông thường của ました)
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       い, ち, り <del>ました</del> => った<br>
@@ -117,12 +117,12 @@
       <br>
     </td>
   </tr>
-
-  <tr>
-    <th colspan="3">Động từ thể なかった (thể thông thường của ませんでした)</th>
-  </tr>
   
   <tr>
+    <td>
+      <b>Động từ thể なかった</b><br>
+      (thể thông thường của ませんでした)
+    </td>
     <td colspan="3" align="center">
       Chia như động từ thể ない => <del>い</del> + かった<br>
     </td>
@@ -133,6 +133,9 @@
   </tr>
 
   <tr>
+    <td>
+      <b>Động từ thể て</b><br>
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       い, ち, り <del>ます</del> => って<br>
@@ -163,10 +166,9 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể khả năng</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể khả năng</b><br>
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột え + ます<br>
@@ -185,10 +187,10 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể ý chí (thể thông thường của ましょう)</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể ý chí</b><br>
+      (thể thông thường của ましょう)
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột お + う<br>
@@ -212,6 +214,9 @@
 
   <tr>
     <td>
+      <b>Động từ thể mệnh lệnh</b><br>
+    </td>
+    <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột え<br>
       <br>
@@ -229,20 +234,18 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể cấm chỉ</th>
-  </tr>
-  
-  <tr>
+    <td>
+      <b>Động từ thể cấm chỉ</b><br>
+    </td>
     <td colspan="3" align="center">
       Chia như động từ thể る => thêm な<br>
     </td>
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể điều kiện</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể điều kiện</b><br>
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột え + ば<br>
@@ -261,10 +264,9 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể bị động</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể bị động</b><br>
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột あ + れます<br>
@@ -283,10 +285,9 @@
   </tr>
 
   <tr>
-    <th colspan="3">Động từ thể sai khiến</th>
-  </tr>
-
-  <tr>
+    <td>
+      <b>Động từ thể sai khiến</b><br>
+    </td>
     <td>
       <b>Nhóm I:</b><br>
       cột い <del>ます</del> => cột あ + せます<br>

@@ -127,10 +127,6 @@
       Chia như động từ thể ない => <del>い</del> + かった<br>
     </td>
   </tr>
-  
-  <tr>
-    <th colspan="3">Động từ thể て</th>
-  </tr>
 
   <tr>
     <td>
@@ -207,11 +203,7 @@
       します => しよう<br>
     </td>
   </tr>
-
-  <tr>
-    <th colspan="3">Động từ thể mệnh lệnh</th>
-  </tr>
-
+  
   <tr>
     <td>
       <b>Động từ thể mệnh lệnh</b><br>

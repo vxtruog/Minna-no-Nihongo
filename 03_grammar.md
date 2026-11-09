@@ -751,8 +751,28 @@ A + は + B + に + (N + を) + Vて + いただきます。(A được B làm v
   </tr>  
 </table>
 
+# 8. Sở thích và mong muốn
+## 8.1. Sở thích
+しゅみは 何 ですか。(sở thích của bạn là gì?)
 
+私のしゅみ + は + N + です。(sở thích của tôi là N)
 
+私のしゅみ + は + Vること + です。(sở thích của tôi là V)
+
+## 8.2. Mong muốn
+N + が + __ほしいです__。
+
+N + が + __ほしくないです__。
+
+N + が + __ほしいですか__。
+
+Từ để hỏi + が + __ほしいですか__。
+
+V<del>ます</del> + たい => __Vたい__ (muốn làm V)
+
+ぜひ + Vたい。(rất muốn làm V)
+
+Từ để hỏi + __Vたい__ + ですか。
 
 # 7. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
@@ -914,21 +934,6 @@ N1 (の中) + __で__ + từ để hỏi + __が__ + __いちばん__　+ A + �
 Từ để hỏi có thể là なに, だれ, どこ, いつ,...
 ```
 
-# 15. Mong muốn thứ gì đó
-N + __が__ + __ほしいです__。
-
-N + __が__ + __ほしくないです__。
-
-N + __が__ + __ほしいですか__。
-
-Từ để hỏi + __が__ + __ほしいですか__。
-
-Vます => __Vたい__ (muốn làm V)
-
-Từ để hỏi + __Vたい__ + ですか。
-
-ぜひ + Vたい。(rất muốn làm V)
-
 # 16. Mẫu câu ứng dụng của thể て
 
 (まだ) + Vて います。 ((vẫn) đang làm V) => thể thông thường Vている。
@@ -947,10 +952,6 @@ __どやって__ Vますか。(Làm V bằng cách nào?)
 S + は + N + が + できます。(S có thể làm N) => thể thông thường ... できる。
 
 S + は + Vること + が + できます。(S có thể làm V)
-
-私のしゅみ + は + N/Vること です。(sở thích của tôi là ...)
-
-しゅみ + は + 何 + ですか。(sở thích của người nghe là gì?)
 
 V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì làm V2)
 

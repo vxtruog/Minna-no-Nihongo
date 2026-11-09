@@ -637,21 +637,21 @@ A + は + (__だれに__) + N + (__なにを__) + V_cho + __か__。
 
 └──── A + は + B + __に__ + N + __を__ + __くれます__。(A cho B cái gì đó, B là tôi/người trong nhóm tôi)
 
-A + は + B + に + N + を + __くださいます__。(A cho B cái gì đó, kính ngữ hơn くれます, A được kính trọng, B là tôi/người trong nhóm tôi)
+A + は + B + に + N + を + __くださいます__。(A cho B cái gì đó, kính ngữ hơn くれます)
 
-A は + B に + N + を + __さしあげます__。(A cho B cái gì đó, khiêm nhường hơn, B được kính trọng, A là tôi/người trong nhóm tôi)
+A は + B に + N + を + __さしあげます__。(A cho B cái gì đó, khiêm nhường hơn, A là tôi/người trong nhóm tôi)
 
-A + は + B + に + Nを + __やります__。(A cho B cái gì đó, cho đối tượng vị thế thấp hơn, thay cho あげます)
+A + は + B + に + N + を + __やります__。(A cho B cái gì đó, cho đối tượng vị thế thấp hơn, thay cho あげます)
 
 A + は + (N + を) + B + に + Vて + __あげます__。(A làm việc gì đó cho B, B không là tôi/người trong nhóm tôi)
 
 A + は + B + に + (N + を) + Vて + __くれます__。(A làm việc gì đó cho B, B là tôi/người trong nhóm tôi)
 
-A + は + B + に + Vて + __くださいます__。(A làm việc gì đó cho B, A được kính trọng)
+A + は + B + に + (N + を) + Vて + __くださいます__。(A làm việc gì đó cho B, kính ngữ hơn)
 
-A は + B に + N + を + __さしあげます__。(A làm việc gì đó cho B, khiêm nhường ngữ)
+A は + B に + (N + を) + Vて + __さしあげます__。(A làm việc gì đó cho B, khiêm nhường hơn)
 
-A + は + B + に + Vて + やります。(A làm việc gì đó cho B, cho người thấp vị thế hơn)
+A + は + B + に + (N + を) + Vて + __やります__。(A làm việc gì đó cho B, cho đối tượng vị thế thấp hơn)
 
 A + が + (Vて) + __くれましたよ__。(A tặng cho tôi/người trong nhóm tôi đấy)
 

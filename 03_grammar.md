@@ -542,6 +542,8 @@ S + は + __何時から 何時まで__ + Vます + __か__。
 
 Mốc thời gian ước lượng + __ごろ__ (Khoảng vào lúc ...)
 
+Mốc thời gian + __までに__ (Trước mốc thời gian nào đó ...)
+
 Khoảng thời gian + __間__ (かん) (Trong suốt khoảng thời gian ...)
 
 N + の + __間__ (あいだ) (Trong suốt khoảng thời gian N ...)
@@ -554,11 +556,11 @@ N1 + trợ từ + lượng từ + __と__ + N2 + trợ từ + lượng từ + V�
 
 Khoảng thời gian/N + __だけ__ + Vます。(Chỉ V trong vòng/chỉ V mỗi ...)
 
-Khoảng thời gian xác định + __に__ + (N + trợ từ) + __số lần__ + Vます。(làm gì bao nhiêu lần trong khoảng thời gian)
+Khoảng thời gian xác định + __に__ + (N + trợ từ) + __số lần__ + Vます。(Làm gì bao nhiêu lần trong khoảng thời gian)
 
-└──── __なんかいも__ +　Vます。(làm V rất nhiều lần)
+└──── __なんかいも__ +　Vます。(Làm V rất nhiều lần)
 
-└──── __いっかいも__ + Vません。(một lần cũng không)
+└──── __いっかいも__ + Vません。(Một lần cũng không)
 
 # 4. Nói về địa điểm, vị trí
 __ここ/そこ/あそこ__ + は + N_chỉ địa điểm + __です__。
@@ -875,8 +877,6 @@ Vて いました。(thói quen trong quá khứ)
 N + が + Vて います。(N đang trong tình trạng V, V không có chủ ý)
 
 __どやって__ Vますか。(Làm V bằng cách nào?)
-
-Mốc thời gian + までに (hạn chót là mốc thời gian nào đó)
 
 # 18. Mẫu câu ứng dụng của thể る
 S + は + N + が + できます。(S có thể làm N) => thể thông thường ... できる。

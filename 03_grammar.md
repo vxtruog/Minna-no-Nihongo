@@ -896,8 +896,8 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
   <tr>
     <td>
       V thể thông thường + __から__、「Mệnh đề」。<br>
-      Aい + __から__、「Mệnh đề」。<br>
-      Aな/N + __だから__、「Mệnh đề」。<br>
+      Aい thể thông thường + __から__、「Mệnh đề」。<br>
+      Aな/N thể thông thường + __だから__、「Mệnh đề」。<br>
     </td>
     <td>
       Mang tính chủ quan<br>

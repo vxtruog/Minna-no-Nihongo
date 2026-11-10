@@ -908,8 +908,8 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
   <tr>
     <td>
       V thể thông thường + __ので__、「Mệnh đề」。<br>
-      Aい + __ので__、「Mệnh đề」。<br>
-      Aな/N + __ので__、「Mệnh đề」。<br>
+      Aい thể thông thường + __ので__、「Mệnh đề」。<br>
+      Aな/N thể thông thường (だ->な) + __ので__、「Mệnh đề」。<br>
     </td>
     <td>
       Mang sắc thái khách quan<br>
@@ -921,8 +921,9 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
   <tr>
     <td>
       Vて、「Kết quả」。<br>
-      Aい + __くて__、「Kết quả」。<br>
-      Aな/N + __で__、「Kết quả」。<br>
+      A<del>い</del> + __くて__、「Kết quả」。<br>
+      A<del>な</del> + __で__、「Kết quả」。<br>
+      N + __で__、「Kết quả」。<br>
     </td>
     <td>
       Diễn tả trạng thái hoặc sự việc<br>

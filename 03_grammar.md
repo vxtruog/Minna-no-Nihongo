@@ -895,9 +895,9 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
 <table>
   <tr>
     <td>
-      V thể thông thường + __から__、「Mệnh đề」。<br>
-      Aい thể thông thường + __から__、「Mệnh đề」。<br>
-      Aな/N thể thông thường + __だから__、「Mệnh đề」。<br>
+      V thể thông thường + から、「Mệnh đề」。<br>
+      Aい thể thông thường + から、「Mệnh đề」。<br>
+      Aな/N thể thông thường + だから、「Mệnh đề」。<br>
     </td>
     <td>
       Mang tính chủ quan<br>
@@ -907,9 +907,9 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
   
   <tr>
     <td>
-      V thể thông thường + __ので__、「Mệnh đề」。<br>
-      Aい thể thông thường + __ので__、「Mệnh đề」。<br>
-      Aな/N thể thông thường (だ->な) + __ので__、「Mệnh đề」。<br>
+      V thể thông thường + ので、「Mệnh đề」。<br>
+      Aい thể thông thường + ので、「Mệnh đề」。<br>
+      Aな/N thể thông thường (だ->な) + ので、「Mệnh đề」。<br>
     </td>
     <td>
       Mang sắc thái khách quan<br>
@@ -921,13 +921,12 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
   <tr>
     <td>
       Vて、「Kết quả」。<br>
-      A<del>い</del> + __くて__、「Kết quả」。<br>
-      A<del>な</del> + __で__、「Kết quả」。<br>
-      N + __で__、「Kết quả」。<br>
+      A<del>い</del> + くて、「Kết quả」。<br>
+      A<del>な</del> + で、「Kết quả」。<br>
+      N + で、「Kết quả」。<br>
     </td>
     <td>
-      Diễn tả trạng thái hoặc sự việc<br>
-      dẫn đến một kết quả tự nhiên<br>
+      Diễn tả trạng thái hoặc sự việc dẫn đến một kết quả tự nhiên<br>
       Không sử dụng nếu mệnh đề sau biểu thị chủ ý<br>
     </td>
   </tr>

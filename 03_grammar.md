@@ -888,7 +888,49 @@ V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn th
 V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
 
 # 12. Câu phức theo các mối quan hệ ý nghĩa
-## 12.1. Nguyên nhân – kết quả
+## 12.1. Nguyên nhân – kết quả (Vì ... nên ...)
+```
+- Dùng để trả lời cho câu: どうして ...　。(tại sao?, vì sao?)
+```
+<table>
+  <tr>
+    <td>
+      V thể thông thường + __から__、「Mệnh đề」。<br>
+      Aい + __から__、「Mệnh đề」。<br>
+      Aな/N + __だから__、「Mệnh đề」。<br>
+    </td>
+    <td>
+      Mang tính chủ quan<br>
+      Nêu lý do để giải thích hoặc biện minh<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      V thể thông thường + __ので__、「Mệnh đề」。<br>
+      Aい + __ので__、「Mệnh đề」。<br>
+      Aな/N + __なから__、「Mệnh đề」。<br>
+    </td>
+    <td>
+      Mang sắc thái khách quan<br>
+      Nhẹ nhàng, lịch sự hơn から<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Vて、「Kết quả」。<br>
+      Aい + __くて__、「Kết quả」。<br>
+      Aな/N + __で__、「Kết quả」。<br>
+    </td>
+    <td>
+      Diễn tả trạng thái hoặc sự việc<br>
+      dẫn đến kết quả tự nhiên<br>
+    </td>
+  </tr>
+  
+</table>
+
 ## 12.2. Điều kiện
 ## 12.3. Nhượng bộ
 ## 12.4. Tương phản
@@ -1367,12 +1409,7 @@ V_sai khiến て + いただけませんか。(Làm ơn cho phép tôi được
 - Ý nghĩa: Câu 1 và câu 2.
 - Dùng để nối hai câu có ý tương đương nhau.
 ```
-(Liên từ __から__): 「Câu 1」__から__、「Câu 2」。
-```
-- Ý nghĩa: Vì câu 1 nên câu 2.
-- Dùng cho mệnh đề nguyên nhân - kết quả.
-- Dùng để trả lời cho câu: どうして ...　。(tại sao?, vì sao?)
-```
+
 (Liên từ __それで__):
 ```
 - Ý nghĩa: Do đó, nên ...

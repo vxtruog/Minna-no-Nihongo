@@ -933,7 +933,29 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
   
 </table>
 
-## 12.2. Điều kiện
+## 12.2. Điều kiện (Nếu ... thì ...)
+Vる + __と__、vế 2. (Hễ mà V thì xảy ra vế 2 một cách chắc chắn)
+
+もし MD1 (QKTTT) + ら、MD2。(Nếu MD1 thì MD2)
+
+Vた + ら、MD2。(Sau khi V thì MD2, thời điểm/điều kiện/kết quả bất ngờ)
+
+もし MD1 + ら、どう しますか。(Nếu MD1 thì bạn sẽ làm gì)
+
+Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)
+
+Thể điều kiện, vế 2.
+
+- Dùng để diễn tả điều kiện cần thiết để sự việc nào đó xảy ra.
+
+- Nếu vế đầu và vế sau của câu văn có chung chủ ngữ thì không thể dùng động từ biểu thị chủ ý.
+
+Thể điều kiện + いいですか。(Tôi nên làm gì thì tốt)
+
+N + なら (Nếu mà N thì ...)
+
+Thể điều kiện、～ほど (càng ... càng ...)
+
 ## 12.3. Nhượng bộ
 ## 12.4. Tương phản
 ## 12.5. Mục đích
@@ -1073,17 +1095,6 @@ Vる + __とき__、vế 2. (V xảy ra sau vế 2)
 
 Vた + __とき__、vế 2. (V xảy ra trước vế 2)
 
-Vる + __と__、vế 2. (Hễ mà V thì xảy ra vế 2 một cách chắc chắn)
-
-# 25. Nếu/Cho dù ... thì ...
-もし MD1 (QKTTT) + ら、MD2。(Nếu MD1 thì MD2)
-
-Vた + ら、MD2。(Sau khi V thì MD2, thời điểm/điều kiện/kết quả bất ngờ)
-
-もし MD1 + ら、どう しますか。(Nếu MD1 thì bạn sẽ làm gì)
-
-Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)
-
 # 26. ～んです
 TTT + んですか。(Xác nhận thông tin, yêu cầu cung cấp thêm thông tin, giải thích lý do, giải thích tình trạng)
 
@@ -1190,19 +1201,6 @@ Thể cấm chỉ: Vる + な. dùng để ra lệnh cho ai đó không được
 "Câu"/TTT + と伝いて いただけませんか。(Có thể truyền đạt, nhắn lại giúp tôi được không)
 
 "Câu"/TTT + と伝いて いました。(Ai đó đã nói là ...)
-
-# 35. Thể điều kiện
-Thể điều kiện, vế 2.
-
-- Dùng để diễn tả điều kiện cần thiết để sự việc nào đó xảy ra.
-
-- Nếu vế đầu và vế sau của câu văn có chung chủ ngữ thì không thể dùng động từ biểu thị chủ ý.
-
-Thể điều kiện + いいですか。(Tôi nên làm gì thì tốt)
-
-N + なら (Nếu mà N thì ...)
-
-Thể điều kiện、～ほど (càng ... càng ...)
 
 # 36. 
 Vる/Vない + __ように__ + ... (Làm V vì mục đích ..., thể hiện mong muốn)

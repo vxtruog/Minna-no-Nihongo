@@ -909,11 +909,12 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
     <td>
       V thể thông thường + __ので__、「Mệnh đề」。<br>
       Aい + __ので__、「Mệnh đề」。<br>
-      Aな/N + __なから__、「Mệnh đề」。<br>
+      Aな/N + __ので__、「Mệnh đề」。<br>
     </td>
     <td>
       Mang sắc thái khách quan<br>
       Nhẹ nhàng, lịch sự hơn から<br>
+      Thường được dùng để đưa ra lý do xin phép<br>
     </td>
   </tr>
 
@@ -925,7 +926,8 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
     </td>
     <td>
       Diễn tả trạng thái hoặc sự việc<br>
-      dẫn đến kết quả tự nhiên<br>
+      dẫn đến một kết quả tự nhiên<br>
+      Không sử dụng nếu mệnh đề sau biểu thị chủ ý<br>
     </td>
   </tr>
   
@@ -1240,23 +1242,6 @@ Vる + __のを__ + 知っていました。(... có biết không)
 
 Thể thông thường + __のは__ + Nです。(cái việc/nơi nào đó thì là N)
 
-# 39.
-Vて/ Vなくて/ Aくて/ Aで + ... (vì ... nên ...)
-```
-Vế sau biểu thị cảm giác tâm trạng
-Vế sau là động từ thể khả năng, trạng thái
-Vế sau diễn tả tình huống trong quá khứ
-Vế 1 phải xảy ra trước vế 2
-```
-N + __で__ (Vì ... nên ...)
-```
-Chỉ nguyên nhân do các danh từ chỉ hiện tượng tự nhiên hay các biến cố.
-Không sử dụng mẫu này nếu mệnh đề sau biểu thị chủ ý.
-```
-TTT + __ので__ (Vì ... nên ...)
-```
-Biểu thị một cách khách quan về liên hệ giữa nguyên nhân và kết quả, thường được dùng để đưa ra lý do xin phép
-```
 Nの/Vる + 途中で (Trong lúc, khi đang làm V/ diễn ra N thì ...)
 
 # 40. 

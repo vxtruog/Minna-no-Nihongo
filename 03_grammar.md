@@ -962,31 +962,44 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
 
   <tr>
     <td>
-      Vて、「Kết quả」。<br>
-      A<del>い</del> + くて、「Kết quả」。<br>
-      A<del>な</del> + で、「Kết quả」。<br>
-      N + で、「Kết quả」。<br>
+      Thể điều kiện、「Mệnh đề」。<br>
     </td>
     <td>
-      Diễn tả trạng thái hoặc sự việc dẫn đến một kết quả tự nhiên<br>
-      Không sử dụng nếu mệnh đề sau biểu thị chủ ý<br>
+      Dùng để diễn tả điều kiện cần thiết để sự việc nào đó xảy ra<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Từ nghi vấn + V thể điều kiện + いいですか。<br>
+    </td>
+    <td>
+      Nếu làm thì làm thế nào thì tốt?<br>
+      Hỏi lời khuyên<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Thể thông thường + なら、「Mệnh đề」。<br>
+    </td>
+    <td>
+      Dựa vào thông tin để đưa ra lời khuyên<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      V thể điều kiện + V thể từ điển ほど 「Mệnh đề」。<br>
+      Aい thể điều kiện +  Aい ほど 「Mệnh đề」。<br>
+      Aな thể điều kiện + Aな ほど 「Mệnh đề」。<br>
+    </td>
+    <td>
+      Càng ... càng ...<br>
     </td>
   </tr>
   
 </table>
-
-
-Thể điều kiện, vế 2.
-
-- Dùng để diễn tả điều kiện cần thiết để sự việc nào đó xảy ra.
-
-- Nếu vế đầu và vế sau của câu văn có chung chủ ngữ thì không thể dùng động từ biểu thị chủ ý.
-
-Thể điều kiện + いいですか。(Tôi nên làm gì thì tốt)
-
-N + なら (Nếu mà N thì ...)
-
-Thể điều kiện、～ほど (càng ... càng ...)
 
 ## 12.3. Nhượng bộ
 Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)

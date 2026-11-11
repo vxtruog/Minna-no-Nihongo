@@ -934,15 +934,47 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
 </table>
 
 ## 12.2. Điều kiện (Nếu ... thì ...)
-Vる + __と__、vế 2. (Hễ mà V thì xảy ra vế 2 một cách chắc chắn)
+<table>
+  <tr>
+    <td>
+      V thể thông thường không quá khứ + と、「Mệnh đề」。<br>
+      Aい thể thông thường không quá khứ + と、「Mệnh đề」。<br>
+      Aな/N thể thông thường không quá khứ + と、「Mệnh đề」。<br>
+    </td>
+    <td>
+      Vế trước xảy ra thì vế sau cũng xảy ra theo quy luật tự nhiên<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      V thể thông thường quá khứ + ら、「Mệnh đề」。<br>
+      Aい thể thông thường quá khứ + ら、「Mệnh đề」。<br>
+      Aな/N thể thông thường quá khứ + ら、「Mệnh đề」。<br>
+      もし + thể thông thường quá khứ + ら、「Câu hỏi giả định」。<br>
+    </td>
+    <td>
+      Điều kiện giả định<br>
+      Có thể dùng thêm もし ở đầu câu để nhấn mạnh giả định<br>
+      Vた + ら、「Mệnh đề」còn nói về trình tự thời gian/phát hiện bất ngờ<br>
+    </td>
+  </tr>
 
-もし MD1 (QKTTT) + ら、MD2。(Nếu MD1 thì MD2)
+  <tr>
+    <td>
+      Vて、「Kết quả」。<br>
+      A<del>い</del> + くて、「Kết quả」。<br>
+      A<del>な</del> + で、「Kết quả」。<br>
+      N + で、「Kết quả」。<br>
+    </td>
+    <td>
+      Diễn tả trạng thái hoặc sự việc dẫn đến một kết quả tự nhiên<br>
+      Không sử dụng nếu mệnh đề sau biểu thị chủ ý<br>
+    </td>
+  </tr>
+  
+</table>
 
-Vた + ら、MD2。(Sau khi V thì MD2, thời điểm/điều kiện/kết quả bất ngờ)
-
-もし MD1 + ら、どう しますか。(Nếu MD1 thì bạn sẽ làm gì)
-
-Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)
 
 Thể điều kiện, vế 2.
 
@@ -957,6 +989,7 @@ N + なら (Nếu mà N thì ...)
 Thể điều kiện、～ほど (càng ... càng ...)
 
 ## 12.3. Nhượng bộ
+Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)
 ## 12.4. Tương phản
 ## 12.5. Mục đích
 ## 12.6. Thời gian

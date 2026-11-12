@@ -1002,7 +1002,36 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
 </table>
 
 ## 12.3. Nhượng bộ
-Vて/Vなくて/Aくて/Aで/Nで + も、MD2。(Cho dù ... thì MD2)
+<table>
+  <tr>
+    <td>
+      (たとえ) + Vて + も、「Mệnh đề」。<br>
+      (たとえ) + Vなくて + も、「Mệnh đề」。<br>
+      (たとえ) + A(<del>い</del> + くて + も、「Mệnh đề」。<br>
+      (たとえ) + Aな + で + も、「Mệnh đề」。<br>
+      (たとえ) + N + で + も、「Mệnh đề」。<br>
+    </td>
+    <td>
+      Cho dù ... thì ...<br>
+      Kết quả vế sau không đổi dù vế trước xảy ra<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      V thể thông thường + のに、「Mệnh đề」。<br>
+      Aい thể thông thường + のに、「Mệnh đề」。<br>
+      Aな thể thông thường (だ->な) + のに、「Mệnh đề」。<br>
+      N thể thông thường (だ->な) + のに、「Mệnh đề」。<br>
+    </td>
+    <td>
+      Mặc dù ... nhưng ...<br>
+      Kết quả trái với mong đợi, cảm giác tiếc nuối<br>
+    </td>
+  </tr>
+  
+</table>
+
 ## 12.4. Tương phản
 ## 12.5. Mục đích
 ## 12.6. Thời gian
@@ -1348,8 +1377,6 @@ Nに + します。(Chọn, quyết định)
 
 # 45.
 Vる/Vた/Vない/Aい/Aな/Nの + 場合は (Trong trường hợp/giả định, ...)
-
-Thể thông thường + のに (Thế mà..., những việc tưởng như xảy ra nhưng không xảy ra)
 
 # 46.
 Vる + ところです。(Sắp sửa, chuẩn bị, ...)

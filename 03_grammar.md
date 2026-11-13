@@ -1035,7 +1035,26 @@ V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 l
 ## 12.4. Tương phản
 
 ## 12.5. Mục đích
+Vる/Vない + __ように__ + ... (Làm V vì mục đích ..., thể hiện mong muốn)
+```
+Động từ đứng trước ように là những động từ không bao hàm chủ ý.
+```
+Vる/Nの + ために (Để, cho, vì ..., thể hiện mục đích của hành vi sẽ thực hiện)
+```
+đi với động từ ý chí, có chủ ý
+```
+Vるの/N + に (Để, cho, vì ..., sử dụng vào việc gì/có lợi cho cái gì)
+```
+Nします -> Nに
+```
 ## 12.6. Thời gian
+Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2. (Khi ... thì vế 2)
+
+... どうしますか。(... thì làm như thế nào)
+
+Vる + __とき__、vế 2. (V xảy ra sau vế 2)
+
+Vた + __とき__、vế 2. (V xảy ra trước vế 2)
 ## 12.7. Trình tự
 ## 12.8. Đồng thời
 ## 12.9. Liệt kê - bổ sung
@@ -1162,15 +1181,6 @@ Chủ ngữ trong mệnh đề bổ nghĩa sẽ đi với trợ từ が thay v�
 
 Vる + じかん/やくそく/ようじ (Thời gian/Cuộc hẹn/Việc bận làm gì đó)
 
-# 24. Khi/Hễ mà ... thì ...
-Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2. (Khi ... thì vế 2)
-
-... どうしますか。(... thì làm như thế nào)
-
-Vる + __とき__、vế 2. (V xảy ra sau vế 2)
-
-Vた + __とき__、vế 2. (V xảy ra trước vế 2)
-
 # 26. ～んです
 TTT + んですか。(Xác nhận thông tin, yêu cầu cung cấp thêm thông tin, giải thích lý do, giải thích tình trạng)
 
@@ -1279,10 +1289,6 @@ Thể cấm chỉ: Vる + な. dùng để ra lệnh cho ai đó không được
 "Câu"/TTT + と伝いて いました。(Ai đó đã nói là ...)
 
 # 36. 
-Vる/Vない + __ように__ + ... (Làm V vì mục đích ..., thể hiện mong muốn)
-```
-Động từ đứng trước ように là những động từ không bao hàm chủ ý.
-```
 
 ～ように　なります。(Trở nên, trở thành, thường dùng với thể khả năng)
 
@@ -1331,15 +1337,6 @@ Vて みます。(Thử làm gì đó)
 Tính từ đuôi い (bỏ い）+ さ (danh từ chỉ mức độ)
 
 # 42. 
-Vる/Nの + ために (Để, cho, vì ..., thể hiện mục đích của hành vi sẽ thực hiện)
-```
-đi với động từ ý chí, có chủ ý
-```
-
-Vるの/N + に (Để, cho, vì ..., sử dụng vào việc gì/có lợi cho cái gì)
-```
-Nします -> Nに
-```
 
 Lượng từ は thêm vào sau lượng từ biểu thị mức độ tối thiểu mà người nói ước lượng
 

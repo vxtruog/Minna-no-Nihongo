@@ -874,6 +874,8 @@ N + __で__ => N1 __で__, N2 __で__, ..., Nn。
 ```
 V1 __て__, V2 __て__, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
 
+??? Nối câu thể て nhưng phủ định thì sao
+
 V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
 
 V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)

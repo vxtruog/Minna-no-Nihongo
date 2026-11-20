@@ -1171,6 +1171,10 @@ N + に + なります。
 
 => thể thông thường ... なる。
 
+(Thể khả năng), Vる + ように　なります。(Trở nên có thể ..., biến đổi trạng thái từ không thành có)
+
+(Thể khả năng), Vなく + なります。(Trở nên không thể ..., biến đổi trạng thái từ có thành không)
+
 # 21. Nghĩ rằng, phỏng đoán
 N + に + ついて + どう  おもいますか。(Bạn nghĩ như thế nào về vấn đề N?)
 
@@ -1316,11 +1320,6 @@ Thể cấm chỉ: Vる + な. dùng để ra lệnh cho ai đó không được
 "Câu"/TTT + と伝いて いました。(Ai đó đã nói là ...)
 
 # 36. 
-
-～ように　なります。(Trở nên, trở thành, thường dùng với thể khả năng)
-
-Vなく + なります。(Trở nên không thể, thường dùng với thể khả năng)
-
 Vる/Vない + ようにします。(cố gắng, nỗ lực làm gì đó theo chiều hướng tốt lên)
 
 Vる/Vない + ようにしてください。(hãy cố gắng làm/không làm gì đó, yêu cầu ai đó thực hiện việc gì đó, nhưng không cần phải ở thời điểm nói)

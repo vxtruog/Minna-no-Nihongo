@@ -927,6 +927,7 @@ TTT + __し__, TTT + __し__, ...
   <tr>
     <td>
       Vて、「Kết quả」。<br>
+      V<del>ない</del> + なくて、「Kết quả」。<br>
       A<del>い</del> + くて、「Kết quả」。<br>
       A<del>な</del> + で、「Kết quả」。<br>
       N + で、「Kết quả」。<br>

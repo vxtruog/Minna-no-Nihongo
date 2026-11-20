@@ -990,7 +990,7 @@ TTT + __し__, TTT + __し__, ...
 
   <tr>
     <td>
-      Thể thông thường + なら、「Mệnh đề」。<br>
+      Thể thông thường (<del>だ</del>) + なら、「Mệnh đề」。<br>
     </td>
     <td>
       Dựa vào thông tin để đưa ra lời khuyên<br>

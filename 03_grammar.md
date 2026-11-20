@@ -878,9 +878,7 @@ V1 __て__, V2 __て__, ..., Vます。(nối nhiều hành động xảy ra the
 
 V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
 
-V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
 
-V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
 
 TTT + __し__, TTT + __し__, ... 
 ```
@@ -1082,6 +1080,13 @@ Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2. (Khi ... thì v�
 Vる + __とき__、vế 2. (V xảy ra sau vế 2)
 
 Vた + __とき__、vế 2. (V xảy ra trước vế 2)
+
+V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì làm V2)
+
+V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
+
+V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
+
 ## 12.7. Trình tự
 ## 12.8. Đồng thời
 ## 12.9. Liệt kê - bổ sung
@@ -1148,8 +1153,6 @@ Vて　おきます。(Chuẩn bị V trước)
 S + は + N + が + できます。(S có thể làm N) => thể thông thường ... できる。
 
 S + は + Vること + が + できます。(S có thể làm V)
-
-V1る/Nの/N_khoảng thời  + まえに + V2. (trước khi làm V1/N thì làm V2)
 
 なかなか + Vません。(mãi mà không làm được V)
 

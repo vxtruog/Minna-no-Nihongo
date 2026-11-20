@@ -838,7 +838,8 @@ __もう__ + Vましたか。(đã làm V chưa)
 ＝> いいえ、まだです。(không, vẫn chưa)
 ```
 
-# 11. Liệt kê và nối
+# 11. Liệt kê và nối câu
+## 11.1. Liệt kê
 N1 __と__ N2
 ```
 - Ý nghĩa: N1 và N2 (liệt kê đầy đủ).
@@ -854,6 +855,8 @@ N1 __とか__、N2 __とか__
 - Ý nghĩa: như là ... như là ... (liệt kê ví dụ tiêu biểu)
 - Thường mang sắc thái hội thoại.
 ```
+
+## 11.2. Nối câu
 A(<del>い</del>) + __くて__ => A1 __くて__, A2 __くて__, ..., An。
 ```
 - Ý nghĩa: A1, A2, ... và An

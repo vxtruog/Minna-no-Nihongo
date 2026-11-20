@@ -946,9 +946,7 @@ TTT + __し__, TTT + __し__, ...
 <table>
   <tr>
     <td>
-      V thể thông thường không quá khứ + と、「Mệnh đề」。<br>
-      Aい thể thông thường không quá khứ + と、「Mệnh đề」。<br>
-      Aな/N thể thông thường không quá khứ + と、「Mệnh đề」。<br>
+      Thể thông thường không quá khứ + と、「Mệnh đề」。<br>
     </td>
     <td>
       Vế trước xảy ra thì vế sau cũng xảy ra theo quy luật tự nhiên<br>
@@ -957,9 +955,7 @@ TTT + __し__, TTT + __し__, ...
   
   <tr>
     <td>
-      V thể thông thường quá khứ + ら、「Mệnh đề」。<br>
-      Aい thể thông thường quá khứ + ら、「Mệnh đề」。<br>
-      Aな/N thể thông thường quá khứ + ら、「Mệnh đề」。<br>
+      Thể thông thường quá khứ + ら、「Mệnh đề」。<br>
       もし + thể thông thường quá khứ + ら、「Câu hỏi giả định」。<br>
     </td>
     <td>

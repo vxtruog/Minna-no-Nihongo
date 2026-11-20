@@ -1037,21 +1037,43 @@ TTT + __し__, TTT + __し__, ...
   
 </table>
 
-## 12.4. Tương phản
+## 12.4. Mục đích
+<table>
+  <tr>
+    <td>
+      Vる + ために ...<br>
+      Nの + ために ...<br>
+    </td>
+    <td>
+      Để, cho, vì ..., thể hiện mục đích của hành vi sẽ thực hiện<br>
+      Đi với động từ ý chí, có chủ ý<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Vる + ように + ...<br>
+      Vない + ように + ...<br>
+    </td>
+    <td>
+      Làm V vì mục đích ...<br>
+      Thể hiện mong muốn<br>
+      Đi với động từ không bao hàm chủ ý<br>
+    </td>
+  </tr>
 
-## 12.5. Mục đích
-Vる/Vない + __ように__ + ... (Làm V vì mục đích ..., thể hiện mong muốn)
-```
-Động từ đứng trước ように là những động từ không bao hàm chủ ý.
-```
-Vる/Nの + ために (Để, cho, vì ..., thể hiện mục đích của hành vi sẽ thực hiện)
-```
-đi với động từ ý chí, có chủ ý
-```
-Vるの/N + に (Để, cho, vì ..., sử dụng vào việc gì/có lợi cho cái gì)
-```
-Nします -> Nに
-```
+  <tr>
+    <td>
+      Vるの/N + に + ...<br>
+      Nします -> Nに + ...<br>
+    </td>
+    <td>
+      Để, cho, vì ..., sử dụng vào việc gì/có lợi cho cái gì<br>
+    </td>
+  </tr>
+  
+</table>
+
 ## 12.6. Thời gian
 Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2. (Khi ... thì vế 2)
 

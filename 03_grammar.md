@@ -856,7 +856,7 @@ N1 __とか__、N2 __とか__
 - Thường mang sắc thái hội thoại.
 ```
 
-## 11.2. Nối câu
+## 11.2. Nối câu bằng thể て
 A(<del>い</del>) + __くて__ => A1 __くて__, A2 __くて__, ..., An。
 ```
 - Ý nghĩa: A1, A2, ... và An
@@ -872,6 +872,14 @@ N + __で__ => N1 __で__, N2 __で__, ..., Nn。
 - Ý nghĩa: N1, N2, ... và Nn
 - Nối các vị ngữ danh từ hoặc các mệnh đề có vị ngữ là danh từ
 ```
+V1 __て__, V2 __て__, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
+
+V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
+
+V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
+
+V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
+
 TTT + __し__, TTT + __し__, ... 
 ```
 - Ý nghĩa 1: Vì có A, có B, ... nên ...
@@ -883,13 +891,7 @@ TTT + __し__, TTT + __し__, ...
   + Liệt kê các mệnh đề cùng quan điểm, có sắc thái bổ sung lẫn nhau.
   + Để nhấn mạnh có thể thêm それに (hơn nữa) vào trước quan điểm cuối.
 ```
-V1 __て__, V2 __て__, ..., Vます。(nối nhiều hành động xảy ra theo trình tự thời gian)
 
-V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
-
-V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn thành xong thì mới đến làm V2)
-
-V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
 
 # 12. Câu phức theo các mối quan hệ ý nghĩa
 ## 12.1. Nguyên nhân – kết quả (Vì ... nên ...)

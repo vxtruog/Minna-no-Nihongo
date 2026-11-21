@@ -1123,10 +1123,6 @@ S + は + __どんな__ + N + __ですか/でしたか__。
 
 S + は + N + が + A + です。(miêu tả bộ phận N của đối tượng S)
 
-Tính từ い (bỏ い) + く + động từ
-
-Tính từ な (bỏ な) + に + động từ
-
 # 16. Mẫu câu ứng dụng của thể て
 
 (まだ) + Vて います。 ((vẫn) đang làm V) => thể thông thường Vている。

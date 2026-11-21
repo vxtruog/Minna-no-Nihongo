@@ -1204,7 +1204,13 @@ N_tình huống + で + V。(Diễn ra việc gì đó trong tình huống N)
 
 N + でも + V。(Làm gì đó như N chẳng hạn)
 
-# 23. Mệnh đề bổ nghĩa, bổ sung ý nghĩa cho danh từ
+# 23. Bổ nghĩa
+## 23.1. Bổ nghĩa cho động từ
+Aい => Aく + V
+
+Aな => Aに + V
+
+## 23.2. Bổ nghĩa cho danh từ
 Mệnh đề bổ nghĩa thể thông thường + N
 
 ```

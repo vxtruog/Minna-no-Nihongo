@@ -855,8 +855,9 @@ N1 __とか__、N2 __とか__
 - Ý nghĩa: như là ... như là ... (liệt kê ví dụ tiêu biểu)
 - Thường mang sắc thái hội thoại.
 ```
+V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
 
-## 11.2. Nối câu bằng thể て
+## 11.2. Nối câu
 A(<del>い</del>) + __くて__ => A1 __くて__, A2 __くて__, ..., An。
 ```
 - Ý nghĩa: A1, A2, ... và An
@@ -876,9 +877,7 @@ V1 __て__, V2 __て__, ..., Vます。(nối nhiều hành động xảy ra the
 
 ??? Nối câu thể て nhưng phủ định thì sao
 
-V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
-
-
+V1(ない) + で, V2 (Không làm V1 mà làm V2)
 
 TTT + __し__, TTT + __し__, ... 
 ```
@@ -891,7 +890,6 @@ TTT + __し__, TTT + __し__, ...
   + Liệt kê các mệnh đề cùng quan điểm, có sắc thái bổ sung lẫn nhau.
   + Để nhấn mạnh có thể thêm それに (hơn nữa) vào trước quan điểm cuối.
 ```
-
 
 # 12. Câu phức theo các mối quan hệ ý nghĩa
 ## 12.1. Nguyên nhân – kết quả (Vì ... nên ...)

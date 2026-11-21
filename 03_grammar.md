@@ -1175,7 +1175,7 @@ có chủ ý
 
 (Thể khả năng), Vる + ように　なります。(Trở nên có thể ..., biến đổi trạng thái từ không thành có)
 
-(Thể khả năng), Vなく + なります。(Trở nên không thể ..., biến đổi trạng thái từ có thành không)
+(Thể khả năng), Vなく + ように なります。(Trở nên không thể ..., biến đổi trạng thái từ có thành không)
 
 # 21. Nghĩ rằng, phỏng đoán
 N + に + ついて + どう  おもいますか。(Bạn nghĩ như thế nào về vấn đề N?)

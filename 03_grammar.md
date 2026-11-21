@@ -1168,6 +1168,11 @@ N + に + なります。
 
 => thể thông thường ... なる。
 
+Nを + Aい (bỏ い) thêm く/ Aな (bỏ な) thêm に/ Nに + します。(Làm cho trở thành ...)
+```
+có chủ ý
+```
+
 (Thể khả năng), Vる + ように　なります。(Trở nên có thể ..., biến đổi trạng thái từ không thành có)
 
 (Thể khả năng), Vなく + なります。(Trở nên không thể ..., biến đổi trạng thái từ có thành không)
@@ -1393,11 +1398,6 @@ Vます (bỏ ます)/ Aい (bỏ い)/ Aな (bỏ な) + すぎます。(Quá .
 Dùng để diễn đạt ý vượt quá một mức độ nào đó của động tác, trạng thái
 Dùng trong những trường hợp mang ý xấu, nằm ngoài mong đợi của người nói
 すぎます chia theo động từ nhóm II
-```
-
-Nを + Aい (bỏ い) thêm く/ Aな (bỏ な) thêm に/ Nに + します。(Làm cho trở thành ...)
-```
-có chủ ý
 ```
 
 Nに + します。(Chọn, quyết định)

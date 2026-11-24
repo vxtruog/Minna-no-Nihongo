@@ -840,22 +840,52 @@ __もう__ + Vましたか。(đã làm V chưa)
 
 # 11. Liệt kê và nối câu
 ## 11.1. Liệt kê
-N1 __と__ N2
-```
-- Ý nghĩa: N1 và N2 (liệt kê đầy đủ).
-- Dùng để nối các danh từ với nhau, có bao nhiêu danh từ ta thêm bấy nhiêu trợ từ と để nối.
-```
-N1 __や__ N2
-```
-- Ý nghĩa: N1 và N2 (liệt kê không đầy đủ).
-- Liệt kê một số đối tượng tiêu biểu và sau danh từ được nêu cuối cùng còn rất nhiều danh từ khác nữa.
-```
-N1 __とか__、N2 __とか__
-```
-- Ý nghĩa: như là ... như là ... (liệt kê ví dụ tiêu biểu)
-- Thường mang sắc thái hội thoại.
-```
-V1 __たり__, V2 __たり__, ..., Vnたりします。(liệt kê vài hành động tiêu biểu, không cần theo trình tự thời gian)
+<table>
+  <tr>
+    <td>
+      N1 と N2<br>
+      <br>
+    </td>
+    <td>
+      N1 và N2 (liệt kê đầy đủ)<br>
+      Dùng để nối các danh từ với nhau<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      N1 や N2<br>
+      <br>
+    </td>
+    <td>
+      N1 và N2 (liệt kê không đầy đủ)<br>
+      Liệt kê một số đối tượng tiêu biểu<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      N1 とか、N2 とか<br>
+      <br>
+    </td>
+    <td>
+      Như là N1 như là N2, ...<br>
+      Liệt kê một số ví dụ tiêu biểu, sắc thái hội thoại<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      V1 たり, V2 たり, ..., Vnたりします。<br>
+      <br>
+    </td>
+    <td>
+      Liệt kê vài hành động tiêu biểu<br>
+      Không cần theo trình tự thời gian<br>
+    </td>
+  </tr>
+  
+</table>
 
 ## 11.2. Nối câu
 A(<del>い</del>) + __くて__ => A1 __くて__, A2 __くて__, ..., An。

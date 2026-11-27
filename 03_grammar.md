@@ -1190,6 +1190,19 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
       Nói về những thứ chắc chắn dựa trên nguyên cớ khách quan.<br>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      V thể thông thường + ようです。<br>
+      Aい thể thông thường + ようです。<br>
+      Aな thể thông thường (だ->な) + ようです。<br>
+      N thể thông thường (だ->の) + ようです。<br>
+    </td>
+    <td>
+      Hình như ...<br>
+      Phán đoán chủ quan từ tất cả các giác quan<br>
+    </td>
+  </tr>
   
 </table>
 
@@ -1485,12 +1498,8 @@ Vた + ところです。(Vừa mới ... xong ...)
 
 Vた + ばかりです。(Vừa mới ..., chưa được bao lâu đã thế nào đó)
 
-Vる/Vない/Aい/Aな/Nの + はずです。(Chắc chắn là ...)
-
 # 47.
 Thể thông thường + そうです。(Nghe nói là ...)
-
-Thể thông thường(Aな/Nの) + ようです。(Hình như ..., phán đoán dựa trên thông tin)
 
 こえ/おと/にお/おじ + します。(Có tiếng nói/âm thanh/mùi vị/...)
 

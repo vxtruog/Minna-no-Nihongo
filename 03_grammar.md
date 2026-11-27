@@ -823,21 +823,6 @@ N1 (の中) + __で__ + từ để hỏi + __が__ + __いちばん__　+ A + �
 Từ để hỏi có thể là なに, だれ, どこ, いつ,...
 ```
 
-# 7. Mẫu câu giao tiếp với động từ
-Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
-
-V + ませんか。  (mời/rủ ai đó cùng làm một việc)
-
-V + ましょう。  (đề nghị cùng làm một việc)
-
-V + ましょうか。(để tôi làm V cho nhé/hãy cùng làm nhé)
-
-__もう__ + Vましたか。(đã làm V chưa)
-```
-＝> はい、もう Vました。(vâng, đã làm xong rồi)
-＝> いいえ、まだです。(không, vẫn chưa)
-```
-
 # 11. Liệt kê và nối câu
 ## 11.1. Liệt kê
 <table>
@@ -1167,7 +1152,7 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
       V<del>ます</del> + そうです。<br>
     </td>
     <td>
-      (Có vẻ sắp V)<br>
+      Có vẻ sắp V<br>
       Thường đi kèm với các phó từ いまにも, もうすぐ, これから, ...<br>
     </td>
   </tr>
@@ -1183,8 +1168,34 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
       Không dùng với những tính từ thể hiện tính chất quá rõ ràng<br>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      Thể thông thường(bỏ だ）+ かもしれません。<br>
+      <br>
+    </td>
+    <td>
+      Không biết chừng là ....<br>
+      Nói về một tình huống ít có khả năng xảy ra<br>
+    </td>
+  </tr>
   
 </table>
+
+# 7. Mẫu câu giao tiếp với động từ
+Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
+
+V + ませんか。  (mời/rủ ai đó cùng làm một việc)
+
+V + ましょう。  (đề nghị cùng làm một việc)
+
+V + ましょうか。(để tôi làm V cho nhé/hãy cùng làm nhé)
+
+__もう__ + Vましたか。(đã làm V chưa)
+```
+＝> はい、もう Vました。(vâng, đã làm xong rồi)
+＝> いいえ、まだです。(không, vẫn chưa)
+```
 
 # 8. Câu có tính từ
 S + は + thời và thể của tính từ。
@@ -1366,8 +1377,6 @@ Vる/Nの + 予定です。(Dự định, kế hoạch làm gì)
 
 # 31. Khuyên nhủ
 Vた/Vない + ほうがいいです。(Nên/Không nên làm V)
-
-TTT + かもしれません。(Không biết chừng là ..., nói về một tình huống ít có khả năng xảy ra)
 
 # 32. 
 Thể mệnh lệnh: dùng để bắt buộc ai đó phải thực hiện hành vi nào đó.

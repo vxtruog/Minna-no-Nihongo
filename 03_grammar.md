@@ -805,6 +805,8 @@ N + は + __どこに__ + ありますか/いますか。
 
 N_địa điểm + で + N_sự kiện + が + あります。(N_sự kiện được tổ chức/xảy ra ở N_địa điểm)
 
+こえ/おと/あじ + します。(Có tiếng nói/âm thanh/mùi vị/...)
+
 # 10. Câu so sánh
 N1 + __は__　+ N2 + __より__ + A + です。(N1 thì A hơn N2.)
 
@@ -1303,8 +1305,6 @@ N_tình huống + で + V。(Diễn ra việc gì đó trong tình huống N)
 
 N + でも + V。(Làm gì đó như N chẳng hạn)
 
-Thể thông thường + そうです。(Nghe nói là ...)
-
 # 23. Bổ nghĩa
 ## 23.1. Bổ nghĩa cho động từ
 Aい => Aく + V
@@ -1423,6 +1423,8 @@ Thể cấm chỉ: Vる + な. dùng để ra lệnh cho ai đó không được
 
 "Câu"/TTT + と伝いて いました。(Ai đó đã nói là ...)
 
+Thể thông thường + そうです。(Nghe nói là ...)
+
 # 36. 
 Vる/Vない + ようにします。(cố gắng, nỗ lực làm gì đó theo chiều hướng tốt lên)
 
@@ -1499,10 +1501,6 @@ Vている + ところです。(Đang/đúng vào lúc đang ..., nhấn mạnh 
 Vた + ところです。(Vừa mới ... xong ...)
 
 Vた + ばかりです。(Vừa mới ..., chưa được bao lâu đã thế nào đó)
-
-# 47.
-
-こえ/おと/にお/おじ + します。(Có tiếng nói/âm thanh/mùi vị/...)
 
 # 48. Thể sai khiến 
 Câu có chứa động từ thể sai khiến bắt buộc phải có 1 trợ từ を và chỉ được phép có 1 trợ từ を.

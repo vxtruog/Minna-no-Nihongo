@@ -1303,6 +1303,8 @@ N_tình huống + で + V。(Diễn ra việc gì đó trong tình huống N)
 
 N + でも + V。(Làm gì đó như N chẳng hạn)
 
+Thể thông thường + そうです。(Nghe nói là ...)
+
 # 23. Bổ nghĩa
 ## 23.1. Bổ nghĩa cho động từ
 Aい => Aく + V
@@ -1499,7 +1501,6 @@ Vた + ところです。(Vừa mới ... xong ...)
 Vた + ばかりです。(Vừa mới ..., chưa được bao lâu đã thế nào đó)
 
 # 47.
-Thể thông thường + そうです。(Nghe nói là ...)
 
 こえ/おと/にお/おじ + します。(Có tiếng nói/âm thanh/mùi vị/...)
 

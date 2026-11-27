@@ -1224,8 +1224,8 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
   
   <tr>
     <td>
-      N + を + A(<del>い</del>) + く + します。
-      N + を + A(<del>な</del>) + に + します。
+      N + を + A(<del>い</del>) + く + します。<br>
+      N + を + A(<del>な</del>) + に + します。<br>
       N + を + N + に + します。<br>
     </td>
     <td>

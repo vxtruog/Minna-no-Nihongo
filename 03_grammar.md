@@ -1100,7 +1100,7 @@ TTT + __し__, TTT + __し__, ...
   
 </table>
 
-## 12.6. Thời gian
+## 12.6. Trình tự/Thời gian
 Aい/Aな/Nの/V_thể thông thường + __とき__、vế 2. (Khi ... thì vế 2)
 
 ... どうしますか。(... thì làm như thế nào)
@@ -1115,11 +1115,7 @@ V1て + __から__, V2ます。(Sau khi làm V1 thì làm V2, V1 phải hoàn th
 
 V1(bỏ ます）+ __ながら__, V2ます。(Vừa làm V1, vừa làm V2, V2 là hành động chính, cùng một chủ thể)
 
-## 12.7. Trình tự
-## 12.8. Đồng thời
-## 12.9. Liệt kê - bổ sung
-
-# 8. Nghĩa vụ, lời khuyên, cấm đoán và cho phép
+# 13. Nghĩa vụ, lời khuyên, cấm đoán và cho phép
 (ぜひ) Vて ください。 (Hãy làm V nhé)
 
 Vて + くださいませんか。(xin hãy giúp tôi, lịch sự hơn Vて + ください, nhưng không bằng Vて + いただけませんか)
@@ -1141,6 +1137,54 @@ Vないと いけません。(Phải làm V, hội thoại, nói rút gọn là 
 Vなくて もいいです。(Không cần làm V)
 
 TTT + んですが、từ để hỏi + Vたらいいですか。(vì ... nên làm thế nào thì tốt?, xin lời khuyên)
+
+# 14. Nghĩ rằng, phỏng đoán
+## 14.1. Nghĩ rằng
+N + に + ついて + どう  おもいますか。(Bạn nghĩ như thế nào về vấn đề N?)
+
+Thể thông thường + __と__ + おもいます。(Tôi nghĩ là ...)
+
+Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ là ... không ...)
+
+Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
+
+N + __について__ + V。 （Làm gì đó liên quan đến N）
+
+## 14.2. Phỏng đoán
+<table>
+  <tr>
+    <td>
+      Thể thông thường(bỏ だ） + でしょう。<br>
+    </td>
+    <td>
+      ... phải không?<br>
+      Phỏng đoán dựa trên thông tin, xác nhận lại<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      V<del>ます</del> + そうです。<br>
+    </td>
+    <td>
+      (Có vẻ sắp V)<br>
+      Thường đi kèm với các phó từ いまにも, もうすぐ, これから, ...<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      A(<del>い</del>) + そうです。<br>
+      A(<del>な</del>) + そうです。<br>
+    </td>
+    <td>
+      Có vẻ ...<br>
+      Nhìn bằng mắt và đưa ra phán đoán chứ chưa thử trực tiếp<br>
+      Không dùng với những tính từ thể hiện tính chất quá rõ ràng<br>
+    </td>
+  </tr>
+  
+</table>
 
 # 8. Câu có tính từ
 S + は + thời và thể của tính từ。
@@ -1207,18 +1251,7 @@ có chủ ý
 
 (Thể khả năng), Vなく + ように なります。(Trở nên không thể ..., biến đổi trạng thái từ có thành không)
 
-# 21. Nghĩ rằng, phỏng đoán
-N + に + ついて + どう  おもいますか。(Bạn nghĩ như thế nào về vấn đề N?)
 
-Thể thông thường + __と__ + おもいます。(Tôi nghĩ là ...)
-
-Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ là ... không ...)
-
-Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
-
-N + __について__ + V。 （Làm gì đó liên quan đến N）
-
-Thể thông thường + でしょう。(... phải không? => phỏng đoán, xác nhận lại)
 
 # 22. Trích dẫn câu nói
 ... + なん + と + 言いますか。(... thì nói điều gì?)
@@ -1334,8 +1367,6 @@ Vる/Nの + 予定です。(Dự định, kế hoạch làm gì)
 # 31. Khuyên nhủ
 Vた/Vない + ほうがいいです。(Nên/Không nên làm V)
 
-TTT + でしょう。(Có lẽ ..., phỏng đoán dựa trên thông tin)
-
 TTT + かもしれません。(Không biết chừng là ..., nói về một tình huống ít có khả năng xảy ra)
 
 # 32. 
@@ -1407,16 +1438,6 @@ Lượng từ は thêm vào sau lượng từ biểu thị mức độ tối th
 Lượng từ も thêm vào sau lượng từ biểu thị rằng người nói cảm nhận con số hoặc số lượng đó là nhiều
 
 # 43. 
-Vます (bỏ ます) + そうです。(Có vẻ sắp ...)
-```
-Thường đi kèm với các phó từ いまにも, もうすぐ, これから, ...
-```
-
-Aい (bỏ い)/ Aな (bỏ な) + そうです。(Có vẻ ...)
-```
-Nhìn bằng mắt và đưa ra phán đoán chứ chưa thử trực tiếp
-Không dùng với những tính từ thể hiện tính chất quá rõ ràng
-```
 
 Vて 来ます。(Làm gì đó rồi quay lại)
 

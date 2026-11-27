@@ -1208,6 +1208,56 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
   
 </table>
 
+# 15. Trở nên, trở thành
+<table>
+  <tr>
+    <td>
+      A(<del>い</del>）+ く + なります。<br>
+      A(<del>な</del>) + に + なります。<br>
+      N + に + なります。<br>
+    </td>
+    <td>
+      Trở nên, trở thành ...<br>
+      Do tự nhiên<br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      N + を + A(<del>い</del>) + く + します。
+      N + を + A(<del>な</del>) + に + します。
+      N + を + N + に + します。<br>
+    </td>
+    <td>
+      Làm cho trở thành ...<br>
+      Do ý chí và chủ ý<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      (Thể khả năng), Vる + ように　なります。<br>
+      <br>
+    </td>
+    <td>
+      Trở nên có thể ...<br>
+      Biến đổi trạng thái từ không thành có<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      (Thể khả năng), Vなく + なります。<br>
+      <br>
+    </td>
+    <td>
+      Trở nên không thể ...<br>
+      Biến đổi trạng thái từ có thành không<br>
+    </td>
+  </tr>
+  
+</table>
+
 # 7. Mẫu câu giao tiếp với động từ
 Từ để hỏi + __も__ +　__Vません__。(không __ gì cả)
 
@@ -1269,26 +1319,6 @@ Vた ことが あります。(đã từng làm V, trải nghiệm nhưng ít x�
 Vた ことが ありません。(chưa từng làm V)
 
 Vた ことが ありますか。(đã từng làm V chưa?)
-
-# 20. Trở nên, trở thành
-A(bỏ い) + く + なります。
-
-A(bỏ な) + に + なります。
-
-N + に + なります。
-
-=> thể thông thường ... なる。
-
-Nを + Aい (bỏ い) thêm く/ Aな (bỏ な) thêm に/ Nに + します。(Làm cho trở thành ...)
-```
-có chủ ý
-```
-
-(Thể khả năng), Vる + ように　なります。(Trở nên có thể ..., biến đổi trạng thái từ không thành có)
-
-(Thể khả năng), Vなく + ように なります。(Trở nên không thể ..., biến đổi trạng thái từ có thành không)
-
-
 
 # 22. Trích dẫn câu nói
 ... + なん + と + 言いますか。(... thì nói điều gì?)

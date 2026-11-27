@@ -1127,11 +1127,11 @@ TTT + んですが、từ để hỏi + Vたらいいですか。(vì ... nên l
 ## 14.1. Nghĩ rằng
 N + に + ついて + どう  おもいますか。(Bạn nghĩ như thế nào về vấn đề N?)
 
-Thể thông thường + __と__ + おもいます。(Tôi nghĩ là ...)
+└──── Thể thông thường + __と__ + おもいます。(Tôi nghĩ là ...)
 
-Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ là ... không ...)
+└──── Thể thông thường phủ định + __と__ + おもいます。(Tôi nghĩ là ... không ...)
 
-Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
+└──── Thể thông thường + __と__ + おもいません。(Tôi không nghĩ là ...)
 
 N + __について__ + V。 （Làm gì đó liên quan đến N）
 
@@ -1139,7 +1139,7 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
 <table>
   <tr>
     <td>
-      Thể thông thường(bỏ だ） + でしょう。<br>
+      Thể thông thường(<del>だ</del>） + でしょう。<br>
     </td>
     <td>
       ... phải không?<br>
@@ -1171,7 +1171,7 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
 
   <tr>
     <td>
-      Thể thông thường(bỏ だ）+ かもしれません。<br>
+      Thể thông thường(<del>だ</del>）+ かもしれません。<br>
       <br>
     </td>
     <td>

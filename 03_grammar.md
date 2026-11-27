@@ -1179,6 +1179,17 @@ N + __について__ + V。 （Làm gì đó liên quan đến N）
       Nói về một tình huống ít có khả năng xảy ra<br>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      Vる/Vない + はずです。<br>
+      Aい/Aな/Nの + はずです。<br>
+    </td>
+    <td>
+      Chắc chắn là ....<br>
+      Nói về những thứ chắc chắn dựa trên nguyên cớ khách quan.<br>
+    </td>
+  </tr>
   
 </table>
 
